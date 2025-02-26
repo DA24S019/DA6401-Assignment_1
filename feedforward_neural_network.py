@@ -1,8 +1,7 @@
 import numpy as np
+from Backpropagation_Algorithms import SGD, Momentum, NAG
 
 ''' Class for activation functions and their derivatives '''
-import numpy as np
-
 class ActivationFunction:
     ''' Sigmoid function '''
     @staticmethod
@@ -65,17 +64,21 @@ class WeightAndBiasInitializer:
 
 ''' Feedforward Neural Network Implementation '''
 class FeedforwardNeuralNetwork:
-    def __init__(self, layer_sizes, activation="sigmoid", init_method="random", learning_rate=0.1):
+    def __init__(self, layer_sizes, activation="sigmoid", init_method="random", learning_rate=0.1, optimizer=None):
         self.layer_sizes = layer_sizes
         self.learning_rate = learning_rate
-        self.activations = ActivationFunction()
         self.wab = WeightAndBiasInitializer(layer_sizes, init_method)
+        self.optimizer = optimizer if optimizer else SGD(learning_rate)  # Default to SGD
+        activation_functions = {
+            "sigmoid": ActivationFunction.sigmoid,
+            "tanh": ActivationFunction.tanh,
+            "relu": ActivationFunction.relu
+        }
 
-        # Ensure the activation function exists
-        if hasattr(self.activations, activation):
-            self.activation_func = getattr(self.activations, activation)
-        else:
-            raise ValueError(f"Activation function '{activation}' not found.")
+        if activation not in activation_functions:
+            raise ValueError(f"Unsupported activation function '{activation}'. Choose from {list(activation_functions.keys())}.")
+        
+        self.activation_func = activation_functions[activation]  # Assign correct activation function
 
     ''' Forward Propagation '''
     def forwardProp(self, X):
@@ -98,22 +101,17 @@ class FeedforwardNeuralNetwork:
     ''' Backward Propagation '''
     def backwardProp(self, X, Y):
         m = X.shape[0]
-        dA = self.A[-1] - Y  # Softmax + Cross-Entropy Loss derivative
+        dA = self.A[-1] - Y
+        dW, db = [], []
 
         for i in reversed(range(len(self.wab.weights))):
-            if i == len(self.wab.weights) - 1:
-                dZ = dA  # For softmax, dZ = dA
-            else:
-                dZ = dA * self.activation_func(self.Z[i], derivative=True)
-
-            dW = np.dot(self.A[i].T, dZ) / m
-            db = np.sum(dZ, axis=0, keepdims=True) / m
+            dZ = dA if i == len(self.wab.weights) - 1 else dA * self.activation_func(self.Z[i], derivative=True)
+            dW.insert(0, np.dot(self.A[i].T, dZ) / m)
+            db.insert(0, np.sum(dZ, axis=0, keepdims=True) / m)
             dA = np.dot(dZ, self.wab.weights[i].T)
 
-            # Update weights
-            self.wab.weights[i] -= self.learning_rate * dW
-            self.wab.biases[i] -= self.learning_rate * db
-
+        self.optimizer.update(self.wab.weights, self.wab.biases, dW, db)
+        
     ''' Train the network '''
     def train(self, X, Y, epochs=10):
         for epoch in range(epochs):
