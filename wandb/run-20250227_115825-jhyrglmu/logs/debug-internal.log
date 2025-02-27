@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:58:25.243162223+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_115825-jhyrglmu/logs/debug-core.log"}
+{"time":"2025-02-27T11:58:25.347339324+05:30","level":"INFO","msg":"created new stream","id":"jhyrglmu"}
+{"time":"2025-02-27T11:58:25.347385287+05:30","level":"INFO","msg":"stream: started","id":"jhyrglmu"}
+{"time":"2025-02-27T11:58:25.347410565+05:30","level":"INFO","msg":"handler: started","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:58:25.347454163+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:58:25.34745789+05:30","level":"INFO","msg":"sender: started","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:58:25.669665192+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:59:37.403412584+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:59:37.405881108+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:59:38.407988718+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.392537667,"progress":"587.9KB/587.9KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.392529246,"progress":"125B/125B"},{"desc":"uploading config.yaml","runtime_seconds":0.110354847,"progress":"865B/865B"}],"total_operations":3}}
+{"time":"2025-02-27T11:59:40.632406699+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:59:41.997286136+05:30","level":"INFO","msg":"stream: closing","id":"jhyrglmu"}
+{"time":"2025-02-27T11:59:41.997316716+05:30","level":"INFO","msg":"handler: closed","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:59:41.997330853+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:59:41.997340057+05:30","level":"INFO","msg":"sender: closed","stream_id":"jhyrglmu"}
+{"time":"2025-02-27T11:59:41.997389484+05:30","level":"INFO","msg":"stream: closed","id":"jhyrglmu"}

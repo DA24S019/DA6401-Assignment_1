@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:57:58.434951413+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_115758-wy5fme2h/logs/debug-core.log"}
+{"time":"2025-02-27T11:57:58.538300147+05:30","level":"INFO","msg":"created new stream","id":"wy5fme2h"}
+{"time":"2025-02-27T11:57:58.538333458+05:30","level":"INFO","msg":"stream: started","id":"wy5fme2h"}
+{"time":"2025-02-27T11:57:58.538395709+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:57:58.53840465+05:30","level":"INFO","msg":"sender: started","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:57:58.538508361+05:30","level":"INFO","msg":"handler: started","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:57:58.847582343+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:58:18.387471126+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:58:18.392427884+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:58:19.40043411+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.691724317,"progress":"143.7KB/143.7KB"},{"desc":"uploading config.yaml","runtime_seconds":0.396238397,"progress":"866B/866B"}],"total_operations":2}}
+{"time":"2025-02-27T11:58:19.734689093+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:58:21.093714955+05:30","level":"INFO","msg":"stream: closing","id":"wy5fme2h"}
+{"time":"2025-02-27T11:58:21.093741908+05:30","level":"INFO","msg":"handler: closed","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:58:21.093784567+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:58:21.093785774+05:30","level":"INFO","msg":"sender: closed","stream_id":"wy5fme2h"}
+{"time":"2025-02-27T11:58:21.093854881+05:30","level":"INFO","msg":"stream: closed","id":"wy5fme2h"}

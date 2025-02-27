@@ -1,0 +1,16 @@
+{"time":"2025-02-27T14:31:02.948686678+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_143102-hdl29mic/logs/debug-core.log"}
+{"time":"2025-02-27T14:31:03.053243224+05:30","level":"INFO","msg":"created new stream","id":"hdl29mic"}
+{"time":"2025-02-27T14:31:03.053265154+05:30","level":"INFO","msg":"stream: started","id":"hdl29mic"}
+{"time":"2025-02-27T14:31:03.053302858+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:31:03.053312107+05:30","level":"INFO","msg":"handler: started","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:31:03.053349854+05:30","level":"INFO","msg":"sender: started","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:31:03.390590472+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T14:36:47.323856847+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T14:36:47.32444238+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T14:36:48.329710298+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.393750261,"progress":"600.8KB/600.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.393743807,"progress":"128B/128B"},{"desc":"uploading config.yaml","runtime_seconds":0.095190603,"progress":"862B/862B"}],"total_operations":3}}
+{"time":"2025-02-27T14:36:49.802645674+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T14:36:51.113962645+05:30","level":"INFO","msg":"stream: closing","id":"hdl29mic"}
+{"time":"2025-02-27T14:36:51.114009245+05:30","level":"INFO","msg":"handler: closed","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:36:51.114029759+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:36:51.114054625+05:30","level":"INFO","msg":"sender: closed","stream_id":"hdl29mic"}
+{"time":"2025-02-27T14:36:51.114120977+05:30","level":"INFO","msg":"stream: closed","id":"hdl29mic"}

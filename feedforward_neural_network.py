@@ -1,39 +1,38 @@
 import numpy as np
-from Backpropagation_Algorithms import SGD, Momentum, NAG
+from Backpropagation_Algorithms import SGD, Momentum, NAG, RMSprop, Adam, Nadam
 
 ''' Class for activation functions and their derivatives '''
 class ActivationFunction:
     ''' Sigmoid function '''
     @staticmethod
     def sigmoid(x, derivative=False):
-        x = np.array(x)  
-        sig = 1 / (1 + np.exp(-x))  
+        x = np.array(x)
+        sig = 1 / (1 + np.exp(-x))
         return sig * (1 - sig) if derivative else sig
 
     ''' Tanh function '''
     @staticmethod
     def tanh(x, derivative=False):
         x = np.array(x)
-        th = np.tanh(x)  
+        th = np.tanh(x)
         return 1 - th**2 if derivative else th  
 
     ''' ReLU function '''
     @staticmethod
     def relu(x, derivative=False):
-        x = np.array(x)  
-        return np.where(x > 0, 1.0, 0.0) if derivative else np.maximum(0, x)  
+        x = np.array(x)
+        return np.where(x > 0, 1.0, 0.0) if derivative else np.maximum(0, x)
 
     ''' Softmax function '''
     @staticmethod
     def softmax(x, derivative=False):
         x = np.array(x)
         exp_x = np.exp(x - np.max(x, axis=1, keepdims=True))  # Prevent overflow
-        softmax_x = exp_x / np.sum(exp_x, axis=1, keepdims=True)  
+        softmax_x = exp_x / np.sum(exp_x, axis=1, keepdims=True)
 
         if derivative:
             return softmax_x * (1 - softmax_x)  # Incorrect for full derivative, handled differently
         return softmax_x  
-
 
 
 ''' Initialize weights and biases '''
@@ -64,21 +63,34 @@ class WeightAndBiasInitializer:
 
 ''' Feedforward Neural Network Implementation '''
 class FeedforwardNeuralNetwork:
-    def __init__(self, layer_sizes, activation="sigmoid", init_method="random", learning_rate=0.1, optimizer=None):
+    def __init__(self, layer_sizes, activation="sigmoid", init_method="random", 
+                 learning_rate=0.1, weight_decay=0, batch_size=32, optimizer="sgd"):
         self.layer_sizes = layer_sizes
         self.learning_rate = learning_rate
+        self.weight_decay = weight_decay  # L2 Regularization
+        self.batch_size = batch_size
         self.wab = WeightAndBiasInitializer(layer_sizes, init_method)
-        self.optimizer = optimizer if optimizer else SGD(learning_rate)  # Default to SGD
+        
+        # Optimizer Selection
+        optimizers = {
+            "sgd": SGD(learning_rate),
+            "momentum": Momentum(learning_rate),
+            "nesterov": NAG(learning_rate),
+            "rmsprop": RMSprop(learning_rate),
+            "adam": Adam(learning_rate),
+            "nadam": Nadam(learning_rate)
+        }
+        self.optimizer = optimizers.get(optimizer, SGD(learning_rate))  # Default to SGD
+
+        # Activation function selection
         activation_functions = {
             "sigmoid": ActivationFunction.sigmoid,
             "tanh": ActivationFunction.tanh,
             "relu": ActivationFunction.relu
         }
-
         if activation not in activation_functions:
             raise ValueError(f"Unsupported activation function '{activation}'. Choose from {list(activation_functions.keys())}.")
-        
-        self.activation_func = activation_functions[activation]  # Assign correct activation function
+        self.activation_func = activation_functions[activation]
 
     ''' Forward Propagation '''
     def forwardProp(self, X):
@@ -96,9 +108,8 @@ class FeedforwardNeuralNetwork:
             self.A.append(A)
 
         return self.A[-1]  # Output activations
-  # Output layer activation
 
-    ''' Backward Propagation '''
+    ''' Backward Propagation with L2 Regularization '''
     def backwardProp(self, X, Y):
         m = X.shape[0]
         dA = self.A[-1] - Y
@@ -106,21 +117,45 @@ class FeedforwardNeuralNetwork:
 
         for i in reversed(range(len(self.wab.weights))):
             dZ = dA if i == len(self.wab.weights) - 1 else dA * self.activation_func(self.Z[i], derivative=True)
-            dW.insert(0, np.dot(self.A[i].T, dZ) / m)
-            db.insert(0, np.sum(dZ, axis=0, keepdims=True) / m)
+            dW_i = np.dot(self.A[i].T, dZ) / m
+            db_i = np.sum(dZ, axis=0, keepdims=True) / m
+
+            # Apply L2 Regularization
+            dW_i += (self.weight_decay / m) * self.wab.weights[i]
+
+            dW.insert(0, dW_i)
+            db.insert(0, db_i)
             dA = np.dot(dZ, self.wab.weights[i].T)
 
         self.optimizer.update(self.wab.weights, self.wab.biases, dW, db)
-        
-    ''' Train the network '''
-    def train(self, X, Y, epochs=10):
+
+    ''' Train the network with Mini-batch Gradient Descent '''
+    def train(self, X, Y, epochs=10, batch_size=32):
+        m = X.shape[0]  # Total number of training samples
+
         for epoch in range(epochs):
-            output = self.forwardProp(X)
-            self.backwardProp(X, Y)
-            loss = -np.mean(Y * np.log(output + 1e-8))  # Cross-entropy loss
-            print(f"Epoch {epoch+1}/{epochs}, Loss: {loss:.4f}")
+            indices = np.arange(m)
+            np.random.shuffle(indices)  # Shuffle training data each epoch
+        
+            for i in range(0, m, batch_size):
+                batch_indices = indices[i : i + batch_size]
+                X_batch = X[batch_indices]  # Select batch from input
+                Y_batch = Y[batch_indices]  # Select batch from labels
+
+                output = self.forwardProp(X_batch)  # Forward pass
+                self.backwardProp(X_batch, Y_batch)  # Backpropagation
+            
+                loss = -np.mean(Y_batch * np.log(output + 1e-8))  # Compute batch loss
+                print(f"Epoch {epoch+1}/{epochs}, Batch {i//batch_size+1}, Loss: {loss:.4f}")
 
     ''' Predict class labels '''
     def predict(self, X):
         output = self.forwardProp(X)
         return np.argmax(output, axis=1)  # Return class index with max probability
+    
+
+    def compute_loss(self, X, Y):
+        """Compute cross-entropy loss"""
+        output = self.forwardProp(X)
+        loss = -np.mean(Y * np.log(output + 1e-8))  # Cross-entropy loss
+        return loss

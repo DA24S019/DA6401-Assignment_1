@@ -1,0 +1,16 @@
+{"time":"2025-02-27T13:36:40.834291151+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_133640-t8t90znq/logs/debug-core.log"}
+{"time":"2025-02-27T13:36:40.940068735+05:30","level":"INFO","msg":"created new stream","id":"t8t90znq"}
+{"time":"2025-02-27T13:36:40.940124597+05:30","level":"INFO","msg":"stream: started","id":"t8t90znq"}
+{"time":"2025-02-27T13:36:40.940205921+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:36:40.940211302+05:30","level":"INFO","msg":"handler: started","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:36:40.940229268+05:30","level":"INFO","msg":"sender: started","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:36:41.288112341+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T13:40:06.10562848+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T13:40:06.108022665+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T13:40:07.111717971+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.41856634,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.130830041,"progress":"866B/866B"}],"total_operations":2}}
+{"time":"2025-02-27T13:40:08.254328029+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T13:40:09.572287832+05:30","level":"INFO","msg":"stream: closing","id":"t8t90znq"}
+{"time":"2025-02-27T13:40:09.572309562+05:30","level":"INFO","msg":"handler: closed","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:40:09.57232289+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:40:09.572330237+05:30","level":"INFO","msg":"sender: closed","stream_id":"t8t90znq"}
+{"time":"2025-02-27T13:40:09.572412463+05:30","level":"INFO","msg":"stream: closed","id":"t8t90znq"}

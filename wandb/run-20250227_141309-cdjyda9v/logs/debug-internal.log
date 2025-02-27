@@ -1,0 +1,16 @@
+{"time":"2025-02-27T14:13:09.02456242+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_141309-cdjyda9v/logs/debug-core.log"}
+{"time":"2025-02-27T14:13:09.128214949+05:30","level":"INFO","msg":"created new stream","id":"cdjyda9v"}
+{"time":"2025-02-27T14:13:09.128263799+05:30","level":"INFO","msg":"stream: started","id":"cdjyda9v"}
+{"time":"2025-02-27T14:13:09.128280661+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:13:09.128287645+05:30","level":"INFO","msg":"sender: started","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:13:09.128350334+05:30","level":"INFO","msg":"handler: started","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:13:09.511008453+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T14:15:48.26135041+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T14:15:48.26195365+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T14:15:49.265274255+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.409688283,"progress":"291.3KB/291.3KB"},{"desc":"uploading config.yaml","runtime_seconds":0.102556666,"progress":"863B/863B"}],"total_operations":2}}
+{"time":"2025-02-27T14:15:50.379607345+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T14:15:51.726121622+05:30","level":"INFO","msg":"stream: closing","id":"cdjyda9v"}
+{"time":"2025-02-27T14:15:51.726140334+05:30","level":"INFO","msg":"handler: closed","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:15:51.72617752+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:15:51.726258029+05:30","level":"INFO","msg":"sender: closed","stream_id":"cdjyda9v"}
+{"time":"2025-02-27T14:15:51.726298168+05:30","level":"INFO","msg":"stream: closed","id":"cdjyda9v"}

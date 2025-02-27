@@ -1,0 +1,98 @@
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_setup.py:_flush():67] Configure stats pid to 54310
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_setup.py:_flush():67] Loading settings from /home/user/.config/wandb/settings
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_setup.py:_flush():67] Loading settings from /home/user/Documents/Books/DA24S019_Assignment_1/wandb/settings
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_135131-evlv73f0/logs/debug.log
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_135131-evlv73f0/logs/debug-internal.log
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7d7f4399c560>
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():761] calling init triggers
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 5, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 5, 'optimizer': 'rmsprop', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():784] starting backend
+2025-02-27 13:51:31,570 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():788] sending inform_init request
+2025-02-27 13:51:31,571 INFO    Thread-39 (_run_job):54310 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-27 13:51:31,571 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():803] backend started and connected
+2025-02-27 13:51:31,575 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 32, 'epochs': 5, 'hidden_layer_size': 128, 'learning_rate': 0.001, 'num_hidden_layers': 5, 'optimizer': 'rmsprop', 'weight_decay': 0.5, 'weight_init': 'xavier'}
+2025-02-27 13:51:31,577 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-02-27 13:51:31,577 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-02-27 13:51:31,577 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():896] updated telemetry
+2025-02-27 13:51:31,584 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-02-27 13:51:32,075 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():995] starting run threads in backend
+2025-02-27 13:51:32,471 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_console_start():2377] atexit reg
+2025-02-27 13:51:32,471 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-02-27 13:51:32,471 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-02-27 13:51:32,471 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-02-27 13:51:32,472 INFO    Thread-39 (_run_job):54310 [wandb_init.py:init():1037] run started, returning control to user process
+2025-02-27 13:54:58,843 INFO    MainThread:54310 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-27 13:54:58,843 INFO    MainThread:54310 [wandb_init.py:_pause_backend():564] pausing backend
+2025-02-27 13:55:02,640 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_finish():2112] finishing run da24s019-indian-institute-of-technology-madras/Fashion-MNIST-Sweep/evlv73f0
+2025-02-27 13:55:02,641 INFO    Thread-39 (_run_job):54310 [jupyter.py:save_history():458] not saving jupyter history
+2025-02-27 13:55:02,641 INFO    Thread-39 (_run_job):54310 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-27 13:55:02,641 INFO    Thread-39 (_run_job):54310 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-02-27 13:55:02,642 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 1
+2025-02-27 13:55:02,642 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_restore():2324] restore
+2025-02-27 13:55:02,642 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_restore():2330] restore done
+2025-02-27 13:55:02,644 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_restore():2324] restore
+2025-02-27 13:55:02,644 INFO    Thread-39 (_run_job):54310 [wandb_run.py:_restore():2330] restore done
+2025-02-27 13:55:02,645 ERROR   Thread-39 (_run_job):54310 [wandb_run.py:_atexit_cleanup():2363] Problem finishing run
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "/tmp/ipykernel_54310/2311894660.py", line 18, in train_sweep
+    nn.train(X_train, y_train_onehot, epochs=config.epochs, batch_size=config.batch_size)
+  File "/home/user/Documents/Books/DA24S019_Assignment_1/feedforward_neural_network.py", line 149, in train
+    print(f"Epoch {epoch+1}/{epochs}, Batch {i//batch_size+1}, Loss: {loss:.4f}")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/redirect.py", line 645, in write
+    self._old_write(data)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 662, in write
+    self._schedule_flush()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 559, in _schedule_flush
+    self.pub_thread.schedule(_schedule_in_thread)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 266, in schedule
+    self._event_pipe.send(b"")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/zmq/sugar/socket.py", line 696, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "zmq/backend/cython/socket.pyx", line 742, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 783, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 138, in zmq.backend.cython.socket._check_closed
+zmq.error.ZMQError: Socket operation on non-socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2354, in _atexit_cleanup
+    self._on_finish()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2606, in _on_finish
+    with progress.progress_printer(
+  File "/home/user/anaconda3/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/progress.py", line 92, in progress_printer
+    with printer.dynamic_text() as text_area:
+  File "/home/user/anaconda3/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/printer.py", line 436, in dynamic_text
+    handle = self._ipython_display.display(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/IPython/core/display_functions.py", line 305, in display
+    publish_display_data(data=format_dict, metadata=md_dict, **kwargs)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/IPython/core/display_functions.py", line 93, in publish_display_data
+    display_pub.publish(
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 103, in publish
+    self._flush_streams()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 66, in _flush_streams
+    sys.stdout.flush()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 573, in flush
+    self.pub_thread.schedule(self._flush)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 266, in schedule
+    self._event_pipe.send(b"")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/zmq/sugar/socket.py", line 696, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "zmq/backend/cython/socket.pyx", line 742, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 783, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 138, in zmq.backend.cython.socket._check_closed
+zmq.error.ZMQError: Socket operation on non-socket

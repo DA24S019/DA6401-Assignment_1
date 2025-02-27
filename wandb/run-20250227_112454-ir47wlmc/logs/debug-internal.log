@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:24:54.243369818+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_112454-ir47wlmc/logs/debug-core.log"}
+{"time":"2025-02-27T11:24:54.348319618+05:30","level":"INFO","msg":"created new stream","id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:54.348355184+05:30","level":"INFO","msg":"stream: started","id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:54.348376627+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:54.348440959+05:30","level":"INFO","msg":"sender: started","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:54.348506789+05:30","level":"INFO","msg":"handler: started","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:54.667864572+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:24:54.998624887+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:24:54.999233186+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:24:55.969727929+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.060587841},{"desc":"uploading wandb-summary.json","runtime_seconds":0.060538405,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-02-27T11:24:56.564403516+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:24:57.912504664+05:30","level":"INFO","msg":"stream: closing","id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:57.912557261+05:30","level":"INFO","msg":"handler: closed","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:57.912569743+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:57.912579494+05:30","level":"INFO","msg":"sender: closed","stream_id":"ir47wlmc"}
+{"time":"2025-02-27T11:24:57.912641093+05:30","level":"INFO","msg":"stream: closed","id":"ir47wlmc"}

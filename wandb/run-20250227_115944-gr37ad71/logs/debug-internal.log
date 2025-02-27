@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:59:44.9124492+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_115944-gr37ad71/logs/debug-core.log"}
+{"time":"2025-02-27T11:59:45.016522108+05:30","level":"INFO","msg":"created new stream","id":"gr37ad71"}
+{"time":"2025-02-27T11:59:45.016550981+05:30","level":"INFO","msg":"stream: started","id":"gr37ad71"}
+{"time":"2025-02-27T11:59:45.016576032+05:30","level":"INFO","msg":"handler: started","stream_id":"gr37ad71"}
+{"time":"2025-02-27T11:59:45.016589544+05:30","level":"INFO","msg":"sender: started","stream_id":"gr37ad71"}
+{"time":"2025-02-27T11:59:45.016617334+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gr37ad71"}
+{"time":"2025-02-27T11:59:45.420103417+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T12:00:51.092421665+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T12:00:51.09297252+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T12:00:52.097098809+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.394391826,"progress":"587.9KB/587.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.089014799,"progress":"868B/868B"}],"total_operations":2}}
+{"time":"2025-02-27T12:00:53.355531946+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T12:00:54.702352906+05:30","level":"INFO","msg":"stream: closing","id":"gr37ad71"}
+{"time":"2025-02-27T12:00:54.702377049+05:30","level":"INFO","msg":"handler: closed","stream_id":"gr37ad71"}
+{"time":"2025-02-27T12:00:54.702390451+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gr37ad71"}
+{"time":"2025-02-27T12:00:54.702398973+05:30","level":"INFO","msg":"sender: closed","stream_id":"gr37ad71"}
+{"time":"2025-02-27T12:00:54.702461743+05:30","level":"INFO","msg":"stream: closed","id":"gr37ad71"}

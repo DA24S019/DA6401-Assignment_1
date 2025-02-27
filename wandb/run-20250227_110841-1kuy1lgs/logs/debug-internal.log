@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:08:41.95853129+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_110841-1kuy1lgs/logs/debug-core.log"}
+{"time":"2025-02-27T11:08:42.06504315+05:30","level":"INFO","msg":"created new stream","id":"1kuy1lgs"}
+{"time":"2025-02-27T11:08:42.065096772+05:30","level":"INFO","msg":"stream: started","id":"1kuy1lgs"}
+{"time":"2025-02-27T11:08:42.065128882+05:30","level":"INFO","msg":"handler: started","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:08:42.06516819+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:08:42.065709423+05:30","level":"INFO","msg":"sender: started","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:08:42.411105881+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:10:27.432404186+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:10:27.433082458+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:10:28.4387582+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.350319987,"progress":"600.8KB/600.8KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.350312979,"progress":"26B/26B"},{"desc":"uploading summary, console lines 14406-16879","runtime_seconds":0.278233015},{"desc":"uploading config.yaml","runtime_seconds":0.07992288,"progress":"866B/866B"}],"total_operations":4}}
+{"time":"2025-02-27T11:10:29.739216736+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:10:31.052263514+05:30","level":"INFO","msg":"stream: closing","id":"1kuy1lgs"}
+{"time":"2025-02-27T11:10:31.052304434+05:30","level":"INFO","msg":"handler: closed","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:10:31.052317282+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:10:31.052363865+05:30","level":"INFO","msg":"sender: closed","stream_id":"1kuy1lgs"}
+{"time":"2025-02-27T11:10:31.052374764+05:30","level":"INFO","msg":"stream: closed","id":"1kuy1lgs"}

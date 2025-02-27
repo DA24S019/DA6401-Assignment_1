@@ -1,0 +1,16 @@
+{"time":"2025-02-27T15:38:49.419967673+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_153849-sqxkle6k/logs/debug-core.log"}
+{"time":"2025-02-27T15:38:49.524288563+05:30","level":"INFO","msg":"created new stream","id":"sqxkle6k"}
+{"time":"2025-02-27T15:38:49.524313259+05:30","level":"INFO","msg":"stream: started","id":"sqxkle6k"}
+{"time":"2025-02-27T15:38:49.524359216+05:30","level":"INFO","msg":"sender: started","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:38:49.524358003+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:38:49.524413938+05:30","level":"INFO","msg":"handler: started","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:38:50.059076165+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T15:40:13.921585351+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T15:40:13.922368076+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T15:40:14.926051508+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.40336016,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.113822089,"progress":"864B/864B"}],"total_operations":2}}
+{"time":"2025-02-27T15:40:15.90349486+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T15:40:17.280826884+05:30","level":"INFO","msg":"stream: closing","id":"sqxkle6k"}
+{"time":"2025-02-27T15:40:17.280850138+05:30","level":"INFO","msg":"handler: closed","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:40:17.280860427+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:40:17.280870815+05:30","level":"INFO","msg":"sender: closed","stream_id":"sqxkle6k"}
+{"time":"2025-02-27T15:40:17.280962779+05:30","level":"INFO","msg":"stream: closed","id":"sqxkle6k"}

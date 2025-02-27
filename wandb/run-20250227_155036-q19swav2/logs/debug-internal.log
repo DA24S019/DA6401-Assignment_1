@@ -1,0 +1,16 @@
+{"time":"2025-02-27T15:50:36.822577011+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_155036-q19swav2/logs/debug-core.log"}
+{"time":"2025-02-27T15:50:36.926639044+05:30","level":"INFO","msg":"created new stream","id":"q19swav2"}
+{"time":"2025-02-27T15:50:36.926661206+05:30","level":"INFO","msg":"stream: started","id":"q19swav2"}
+{"time":"2025-02-27T15:50:36.926672714+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:50:36.926706546+05:30","level":"INFO","msg":"sender: started","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:50:36.926738457+05:30","level":"INFO","msg":"handler: started","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:50:37.336799485+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T15:56:59.327503265+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T15:56:59.32816494+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T15:57:00.331884627+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.420325661,"progress":"1.1MB/1.2MB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.420305084,"progress":"126B/126B"},{"desc":"uploading config.yaml","runtime_seconds":0.142754888,"progress":"864B/864B"}],"total_operations":3}}
+{"time":"2025-02-27T15:57:02.088531545+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T15:57:03.430889591+05:30","level":"INFO","msg":"stream: closing","id":"q19swav2"}
+{"time":"2025-02-27T15:57:03.43092515+05:30","level":"INFO","msg":"handler: closed","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:57:03.430940669+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:57:03.430989674+05:30","level":"INFO","msg":"sender: closed","stream_id":"q19swav2"}
+{"time":"2025-02-27T15:57:03.43101325+05:30","level":"INFO","msg":"stream: closed","id":"q19swav2"}

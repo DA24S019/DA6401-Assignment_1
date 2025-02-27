@@ -1,0 +1,16 @@
+{"time":"2025-02-27T15:10:42.51853866+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_151042-rbz1t8zf/logs/debug-core.log"}
+{"time":"2025-02-27T15:10:42.623702427+05:30","level":"INFO","msg":"created new stream","id":"rbz1t8zf"}
+{"time":"2025-02-27T15:10:42.623739814+05:30","level":"INFO","msg":"stream: started","id":"rbz1t8zf"}
+{"time":"2025-02-27T15:10:42.623849091+05:30","level":"INFO","msg":"handler: started","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:10:42.623895606+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:10:42.623925052+05:30","level":"INFO","msg":"sender: started","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:10:42.991938713+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T15:12:06.767437816+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T15:12:06.768165273+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T15:12:07.772043857+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.402333404,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.104901712,"progress":"860B/860B"}],"total_operations":2}}
+{"time":"2025-02-27T15:12:08.888326389+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T15:12:10.208897263+05:30","level":"INFO","msg":"stream: closing","id":"rbz1t8zf"}
+{"time":"2025-02-27T15:12:10.208936996+05:30","level":"INFO","msg":"handler: closed","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:12:10.208964999+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:12:10.208975939+05:30","level":"INFO","msg":"sender: closed","stream_id":"rbz1t8zf"}
+{"time":"2025-02-27T15:12:10.209040795+05:30","level":"INFO","msg":"stream: closed","id":"rbz1t8zf"}

@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:22:33.219468573+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_112233-wv381d5u/logs/debug-core.log"}
+{"time":"2025-02-27T11:22:33.323819144+05:30","level":"INFO","msg":"created new stream","id":"wv381d5u"}
+{"time":"2025-02-27T11:22:33.323851412+05:30","level":"INFO","msg":"stream: started","id":"wv381d5u"}
+{"time":"2025-02-27T11:22:33.323903282+05:30","level":"INFO","msg":"sender: started","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:33.323933256+05:30","level":"INFO","msg":"handler: started","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:33.323946993+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:33.640891967+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:22:33.969802793+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:22:33.970333335+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:22:34.939861919+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.700843665,"progress":"8.5KB/8.5KB"},{"desc":"uploading data","runtime_seconds":0.555864031},{"desc":"updating run config","runtime_seconds":0.383898812},{"desc":"uploading output.log","runtime_seconds":0.060692598,"progress":"956B/956B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.060684793,"progress":"24B/24B"}],"total_operations":5}}
+{"time":"2025-02-27T11:22:36.195066356+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:22:37.536252012+05:30","level":"INFO","msg":"stream: closing","id":"wv381d5u"}
+{"time":"2025-02-27T11:22:37.536295587+05:30","level":"INFO","msg":"handler: closed","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:37.536312274+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:37.536324194+05:30","level":"INFO","msg":"sender: closed","stream_id":"wv381d5u"}
+{"time":"2025-02-27T11:22:37.536416606+05:30","level":"INFO","msg":"stream: closed","id":"wv381d5u"}

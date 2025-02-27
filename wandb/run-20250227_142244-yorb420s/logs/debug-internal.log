@@ -1,0 +1,16 @@
+{"time":"2025-02-27T14:22:45.003412059+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_142244-yorb420s/logs/debug-core.log"}
+{"time":"2025-02-27T14:22:45.107635809+05:30","level":"INFO","msg":"created new stream","id":"yorb420s"}
+{"time":"2025-02-27T14:22:45.107665884+05:30","level":"INFO","msg":"stream: started","id":"yorb420s"}
+{"time":"2025-02-27T14:22:45.107746542+05:30","level":"INFO","msg":"handler: started","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:22:45.107729456+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:22:45.107799282+05:30","level":"INFO","msg":"sender: started","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:22:45.479404457+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T14:24:52.202605287+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T14:24:52.203599126+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T14:24:53.208272654+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.375551611,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.104237813,"progress":"862B/862B"}],"total_operations":2}}
+{"time":"2025-02-27T14:24:54.177573152+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T14:24:55.495893656+05:30","level":"INFO","msg":"stream: closing","id":"yorb420s"}
+{"time":"2025-02-27T14:24:55.495932466+05:30","level":"INFO","msg":"handler: closed","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:24:55.495947087+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:24:55.495959294+05:30","level":"INFO","msg":"sender: closed","stream_id":"yorb420s"}
+{"time":"2025-02-27T14:24:55.496033076+05:30","level":"INFO","msg":"stream: closed","id":"yorb420s"}

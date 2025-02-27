@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:36:25.600932677+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_113625-m658frgu/logs/debug-core.log"}
+{"time":"2025-02-27T11:36:25.704294931+05:30","level":"INFO","msg":"created new stream","id":"m658frgu"}
+{"time":"2025-02-27T11:36:25.704348734+05:30","level":"INFO","msg":"stream: started","id":"m658frgu"}
+{"time":"2025-02-27T11:36:25.704413854+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:36:25.704423766+05:30","level":"INFO","msg":"sender: started","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:36:25.704472119+05:30","level":"INFO","msg":"handler: started","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:36:26.071466957+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:39:14.909653444+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:39:14.910491481+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:39:15.914262679+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.404877549,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.115361824,"progress":"862B/862B"}],"total_operations":2}}
+{"time":"2025-02-27T11:39:16.812173242+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:39:18.1538251+05:30","level":"INFO","msg":"stream: closing","id":"m658frgu"}
+{"time":"2025-02-27T11:39:18.153848898+05:30","level":"INFO","msg":"handler: closed","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:39:18.15386207+05:30","level":"INFO","msg":"sender: closed","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:39:18.153860061+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m658frgu"}
+{"time":"2025-02-27T11:39:18.153931356+05:30","level":"INFO","msg":"stream: closed","id":"m658frgu"}

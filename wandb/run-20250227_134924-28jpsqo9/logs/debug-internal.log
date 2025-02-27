@@ -1,0 +1,16 @@
+{"time":"2025-02-27T13:49:24.047096874+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_134924-28jpsqo9/logs/debug-core.log"}
+{"time":"2025-02-27T13:49:24.152573041+05:30","level":"INFO","msg":"created new stream","id":"28jpsqo9"}
+{"time":"2025-02-27T13:49:24.152622095+05:30","level":"INFO","msg":"stream: started","id":"28jpsqo9"}
+{"time":"2025-02-27T13:49:24.152686604+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:49:24.152697842+05:30","level":"INFO","msg":"handler: started","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:49:24.152730352+05:30","level":"INFO","msg":"sender: started","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:49:24.557103617+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T13:50:20.044502727+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T13:50:20.04541016+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T13:50:21.051916343+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.371027596,"progress":"143.7KB/143.7KB"},{"desc":"uploading config.yaml","runtime_seconds":0.065261165,"progress":"859B/859B"}],"total_operations":2}}
+{"time":"2025-02-27T13:50:22.181575999+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T13:50:23.528015261+05:30","level":"INFO","msg":"stream: closing","id":"28jpsqo9"}
+{"time":"2025-02-27T13:50:23.528060995+05:30","level":"INFO","msg":"handler: closed","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:50:23.528080866+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:50:23.528095337+05:30","level":"INFO","msg":"sender: closed","stream_id":"28jpsqo9"}
+{"time":"2025-02-27T13:50:23.528197843+05:30","level":"INFO","msg":"stream: closed","id":"28jpsqo9"}

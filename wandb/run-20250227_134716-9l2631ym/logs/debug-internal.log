@@ -1,0 +1,17 @@
+{"time":"2025-02-27T13:47:16.909449882+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_134716-9l2631ym/logs/debug-core.log"}
+{"time":"2025-02-27T13:47:17.018950195+05:30","level":"INFO","msg":"created new stream","id":"9l2631ym"}
+{"time":"2025-02-27T13:47:17.018996135+05:30","level":"INFO","msg":"stream: started","id":"9l2631ym"}
+{"time":"2025-02-27T13:47:17.019068308+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:47:17.019085097+05:30","level":"INFO","msg":"sender: started","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:47:17.019134116+05:30","level":"INFO","msg":"handler: started","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:47:17.377035754+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T13:47:47.428851982+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-27T13:49:16.940563261+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T13:49:16.941418911+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T13:49:17.942207159+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.369676234,"progress":"296.5KB/296.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.036395072,"progress":"872B/872B"}],"total_operations":2}}
+{"time":"2025-02-27T13:49:18.894454771+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T13:49:20.237723872+05:30","level":"INFO","msg":"stream: closing","id":"9l2631ym"}
+{"time":"2025-02-27T13:49:20.237753129+05:30","level":"INFO","msg":"handler: closed","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:49:20.237770242+05:30","level":"INFO","msg":"sender: closed","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:49:20.237767141+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9l2631ym"}
+{"time":"2025-02-27T13:49:20.23791368+05:30","level":"INFO","msg":"stream: closed","id":"9l2631ym"}

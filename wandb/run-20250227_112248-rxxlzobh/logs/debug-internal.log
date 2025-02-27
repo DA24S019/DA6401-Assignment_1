@@ -1,0 +1,16 @@
+{"time":"2025-02-27T11:22:48.330079964+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250227_112248-rxxlzobh/logs/debug-core.log"}
+{"time":"2025-02-27T11:22:48.435192001+05:30","level":"INFO","msg":"created new stream","id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:48.435289165+05:30","level":"INFO","msg":"stream: started","id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:48.435376754+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:48.435410035+05:30","level":"INFO","msg":"handler: started","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:48.435386685+05:30","level":"INFO","msg":"sender: started","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:48.95582143+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T11:22:49.283603318+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T11:22:49.284837214+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T11:22:50.250680821+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.019525281,"progress":"956B/956B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.019503187,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-02-27T11:22:50.871468609+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T11:22:52.207579384+05:30","level":"INFO","msg":"stream: closing","id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:52.207602717+05:30","level":"INFO","msg":"handler: closed","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:52.207619038+05:30","level":"INFO","msg":"sender: closed","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:52.207613026+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rxxlzobh"}
+{"time":"2025-02-27T11:22:52.207668899+05:30","level":"INFO","msg":"stream: closed","id":"rxxlzobh"}
