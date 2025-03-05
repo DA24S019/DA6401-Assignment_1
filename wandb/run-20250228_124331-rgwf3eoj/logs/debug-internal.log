@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:43:31.801231344+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124331-rgwf3eoj/logs/debug-core.log"}
+{"time":"2025-02-28T12:43:31.905769292+05:30","level":"INFO","msg":"created new stream","id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:31.905855992+05:30","level":"INFO","msg":"stream: started","id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:31.905909411+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:31.905936417+05:30","level":"INFO","msg":"handler: started","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:31.906009166+05:30","level":"INFO","msg":"sender: started","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:32.256038209+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:43:48.037100593+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:43:48.038973284+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:43:49.04631137+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.696013931,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.34484932,"progress":"865B/865B"}],"total_operations":2}}
+{"time":"2025-02-28T12:43:49.658564216+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:43:50.979067505+05:30","level":"INFO","msg":"stream: closing","id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:50.97909097+05:30","level":"INFO","msg":"handler: closed","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:50.979105801+05:30","level":"INFO","msg":"sender: closed","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:50.979105031+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rgwf3eoj"}
+{"time":"2025-02-28T12:43:50.979172896+05:30","level":"INFO","msg":"stream: closed","id":"rgwf3eoj"}

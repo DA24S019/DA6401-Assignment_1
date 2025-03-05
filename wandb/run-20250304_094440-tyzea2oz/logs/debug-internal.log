@@ -1,0 +1,21 @@
+{"time":"2025-03-04T09:44:40.5858345+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250304_094440-tyzea2oz/logs/debug-core.log"}
+{"time":"2025-03-04T09:44:40.69028439+05:30","level":"INFO","msg":"created new stream","id":"tyzea2oz"}
+{"time":"2025-03-04T09:44:40.690334299+05:30","level":"INFO","msg":"stream: started","id":"tyzea2oz"}
+{"time":"2025-03-04T09:44:40.690422182+05:30","level":"INFO","msg":"sender: started","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:44:40.690404596+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:44:40.690483977+05:30","level":"INFO","msg":"handler: started","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:44:41.021915074+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-04T09:44:50.524006655+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T09:44:59.905233368+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T09:44:59.914596307+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T09:45:01.688241676+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-04T09:45:01.730153267+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-04T09:45:02.891242101+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-04T09:45:02.892941258+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-04T09:45:03.853933681+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-04T09:45:23.802076735+05:30","level":"INFO","msg":"stream: closing","id":"tyzea2oz"}
+{"time":"2025-03-04T09:45:23.802099613+05:30","level":"INFO","msg":"handler: closed","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:45:23.802109847+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:45:23.802124831+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-03-04T09:45:23.802131149+05:30","level":"INFO","msg":"sender: closed","stream_id":"tyzea2oz"}
+{"time":"2025-03-04T09:45:23.802198922+05:30","level":"INFO","msg":"stream: closed","id":"tyzea2oz"}

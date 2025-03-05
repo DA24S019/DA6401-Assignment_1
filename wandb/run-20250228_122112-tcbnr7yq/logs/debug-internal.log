@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:21:12.44264252+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_122112-tcbnr7yq/logs/debug-core.log"}
+{"time":"2025-02-28T12:21:12.54575822+05:30","level":"INFO","msg":"created new stream","id":"tcbnr7yq"}
+{"time":"2025-02-28T12:21:12.545807943+05:30","level":"INFO","msg":"stream: started","id":"tcbnr7yq"}
+{"time":"2025-02-28T12:21:12.545834846+05:30","level":"INFO","msg":"handler: started","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:21:12.545862726+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:21:12.545917362+05:30","level":"INFO","msg":"sender: started","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:21:12.913678095+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:22:02.060264848+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:22:02.061250555+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:22:03.075479656+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.409103432,"progress":"287.4KB/287.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.108414261,"progress":"865B/865B"}],"total_operations":2}}
+{"time":"2025-02-28T12:22:03.972634344+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:22:05.2955417+05:30","level":"INFO","msg":"stream: closing","id":"tcbnr7yq"}
+{"time":"2025-02-28T12:22:05.295567196+05:30","level":"INFO","msg":"handler: closed","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:22:05.29558361+05:30","level":"INFO","msg":"sender: closed","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:22:05.295578471+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tcbnr7yq"}
+{"time":"2025-02-28T12:22:05.295628631+05:30","level":"INFO","msg":"stream: closed","id":"tcbnr7yq"}

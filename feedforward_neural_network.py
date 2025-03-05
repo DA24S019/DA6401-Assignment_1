@@ -136,7 +136,10 @@ class FeedforwardNeuralNetwork:
         for epoch in range(epochs):
             indices = np.arange(m)
             np.random.shuffle(indices)  # Shuffle training data each epoch
-        
+    
+            total_loss = 0
+            correct_predictions = 0
+
             for i in range(0, m, batch_size):
                 batch_indices = indices[i : i + batch_size]
                 X_batch = X[batch_indices]  # Select batch from input
@@ -144,9 +147,20 @@ class FeedforwardNeuralNetwork:
 
                 output = self.forwardProp(X_batch)  # Forward pass
                 self.backwardProp(X_batch, Y_batch)  # Backpropagation
-            
-                loss = -np.mean(Y_batch * np.log(output + 1e-8))  # Compute batch loss
-                print(f"Epoch {epoch+1}/{epochs}, Batch {i//batch_size+1}, Loss: {loss:.4f}")
+        
+                batch_loss = -np.mean(Y_batch * np.log(output + 1e-8))  # Compute batch loss
+                total_loss += batch_loss * len(X_batch)
+
+                predicted_labels = np.argmax(output, axis=1)
+                true_labels = np.argmax(Y_batch, axis=1)
+                correct_predictions += np.sum(predicted_labels == true_labels)
+
+            avg_loss = total_loss / m
+            accuracy = correct_predictions / m
+
+        print(f"Epoch {epoch+1}/{epochs}, Loss: {avg_loss:.4f}, Accuracy: {accuracy:.4f}")
+
+        return avg_loss, accuracy
 
     ''' Predict class labels '''
     def predict(self, X):
@@ -159,3 +173,31 @@ class FeedforwardNeuralNetwork:
         output = self.forwardProp(X)
         loss = -np.mean(Y * np.log(output + 1e-8))  # Cross-entropy loss
         return loss
+    
+
+    def evaluate(self, X, Y):
+        output = self.forwardProp(X)
+        loss = -np.mean(Y * np.log(output + 1e-8))
+        acc = np.mean(np.argmax(output, axis=1) == np.argmax(Y, axis=1))
+        return loss, acc
+    
+    def compute_accuracy(self, X, Y):
+        """
+        Computes accuracy by comparing predicted labels with true labels.
+        """
+        output = self.forwardProp(X)  # Forward pass to get predictions
+        predicted_labels = np.argmax(output, axis=1)
+        true_labels = np.argmax(Y, axis=1)
+        accuracy = np.mean(predicted_labels == true_labels)
+        return accuracy
+    
+
+    def compute_loss(self, X, Y):
+        """
+        Computes the loss using cross-entropy.
+        """
+        output = self.forwardProp(X)
+        loss = -np.mean(Y * np.log(output + 1e-8))
+        return loss
+
+

@@ -1,0 +1,16 @@
+{"time":"2025-03-04T21:04:23.284377423+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250304_210423-ydsif8cg/logs/debug-core.log"}
+{"time":"2025-03-04T21:04:23.388261203+05:30","level":"INFO","msg":"created new stream","id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:23.388287614+05:30","level":"INFO","msg":"stream: started","id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:23.388358025+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:23.388369532+05:30","level":"INFO","msg":"handler: started","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:23.388428301+05:30","level":"INFO","msg":"sender: started","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:23.791276126+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-04T21:04:24.103441949+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-04T21:04:24.103922482+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-04T21:04:25.072830357+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.030259206,"progress":"991B/991B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.030234629,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-04T21:04:25.691369193+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-04T21:04:27.04955934+05:30","level":"INFO","msg":"stream: closing","id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:27.049574088+05:30","level":"INFO","msg":"handler: closed","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:27.04958156+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:27.049592188+05:30","level":"INFO","msg":"sender: closed","stream_id":"ydsif8cg"}
+{"time":"2025-03-04T21:04:27.049644686+05:30","level":"INFO","msg":"stream: closed","id":"ydsif8cg"}

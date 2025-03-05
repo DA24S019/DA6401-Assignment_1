@@ -1,0 +1,6 @@
+Epoch 1/1, Loss: 0.2303, Accuracy: 0.1006
+Epoch 1/1, Loss: 0.2303, Accuracy: 0.0996
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Epoch 1/1, Loss: 0.2303, Accuracy: 0.0977
+Epoch 1/1, Loss: 0.2303, Accuracy: 0.0990
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

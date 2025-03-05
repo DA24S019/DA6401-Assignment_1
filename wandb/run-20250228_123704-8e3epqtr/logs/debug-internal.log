@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:37:04.397788299+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_123704-8e3epqtr/logs/debug-core.log"}
+{"time":"2025-02-28T12:37:04.501836025+05:30","level":"INFO","msg":"created new stream","id":"8e3epqtr"}
+{"time":"2025-02-28T12:37:04.501881817+05:30","level":"INFO","msg":"stream: started","id":"8e3epqtr"}
+{"time":"2025-02-28T12:37:04.501898713+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:37:04.501906409+05:30","level":"INFO","msg":"sender: started","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:37:04.501988799+05:30","level":"INFO","msg":"handler: started","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:37:04.944570369+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:39:29.566360737+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:39:29.566905745+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:39:30.572059078+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.366345419,"progress":"582.6KB/582.6KB"},{"desc":"uploading config.yaml","runtime_seconds":0.038159432,"progress":"861B/861B"}],"total_operations":2}}
+{"time":"2025-02-28T12:39:31.829942862+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:39:33.255607052+05:30","level":"INFO","msg":"stream: closing","id":"8e3epqtr"}
+{"time":"2025-02-28T12:39:33.25564561+05:30","level":"INFO","msg":"handler: closed","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:39:33.255673344+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:39:33.25573662+05:30","level":"INFO","msg":"sender: closed","stream_id":"8e3epqtr"}
+{"time":"2025-02-28T12:39:33.255767768+05:30","level":"INFO","msg":"stream: closed","id":"8e3epqtr"}

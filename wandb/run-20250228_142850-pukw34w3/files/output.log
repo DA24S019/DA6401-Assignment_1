@@ -1,0 +1,5 @@
+Epoch 1/10, Loss: 0.2304, Accuracy: 0.0984
+Epoch 2/10, Loss: 0.2304, Accuracy: 0.1006
+Epoch 3/10, Loss: 0.2305, Accuracy: 0.0979
+Epoch 4/10, Loss: 0.2305, Accuracy: 0.0991
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.

@@ -1,0 +1,17 @@
+{"time":"2025-02-28T12:39:38.037386103+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_123938-vhzc3cdi/logs/debug-core.log"}
+{"time":"2025-02-28T12:39:38.141149423+05:30","level":"INFO","msg":"created new stream","id":"vhzc3cdi"}
+{"time":"2025-02-28T12:39:38.141213715+05:30","level":"INFO","msg":"stream: started","id":"vhzc3cdi"}
+{"time":"2025-02-28T12:39:38.14124379+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:39:38.141540719+05:30","level":"INFO","msg":"handler: started","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:39:38.141244748+05:30","level":"INFO","msg":"sender: started","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:39:38.535001693+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:40:16.08031209+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T12:40:21.825357305+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:40:21.826081201+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:40:23.333623525+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:42:59.020749388+05:30","level":"INFO","msg":"stream: closing","id":"vhzc3cdi"}
+{"time":"2025-02-28T12:42:59.020788686+05:30","level":"INFO","msg":"handler: closed","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:42:59.020959629+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:42:59.021003176+05:30","level":"WARN","msg":"sender: received Exit record more than once, ignoring"}
+{"time":"2025-02-28T12:42:59.021012012+05:30","level":"INFO","msg":"sender: closed","stream_id":"vhzc3cdi"}
+{"time":"2025-02-28T12:42:59.021137888+05:30","level":"INFO","msg":"stream: closed","id":"vhzc3cdi"}

@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:28:12.919669507+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_122812-xnfrzawg/logs/debug-core.log"}
+{"time":"2025-02-28T12:28:13.023790831+05:30","level":"INFO","msg":"created new stream","id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:13.023823539+05:30","level":"INFO","msg":"stream: started","id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:13.023838185+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:13.023972278+05:30","level":"INFO","msg":"handler: started","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:13.023993489+05:30","level":"INFO","msg":"sender: started","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:13.368282403+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:28:49.373294113+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:28:49.374040605+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:28:50.380125115+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.415533219,"progress":"143.7KB/143.7KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.415508115,"progress":"136B/136B"},{"desc":"uploading config.yaml","runtime_seconds":0.141040808,"progress":"865B/865B"}],"total_operations":3}}
+{"time":"2025-02-28T12:28:50.994304935+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:28:52.32788026+05:30","level":"INFO","msg":"stream: closing","id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:52.327911884+05:30","level":"INFO","msg":"handler: closed","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:52.327928805+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:52.327956007+05:30","level":"INFO","msg":"sender: closed","stream_id":"xnfrzawg"}
+{"time":"2025-02-28T12:28:52.327997276+05:30","level":"INFO","msg":"stream: closed","id":"xnfrzawg"}

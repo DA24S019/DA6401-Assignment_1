@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:02:51.162664689+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_120251-lxkjp52x/logs/debug-core.log"}
+{"time":"2025-02-28T12:02:51.267971144+05:30","level":"INFO","msg":"created new stream","id":"lxkjp52x"}
+{"time":"2025-02-28T12:02:51.268034619+05:30","level":"INFO","msg":"stream: started","id":"lxkjp52x"}
+{"time":"2025-02-28T12:02:51.268059849+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:02:51.268073502+05:30","level":"INFO","msg":"sender: started","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:02:51.268145071+05:30","level":"INFO","msg":"handler: started","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:02:51.60279093+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:03:37.211032893+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:03:37.211798804+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:03:38.223717896+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.418600953,"progress":"117.6KB/117.6KB"},{"desc":"uploading config.yaml","runtime_seconds":0.119121402,"progress":"864B/864B"}],"total_operations":2}}
+{"time":"2025-02-28T12:03:38.778767418+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:03:40.088917174+05:30","level":"INFO","msg":"stream: closing","id":"lxkjp52x"}
+{"time":"2025-02-28T12:03:40.088956084+05:30","level":"INFO","msg":"handler: closed","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:03:40.088966474+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:03:40.088979344+05:30","level":"INFO","msg":"sender: closed","stream_id":"lxkjp52x"}
+{"time":"2025-02-28T12:03:40.089048928+05:30","level":"INFO","msg":"stream: closed","id":"lxkjp52x"}

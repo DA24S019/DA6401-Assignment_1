@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:00:32.727146611+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_120032-cvu49dhr/logs/debug-core.log"}
+{"time":"2025-02-28T12:00:32.831923333+05:30","level":"INFO","msg":"created new stream","id":"cvu49dhr"}
+{"time":"2025-02-28T12:00:32.831948371+05:30","level":"INFO","msg":"stream: started","id":"cvu49dhr"}
+{"time":"2025-02-28T12:00:32.831985352+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:00:32.832013702+05:30","level":"INFO","msg":"handler: started","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:00:32.832087097+05:30","level":"INFO","msg":"sender: started","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:00:33.170955793+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:01:04.054067652+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:01:04.054811336+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:01:05.059093983+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.409478448,"progress":"117.6KB/117.6KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.409471725,"progress":"135B/135B"},{"desc":"uploading config.yaml","runtime_seconds":0.125406032,"progress":"866B/866B"}],"total_operations":3}}
+{"time":"2025-02-28T12:01:05.936652042+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:01:07.273712465+05:30","level":"INFO","msg":"stream: closing","id":"cvu49dhr"}
+{"time":"2025-02-28T12:01:07.273744517+05:30","level":"INFO","msg":"handler: closed","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:01:07.273764534+05:30","level":"INFO","msg":"sender: closed","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:01:07.273760161+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cvu49dhr"}
+{"time":"2025-02-28T12:01:07.273826589+05:30","level":"INFO","msg":"stream: closed","id":"cvu49dhr"}

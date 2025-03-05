@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:28:55.444873905+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_122855-szuqp0ms/logs/debug-core.log"}
+{"time":"2025-02-28T12:28:55.549120672+05:30","level":"INFO","msg":"created new stream","id":"szuqp0ms"}
+{"time":"2025-02-28T12:28:55.549175599+05:30","level":"INFO","msg":"stream: started","id":"szuqp0ms"}
+{"time":"2025-02-28T12:28:55.549210352+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:28:55.54933086+05:30","level":"INFO","msg":"handler: started","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:28:55.549328509+05:30","level":"INFO","msg":"sender: started","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:28:55.908932355+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:30:44.311503054+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:30:44.312535633+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:30:45.317465327+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.398354212,"progress":"287.4KB/287.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.106319961,"progress":"863B/863B"}],"total_operations":2}}
+{"time":"2025-02-28T12:30:46.286554027+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:30:47.62898055+05:30","level":"INFO","msg":"stream: closing","id":"szuqp0ms"}
+{"time":"2025-02-28T12:30:47.629020575+05:30","level":"INFO","msg":"handler: closed","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:30:47.629037297+05:30","level":"INFO","msg":"sender: closed","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:30:47.629032541+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"szuqp0ms"}
+{"time":"2025-02-28T12:30:47.629088563+05:30","level":"INFO","msg":"stream: closed","id":"szuqp0ms"}

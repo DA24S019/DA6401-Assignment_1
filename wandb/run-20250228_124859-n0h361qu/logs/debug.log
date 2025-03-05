@@ -1,0 +1,187 @@
+2025-02-28 12:48:59,833 INFO    Thread-18 (_run_job):75972 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_setup.py:_flush():67] Configure stats pid to 75972
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/.config/wandb/settings
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/Documents/Books/DA24S019_Assignment_1/wandb/settings
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124859-n0h361qu/logs/debug.log
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124859-n0h361qu/logs/debug-internal.log
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x715174427da0>
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():761] calling init triggers
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 16, 'epochs': 10, 'hidden_layer_size': 32, 'learning_rate': 0.0001, 'num_hidden_layers': 4, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():784] starting backend
+2025-02-28 12:48:59,834 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():788] sending inform_init request
+2025-02-28 12:48:59,835 INFO    Thread-18 (_run_job):75972 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-28 12:48:59,836 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():803] backend started and connected
+2025-02-28 12:48:59,841 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'tanh', 'batch_size': 16, 'epochs': 10, 'hidden_layer_size': 32, 'learning_rate': 0.0001, 'num_hidden_layers': 4, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'xavier'}
+2025-02-28 12:48:59,842 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-02-28 12:48:59,842 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-02-28 12:48:59,842 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():896] updated telemetry
+2025-02-28 12:48:59,850 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-02-28 12:49:00,328 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():995] starting run threads in backend
+2025-02-28 12:49:00,655 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_console_start():2377] atexit reg
+2025-02-28 12:49:00,655 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-02-28 12:49:00,655 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-02-28 12:49:00,655 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-02-28 12:49:00,656 INFO    Thread-18 (_run_job):75972 [wandb_init.py:init():1037] run started, returning control to user process
+2025-02-28 12:49:03,705 INFO    MainThread:75972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-28 12:49:03,705 INFO    MainThread:75972 [wandb_init.py:_pause_backend():564] pausing backend
+2025-02-28 12:49:04,337 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_finish():2112] finishing run da24s019-indian-institute-of-technology-madras/Fashion-MNIST-Sweep/n0h361qu
+2025-02-28 12:49:04,340 INFO    Thread-18 (_run_job):75972 [jupyter.py:save_history():458] not saving jupyter history
+2025-02-28 12:49:04,340 INFO    Thread-18 (_run_job):75972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-28 12:49:04,340 INFO    Thread-18 (_run_job):75972 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-02-28 12:49:04,340 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 1
+2025-02-28 12:49:04,340 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_restore():2324] restore
+2025-02-28 12:49:04,344 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_restore():2330] restore done
+2025-02-28 12:49:04,347 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_restore():2324] restore
+2025-02-28 12:49:04,347 INFO    Thread-18 (_run_job):75972 [wandb_run.py:_restore():2330] restore done
+2025-02-28 12:49:04,347 ERROR   Thread-18 (_run_job):75972 [wandb_run.py:_atexit_cleanup():2363] Problem finishing run
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/agents/pyagent.py", line 306, in _run_job
+    self._function()
+  File "/tmp/ipykernel_75972/1210030154.py", line 23, in train_sweep
+    train_loss = nn.train(X_train, y_train_onehot, epochs=1, batch_size=config.batch_size)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/Documents/Books/DA24S019_Assignment_1/feedforward_neural_network.py", line 149, in train
+    print(f"Epoch {epoch+1}/{epochs}, Batch {i//batch_size+1}, Loss: {loss:.4f}")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/redirect.py", line 645, in write
+    self._old_write(data)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 662, in write
+    self._schedule_flush()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 559, in _schedule_flush
+    self.pub_thread.schedule(_schedule_in_thread)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 266, in schedule
+    self._event_pipe.send(b"")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/zmq/sugar/socket.py", line 696, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "zmq/backend/cython/socket.pyx", line 742, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 783, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 138, in zmq.backend.cython.socket._check_closed
+zmq.error.ZMQError: Socket operation on non-socket
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2354, in _atexit_cleanup
+    self._on_finish()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 2606, in _on_finish
+    with progress.progress_printer(
+  File "/home/user/anaconda3/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/progress.py", line 92, in progress_printer
+    with printer.dynamic_text() as text_area:
+  File "/home/user/anaconda3/lib/python3.12/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/printer.py", line 436, in dynamic_text
+    handle = self._ipython_display.display(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/IPython/core/display_functions.py", line 305, in display
+    publish_display_data(data=format_dict, metadata=md_dict, **kwargs)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/IPython/core/display_functions.py", line 93, in publish_display_data
+    display_pub.publish(
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 103, in publish
+    self._flush_streams()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/zmqshell.py", line 66, in _flush_streams
+    sys.stdout.flush()
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 573, in flush
+    self.pub_thread.schedule(self._flush)
+  File "/home/user/anaconda3/lib/python3.12/site-packages/ipykernel/iostream.py", line 266, in schedule
+    self._event_pipe.send(b"")
+  File "/home/user/anaconda3/lib/python3.12/site-packages/zmq/sugar/socket.py", line 696, in send
+    return super().send(data, flags=flags, copy=copy, track=track)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "zmq/backend/cython/socket.pyx", line 742, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 783, in zmq.backend.cython.socket.Socket.send
+  File "zmq/backend/cython/socket.pyx", line 138, in zmq.backend.cython.socket._check_closed
+zmq.error.ZMQError: Socket operation on non-socket
+2025-02-28 12:49:33,608 INFO    MainThread:75972 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=20
+2025-02-28 12:49:34,867 WARNING MsgRouterThr:75972 [router.py:message_loop():77] message_loop has been closed
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/interface/router_sock.py", line 28, in _read_message
+    resp = self._sock_client.read_server_response(timeout=1)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 285, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/lib/sock_client.py", line 270, in _read_packet_bytes
+    raise SockClientClosedError
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/interface/router.py", line 70, in message_loop
+    msg = self._read_message()
+          ^^^^^^^^^^^^^^^^^^^^
+  File "/home/user/anaconda3/lib/python3.12/site-packages/wandb/sdk/interface/router_sock.py", line 30, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-02-28 12:49:34,868 INFO    MsgRouterThr:75972 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-02-28 12:49:34,881 ERROR   Thread-24 (_run_job):75972 [jupyter.py:notebook_metadata():245] Failed to detect the name of this notebook, you can set it manually with the WANDB_NOTEBOOK_NAME environment variable to enable code saving.
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_setup.py:_flush():67] Configure stats pid to 75972
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/.config/wandb/settings
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/Documents/Books/DA24S019_Assignment_1/wandb/settings
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124935-757r8f8k/logs/debug.log
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124935-757r8f8k/logs/debug-internal.log
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x715174425cd0>
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():761] calling init triggers
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 32, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():784] starting backend
+2025-02-28 12:49:35,621 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():788] sending inform_init request
+2025-02-28 12:49:35,622 INFO    Thread-24 (_run_job):75972 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-28 12:49:35,622 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():803] backend started and connected
+2025-02-28 12:49:35,627 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'tanh', 'batch_size': 64, 'epochs': 10, 'hidden_layer_size': 32, 'learning_rate': 0.001, 'num_hidden_layers': 3, 'optimizer': 'momentum', 'weight_decay': 0.0005, 'weight_init': 'random'}
+2025-02-28 12:49:35,629 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-02-28 12:49:35,629 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-02-28 12:49:35,629 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():896] updated telemetry
+2025-02-28 12:49:35,636 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-02-28 12:49:36,063 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():995] starting run threads in backend
+2025-02-28 12:49:36,342 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_console_start():2377] atexit reg
+2025-02-28 12:49:36,342 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-02-28 12:49:36,342 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-02-28 12:49:36,342 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-02-28 12:49:36,343 INFO    Thread-24 (_run_job):75972 [wandb_init.py:init():1037] run started, returning control to user process
+2025-02-28 12:50:32,436 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_finish():2112] finishing run da24s019-indian-institute-of-technology-madras/Fashion-MNIST-Sweep/757r8f8k
+2025-02-28 12:50:32,437 INFO    Thread-24 (_run_job):75972 [jupyter.py:save_history():458] not saving jupyter history
+2025-02-28 12:50:32,437 INFO    Thread-24 (_run_job):75972 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-28 12:50:32,437 INFO    Thread-24 (_run_job):75972 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-02-28 12:50:32,437 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-02-28 12:50:32,438 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_restore():2324] restore
+2025-02-28 12:50:32,438 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_restore():2330] restore done
+2025-02-28 12:50:35,757 INFO    MsgRouterThr:75972 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-02-28 12:50:35,757 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-02-28 12:50:35,757 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-02-28 12:50:35,759 INFO    Thread-24 (_run_job):75972 [wandb_run.py:_footer_sync_info():3919] logging synced files
+2025-02-28 12:50:38,555 ERROR   Thread-27 (_run_job):75972 [jupyter.py:notebook_metadata():245] Failed to detect the name of this notebook, you can set it manually with the WANDB_NOTEBOOK_NAME environment variable to enable code saving.
+2025-02-28 12:50:39,298 INFO    Thread-27 (_run_job):75972 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-28 12:50:39,298 INFO    Thread-27 (_run_job):75972 [wandb_setup.py:_flush():67] Configure stats pid to 75972
+2025-02-28 12:50:39,298 INFO    Thread-27 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/.config/wandb/settings
+2025-02-28 12:50:39,298 INFO    Thread-27 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from /home/user/Documents/Books/DA24S019_Assignment_1/wandb/settings
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_125039-3wy4pqcw/logs/debug.log
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_125039-3wy4pqcw/logs/debug-internal.log
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x71517432fe00>
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():761] calling init triggers
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 16, 'epochs': 10, 'hidden_layer_size': 64, 'learning_rate': 0.001, 'num_hidden_layers': 4, 'optimizer': 'rmsprop', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():784] starting backend
+2025-02-28 12:50:39,299 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():788] sending inform_init request
+2025-02-28 12:50:39,301 INFO    Thread-27 (_run_job):75972 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-28 12:50:39,301 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():803] backend started and connected
+2025-02-28 12:50:39,306 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 16, 'epochs': 10, 'hidden_layer_size': 64, 'learning_rate': 0.001, 'num_hidden_layers': 4, 'optimizer': 'rmsprop', 'weight_decay': 0.5, 'weight_init': 'random'}
+2025-02-28 12:50:39,307 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-02-28 12:50:39,307 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-02-28 12:50:39,308 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():896] updated telemetry
+2025-02-28 12:50:39,313 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-02-28 12:50:40,042 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():995] starting run threads in backend
+2025-02-28 12:50:40,321 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_console_start():2377] atexit reg
+2025-02-28 12:50:40,321 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-02-28 12:50:40,322 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-02-28 12:50:40,322 INFO    Thread-27 (_run_job):75972 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-02-28 12:50:40,322 INFO    Thread-27 (_run_job):75972 [wandb_init.py:init():1037] run started, returning control to user process

@@ -1,0 +1,10 @@
+Epoch 1/5, Loss: 0.1829, Accuracy: 0.2791
+Epoch 2/5, Loss: 0.1141, Accuracy: 0.5179
+Epoch 3/5, Loss: 0.0938, Accuracy: 0.5550
+Epoch 4/5, Loss: 0.0896, Accuracy: 0.5629
+Epoch 5/5, Loss: 0.0874, Accuracy: 0.5717
+Traceback (most recent call last):
+  File "/tmp/ipykernel_77956/2532407811.py", line 19, in train_sweep
+    val_accuracy = nn.compute_accuracy(X_val, y_val_onehot)
+                   ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'FeedforwardNeuralNetwork' object has no attribute 'compute_accuracy'

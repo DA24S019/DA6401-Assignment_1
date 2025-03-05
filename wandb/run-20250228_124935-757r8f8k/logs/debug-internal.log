@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:49:35.624425913+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124935-757r8f8k/logs/debug-core.log"}
+{"time":"2025-02-28T12:49:35.72897056+05:30","level":"INFO","msg":"created new stream","id":"757r8f8k"}
+{"time":"2025-02-28T12:49:35.729014585+05:30","level":"INFO","msg":"stream: started","id":"757r8f8k"}
+{"time":"2025-02-28T12:49:35.729070994+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:49:35.729099718+05:30","level":"INFO","msg":"handler: started","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:49:35.729146687+05:30","level":"INFO","msg":"sender: started","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:49:36.065881701+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:50:32.440301957+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:50:32.441138947+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:50:33.448643813+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.401300218,"progress":"287.4KB/287.4KB"},{"desc":"uploading config.yaml","runtime_seconds":0.08486477,"progress":"869B/869B"}],"total_operations":2}}
+{"time":"2025-02-28T12:50:34.389966294+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:50:35.762129582+05:30","level":"INFO","msg":"stream: closing","id":"757r8f8k"}
+{"time":"2025-02-28T12:50:35.762159076+05:30","level":"INFO","msg":"handler: closed","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:50:35.762177143+05:30","level":"INFO","msg":"sender: closed","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:50:35.762172268+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"757r8f8k"}
+{"time":"2025-02-28T12:50:35.762236858+05:30","level":"INFO","msg":"stream: closed","id":"757r8f8k"}

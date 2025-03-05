@@ -1,0 +1,17 @@
+{"time":"2025-03-04T19:51:07.285512533+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250304_195107-7rgyneji/logs/debug-core.log"}
+{"time":"2025-03-04T19:51:07.389167429+05:30","level":"INFO","msg":"created new stream","id":"7rgyneji"}
+{"time":"2025-03-04T19:51:07.389202105+05:30","level":"INFO","msg":"stream: started","id":"7rgyneji"}
+{"time":"2025-03-04T19:51:07.389260879+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7rgyneji"}
+{"time":"2025-03-04T19:51:07.389278073+05:30","level":"INFO","msg":"sender: started","stream_id":"7rgyneji"}
+{"time":"2025-03-04T19:51:07.389345511+05:30","level":"INFO","msg":"handler: started","stream_id":"7rgyneji"}
+{"time":"2025-03-04T19:51:07.922860363+05:30","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-04T19:51:07.923602627+05:30","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403 Forbidden: {\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-03-04T21:04:07.455143552+05:30","level":"INFO","msg":"stream: closing","id":"7rgyneji"}
+{"time":"2025-03-04T21:04:07.455238793+05:30","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-03-04T21:04:07.779752444+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-04T21:04:07.779837505+05:30","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"project myname/myprojectname not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2025-03-04T21:04:07.781051923+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-04T21:04:07.781116357+05:30","level":"INFO","msg":"handler: closed","stream_id":"7rgyneji"}
+{"time":"2025-03-04T21:04:07.781140799+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7rgyneji"}
+{"time":"2025-03-04T21:04:07.781152457+05:30","level":"INFO","msg":"sender: closed","stream_id":"7rgyneji"}
+{"time":"2025-03-04T21:04:07.781211881+05:30","level":"INFO","msg":"stream: closed","id":"7rgyneji"}

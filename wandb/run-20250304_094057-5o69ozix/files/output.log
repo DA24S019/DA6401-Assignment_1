@@ -1,0 +1,3 @@
+Epoch 1/1, Loss: 0.2322, Accuracy: 0.0968
+[34m[1mwandb[0m: Ctrl + C detected. Stopping sweep.
+Epoch 1/1, Loss: 0.2300, Accuracy: 0.1211

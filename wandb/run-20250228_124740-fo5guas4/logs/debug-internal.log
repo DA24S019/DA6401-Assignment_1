@@ -1,0 +1,16 @@
+{"time":"2025-02-28T12:47:40.161596891+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250228_124740-fo5guas4/logs/debug-core.log"}
+{"time":"2025-02-28T12:47:40.266113421+05:30","level":"INFO","msg":"created new stream","id":"fo5guas4"}
+{"time":"2025-02-28T12:47:40.26617795+05:30","level":"INFO","msg":"stream: started","id":"fo5guas4"}
+{"time":"2025-02-28T12:47:40.266196718+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:47:40.266197314+05:30","level":"INFO","msg":"handler: started","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:47:40.266244167+05:30","level":"INFO","msg":"sender: started","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:47:40.646235341+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T12:48:18.336189427+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T12:48:18.337673117+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T12:48:19.342575389+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.400288078,"progress":"117.6KB/117.6KB"},{"desc":"uploading config.yaml","runtime_seconds":0.051961347,"progress":"870B/870B"}],"total_operations":2}}
+{"time":"2025-02-28T12:48:19.904381761+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T12:48:21.257744821+05:30","level":"INFO","msg":"stream: closing","id":"fo5guas4"}
+{"time":"2025-02-28T12:48:21.257767748+05:30","level":"INFO","msg":"handler: closed","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:48:21.257780131+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:48:21.257806916+05:30","level":"INFO","msg":"sender: closed","stream_id":"fo5guas4"}
+{"time":"2025-02-28T12:48:21.257871654+05:30","level":"INFO","msg":"stream: closed","id":"fo5guas4"}
