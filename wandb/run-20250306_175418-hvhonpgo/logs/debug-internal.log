@@ -1,0 +1,16 @@
+{"time":"2025-03-06T17:54:18.509616026+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_175418-hvhonpgo/logs/debug-core.log"}
+{"time":"2025-03-06T17:54:18.613684899+05:30","level":"INFO","msg":"created new stream","id":"hvhonpgo"}
+{"time":"2025-03-06T17:54:18.613730296+05:30","level":"INFO","msg":"stream: started","id":"hvhonpgo"}
+{"time":"2025-03-06T17:54:18.613791858+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:54:18.613792359+05:30","level":"INFO","msg":"handler: started","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:54:18.613843902+05:30","level":"INFO","msg":"sender: started","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:54:18.991236701+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T17:56:34.058669826+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T17:56:34.059257701+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T17:56:35.062630152+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.343543235,"progress":"244B/244B"},{"desc":"uploading config.yaml","runtime_seconds":0.075151337,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T17:56:35.328942316+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T17:56:36.642022704+05:30","level":"INFO","msg":"stream: closing","id":"hvhonpgo"}
+{"time":"2025-03-06T17:56:36.642038598+05:30","level":"INFO","msg":"handler: closed","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:56:36.642047046+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:56:36.642085289+05:30","level":"INFO","msg":"sender: closed","stream_id":"hvhonpgo"}
+{"time":"2025-03-06T17:56:36.642103826+05:30","level":"INFO","msg":"stream: closed","id":"hvhonpgo"}

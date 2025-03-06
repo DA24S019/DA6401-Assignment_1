@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:08:16.180724115+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_120816-iiydc62w/logs/debug-core.log"}
+{"time":"2025-03-06T12:08:16.284408784+05:30","level":"INFO","msg":"created new stream","id":"iiydc62w"}
+{"time":"2025-03-06T12:08:16.284437069+05:30","level":"INFO","msg":"stream: started","id":"iiydc62w"}
+{"time":"2025-03-06T12:08:16.284494482+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:08:16.28449712+05:30","level":"INFO","msg":"handler: started","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:08:16.284587512+05:30","level":"INFO","msg":"sender: started","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:08:16.768791742+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:09:13.046918594+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:09:13.047716268+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:09:14.051909433+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.199243355,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.199235772,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T12:09:15.323974423+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:09:18.235786762+05:30","level":"INFO","msg":"stream: closing","id":"iiydc62w"}
+{"time":"2025-03-06T12:09:18.235806654+05:30","level":"INFO","msg":"handler: closed","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:09:18.235831461+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:09:18.235837169+05:30","level":"INFO","msg":"sender: closed","stream_id":"iiydc62w"}
+{"time":"2025-03-06T12:09:18.235898368+05:30","level":"INFO","msg":"stream: closed","id":"iiydc62w"}

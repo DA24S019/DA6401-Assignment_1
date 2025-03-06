@@ -1,0 +1,16 @@
+{"time":"2025-03-06T02:06:52.531908638+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_020652-atijmjx5/logs/debug-core.log"}
+{"time":"2025-03-06T02:06:52.635211981+05:30","level":"INFO","msg":"created new stream","id":"atijmjx5"}
+{"time":"2025-03-06T02:06:52.635251998+05:30","level":"INFO","msg":"stream: started","id":"atijmjx5"}
+{"time":"2025-03-06T02:06:52.635277112+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:06:52.635312801+05:30","level":"INFO","msg":"handler: started","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:06:52.635341154+05:30","level":"INFO","msg":"sender: started","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:06:52.985264789+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T02:08:47.140183561+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T02:08:47.140717184+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T02:08:48.144974071+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.385490039,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.067753479,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T02:08:48.62120722+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T02:08:49.991246648+05:30","level":"INFO","msg":"stream: closing","id":"atijmjx5"}
+{"time":"2025-03-06T02:08:49.991261214+05:30","level":"INFO","msg":"handler: closed","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:08:49.991269005+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:08:49.991274901+05:30","level":"INFO","msg":"sender: closed","stream_id":"atijmjx5"}
+{"time":"2025-03-06T02:08:49.991329936+05:30","level":"INFO","msg":"stream: closed","id":"atijmjx5"}

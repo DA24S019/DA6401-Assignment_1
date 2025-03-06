@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:17:37.942956122+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_131737-j15fggya/logs/debug-core.log"}
+{"time":"2025-03-06T13:17:38.047210886+05:30","level":"INFO","msg":"created new stream","id":"j15fggya"}
+{"time":"2025-03-06T13:17:38.047234167+05:30","level":"INFO","msg":"stream: started","id":"j15fggya"}
+{"time":"2025-03-06T13:17:38.047316288+05:30","level":"INFO","msg":"sender: started","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:17:38.047316371+05:30","level":"INFO","msg":"handler: started","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:17:38.047348165+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:17:38.601010029+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:19:54.811190789+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:19:54.811958788+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:19:55.814399998+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.240431502,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.240424098,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T13:19:56.326190296+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:19:57.656510591+05:30","level":"INFO","msg":"stream: closing","id":"j15fggya"}
+{"time":"2025-03-06T13:19:57.656545787+05:30","level":"INFO","msg":"handler: closed","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:19:57.656554074+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:19:57.656561473+05:30","level":"INFO","msg":"sender: closed","stream_id":"j15fggya"}
+{"time":"2025-03-06T13:19:57.656641595+05:30","level":"INFO","msg":"stream: closed","id":"j15fggya"}

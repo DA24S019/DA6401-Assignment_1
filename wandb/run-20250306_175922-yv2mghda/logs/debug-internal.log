@@ -1,0 +1,16 @@
+{"time":"2025-03-06T17:59:22.59476243+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_175922-yv2mghda/logs/debug-core.log"}
+{"time":"2025-03-06T17:59:22.698932199+05:30","level":"INFO","msg":"created new stream","id":"yv2mghda"}
+{"time":"2025-03-06T17:59:22.698958988+05:30","level":"INFO","msg":"stream: started","id":"yv2mghda"}
+{"time":"2025-03-06T17:59:22.698973351+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yv2mghda"}
+{"time":"2025-03-06T17:59:22.699045348+05:30","level":"INFO","msg":"sender: started","stream_id":"yv2mghda"}
+{"time":"2025-03-06T17:59:22.699064873+05:30","level":"INFO","msg":"handler: started","stream_id":"yv2mghda"}
+{"time":"2025-03-06T17:59:23.282837991+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T18:01:17.478787402+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T18:01:17.479590578+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T18:01:18.483971292+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.293273172,"progress":"210B/210B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.293267245,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T18:01:18.853246868+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T18:01:20.190578621+05:30","level":"INFO","msg":"stream: closing","id":"yv2mghda"}
+{"time":"2025-03-06T18:01:20.19061215+05:30","level":"INFO","msg":"handler: closed","stream_id":"yv2mghda"}
+{"time":"2025-03-06T18:01:20.190631143+05:30","level":"INFO","msg":"sender: closed","stream_id":"yv2mghda"}
+{"time":"2025-03-06T18:01:20.190624987+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yv2mghda"}
+{"time":"2025-03-06T18:01:20.19070265+05:30","level":"INFO","msg":"stream: closed","id":"yv2mghda"}

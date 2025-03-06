@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:42:10.620299336+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_224210-i9tae2ms/logs/debug-core.log"}
+{"time":"2025-03-05T22:42:10.724500653+05:30","level":"INFO","msg":"created new stream","id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:10.724537922+05:30","level":"INFO","msg":"stream: started","id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:10.724582419+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:10.724589922+05:30","level":"INFO","msg":"sender: started","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:10.724666824+05:30","level":"INFO","msg":"handler: started","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:11.088760383+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:42:38.858776893+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:42:38.859525835+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:42:39.862549414+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.669748437,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.410291184,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-05T22:42:40.496231071+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:42:41.81538198+05:30","level":"INFO","msg":"stream: closing","id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:41.815402709+05:30","level":"INFO","msg":"handler: closed","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:41.815420257+05:30","level":"INFO","msg":"sender: closed","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:41.815414118+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"i9tae2ms"}
+{"time":"2025-03-05T22:42:41.815479091+05:30","level":"INFO","msg":"stream: closed","id":"i9tae2ms"}

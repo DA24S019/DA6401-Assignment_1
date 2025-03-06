@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:18:42.503123638+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_011842-gutinh6c/logs/debug-core.log"}
+{"time":"2025-03-06T01:18:42.607302607+05:30","level":"INFO","msg":"created new stream","id":"gutinh6c"}
+{"time":"2025-03-06T01:18:42.607334818+05:30","level":"INFO","msg":"stream: started","id":"gutinh6c"}
+{"time":"2025-03-06T01:18:42.607382514+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:18:42.607387534+05:30","level":"INFO","msg":"sender: started","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:18:42.607474994+05:30","level":"INFO","msg":"handler: started","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:18:42.918941893+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:19:03.841537965+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:19:03.842156+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:19:04.84554755+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.698485654,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.330586434,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T01:19:05.447734686+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:19:06.782657321+05:30","level":"INFO","msg":"stream: closing","id":"gutinh6c"}
+{"time":"2025-03-06T01:19:06.782672792+05:30","level":"INFO","msg":"handler: closed","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:19:06.782686311+05:30","level":"INFO","msg":"sender: closed","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:19:06.782683295+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gutinh6c"}
+{"time":"2025-03-06T01:19:06.782746566+05:30","level":"INFO","msg":"stream: closed","id":"gutinh6c"}

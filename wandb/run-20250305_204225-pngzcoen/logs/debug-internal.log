@@ -1,0 +1,16 @@
+{"time":"2025-03-05T20:42:25.244870856+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_204225-pngzcoen/logs/debug-core.log"}
+{"time":"2025-03-05T20:42:25.348378299+05:30","level":"INFO","msg":"created new stream","id":"pngzcoen"}
+{"time":"2025-03-05T20:42:25.34840047+05:30","level":"INFO","msg":"stream: started","id":"pngzcoen"}
+{"time":"2025-03-05T20:42:25.348472076+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:42:25.348472772+05:30","level":"INFO","msg":"handler: started","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:42:25.348542354+05:30","level":"INFO","msg":"sender: started","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:42:25.713498232+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T20:43:53.372206547+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T20:43:53.373026359+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T20:43:54.375828697+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.355522901,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.080211932,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-05T20:43:54.643623557+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T20:43:56.058532159+05:30","level":"INFO","msg":"stream: closing","id":"pngzcoen"}
+{"time":"2025-03-05T20:43:56.058553336+05:30","level":"INFO","msg":"handler: closed","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:43:56.05856369+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:43:56.058619997+05:30","level":"INFO","msg":"sender: closed","stream_id":"pngzcoen"}
+{"time":"2025-03-05T20:43:56.058667104+05:30","level":"INFO","msg":"stream: closed","id":"pngzcoen"}

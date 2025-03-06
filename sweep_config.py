@@ -1,9 +1,9 @@
 sweep_config = {
-    "method": "grid",  # or "random", "bayes"
+    "method": "bayes",  
     "metric": {"name": "val_accuracy", "goal": "maximize"},
     "parameters": {
         "epochs": {"values": [5, 10]},
-        "num_hidden_layers": {"values": [3, 4, 5]},  # ✅ Must be here
+        "num_hidden_layers": {"values": [3, 4, 5]},  
         "hidden_layer_size": {"values": [32, 64, 128]},
         "weight_decay": {"values": [0, 0.0005, 0.5]},
         "learning_rate": {"values": [1e-3, 1e-4]},

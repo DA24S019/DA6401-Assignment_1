@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:08:20.120746852+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_010820-4wugir1v/logs/debug-core.log"}
+{"time":"2025-03-06T01:08:20.224787709+05:30","level":"INFO","msg":"created new stream","id":"4wugir1v"}
+{"time":"2025-03-06T01:08:20.22482122+05:30","level":"INFO","msg":"stream: started","id":"4wugir1v"}
+{"time":"2025-03-06T01:08:20.2248473+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:08:20.224882001+05:30","level":"INFO","msg":"handler: started","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:08:20.224941702+05:30","level":"INFO","msg":"sender: started","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:08:20.577232324+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:09:58.839197687+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:09:58.845134542+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:09:59.842965414+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.394950696,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.12773556,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T01:10:00.77732135+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:10:02.183253091+05:30","level":"INFO","msg":"stream: closing","id":"4wugir1v"}
+{"time":"2025-03-06T01:10:02.183273065+05:30","level":"INFO","msg":"handler: closed","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:10:02.183294758+05:30","level":"INFO","msg":"sender: closed","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:10:02.183284924+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4wugir1v"}
+{"time":"2025-03-06T01:10:02.183362697+05:30","level":"INFO","msg":"stream: closed","id":"4wugir1v"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T18:24:59.583408832+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_182459-9mvtlq0t/logs/debug-core.log"}
+{"time":"2025-03-06T18:24:59.687089231+05:30","level":"INFO","msg":"created new stream","id":"9mvtlq0t"}
+{"time":"2025-03-06T18:24:59.687115277+05:30","level":"INFO","msg":"stream: started","id":"9mvtlq0t"}
+{"time":"2025-03-06T18:24:59.687161019+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:24:59.68718641+05:30","level":"INFO","msg":"sender: started","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:24:59.687202169+05:30","level":"INFO","msg":"handler: started","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:25:00.029889976+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T18:26:05.544824361+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T18:26:05.545396925+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T18:26:06.548901065+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.36874212,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.368728212,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T18:26:06.982073545+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T18:26:08.304519699+05:30","level":"INFO","msg":"stream: closing","id":"9mvtlq0t"}
+{"time":"2025-03-06T18:26:08.304542291+05:30","level":"INFO","msg":"handler: closed","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:26:08.304557225+05:30","level":"INFO","msg":"sender: closed","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:26:08.304553978+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9mvtlq0t"}
+{"time":"2025-03-06T18:26:08.304603592+05:30","level":"INFO","msg":"stream: closed","id":"9mvtlq0t"}

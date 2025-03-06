@@ -1,0 +1,16 @@
+{"time":"2025-03-06T04:15:01.56620059+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_041501-ypyuxs3e/logs/debug-core.log"}
+{"time":"2025-03-06T04:15:01.670175139+05:30","level":"INFO","msg":"created new stream","id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:01.670213456+05:30","level":"INFO","msg":"stream: started","id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:01.670242572+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:01.670280277+05:30","level":"INFO","msg":"sender: started","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:01.670329684+05:30","level":"INFO","msg":"handler: started","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:02.017175759+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T04:15:38.755109892+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T04:15:38.755890736+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T04:15:39.758940472+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.684606174,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.378059474,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-06T04:15:40.384196004+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T04:15:41.698588359+05:30","level":"INFO","msg":"stream: closing","id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:41.698609574+05:30","level":"INFO","msg":"handler: closed","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:41.698626066+05:30","level":"INFO","msg":"sender: closed","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:41.698621085+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ypyuxs3e"}
+{"time":"2025-03-06T04:15:41.698703155+05:30","level":"INFO","msg":"stream: closed","id":"ypyuxs3e"}

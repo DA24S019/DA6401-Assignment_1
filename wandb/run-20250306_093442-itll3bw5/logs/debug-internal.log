@@ -1,0 +1,16 @@
+{"time":"2025-03-06T09:34:42.789306529+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_093442-itll3bw5/logs/debug-core.log"}
+{"time":"2025-03-06T09:34:42.893482395+05:30","level":"INFO","msg":"created new stream","id":"itll3bw5"}
+{"time":"2025-03-06T09:34:42.893524279+05:30","level":"INFO","msg":"stream: started","id":"itll3bw5"}
+{"time":"2025-03-06T09:34:42.89358744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:34:42.893596038+05:30","level":"INFO","msg":"sender: started","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:34:42.893680218+05:30","level":"INFO","msg":"handler: started","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:34:43.305902219+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T09:36:28.262769654+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T09:36:28.263443015+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T09:36:29.266397835+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 8-9, summary, console lines 8-9","runtime_seconds":0.218291057},{"desc":"uploading config.yaml","runtime_seconds":0.099907921,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-06T09:36:29.494770774+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T09:36:30.810076377+05:30","level":"INFO","msg":"stream: closing","id":"itll3bw5"}
+{"time":"2025-03-06T09:36:30.810094991+05:30","level":"INFO","msg":"handler: closed","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:36:30.810106291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:36:30.810155328+05:30","level":"INFO","msg":"sender: closed","stream_id":"itll3bw5"}
+{"time":"2025-03-06T09:36:30.810185321+05:30","level":"INFO","msg":"stream: closed","id":"itll3bw5"}

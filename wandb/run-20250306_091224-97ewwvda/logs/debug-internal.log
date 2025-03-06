@@ -1,0 +1,16 @@
+{"time":"2025-03-06T09:12:24.21253045+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_091224-97ewwvda/logs/debug-core.log"}
+{"time":"2025-03-06T09:12:24.316631236+05:30","level":"INFO","msg":"created new stream","id":"97ewwvda"}
+{"time":"2025-03-06T09:12:24.316660999+05:30","level":"INFO","msg":"stream: started","id":"97ewwvda"}
+{"time":"2025-03-06T09:12:24.316716677+05:30","level":"INFO","msg":"sender: started","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:12:24.316709199+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:12:24.316773472+05:30","level":"INFO","msg":"handler: started","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:12:24.893510821+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T09:15:04.989075932+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T09:15:04.990669478+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T09:15:05.993362551+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.410672562,"progress":"230B/230B"},{"desc":"uploading config.yaml","runtime_seconds":0.117615238,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T09:15:06.935235689+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T09:15:08.302778736+05:30","level":"INFO","msg":"stream: closing","id":"97ewwvda"}
+{"time":"2025-03-06T09:15:08.302800295+05:30","level":"INFO","msg":"handler: closed","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:15:08.302812234+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:15:08.302820561+05:30","level":"INFO","msg":"sender: closed","stream_id":"97ewwvda"}
+{"time":"2025-03-06T09:15:08.302889211+05:30","level":"INFO","msg":"stream: closed","id":"97ewwvda"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:10:01.079128218+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_221001-ky45jw0f/logs/debug-core.log"}
+{"time":"2025-03-05T22:10:01.183613575+05:30","level":"INFO","msg":"created new stream","id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:01.183658222+05:30","level":"INFO","msg":"stream: started","id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:01.183682075+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:01.183688156+05:30","level":"INFO","msg":"sender: started","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:01.183755782+05:30","level":"INFO","msg":"handler: started","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:01.513626823+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:10:27.691867641+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:10:27.693105188+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:10:28.695043431+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.668352902,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.391270883,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-05T22:10:29.331613212+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:10:30.658226051+05:30","level":"INFO","msg":"stream: closing","id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:30.658241775+05:30","level":"INFO","msg":"handler: closed","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:30.658249686+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:30.65825968+05:30","level":"INFO","msg":"sender: closed","stream_id":"ky45jw0f"}
+{"time":"2025-03-05T22:10:30.658299024+05:30","level":"INFO","msg":"stream: closed","id":"ky45jw0f"}

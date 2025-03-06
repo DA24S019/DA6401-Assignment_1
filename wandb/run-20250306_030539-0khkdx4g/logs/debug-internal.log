@@ -1,0 +1,16 @@
+{"time":"2025-03-06T03:05:39.228095039+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_030539-0khkdx4g/logs/debug-core.log"}
+{"time":"2025-03-06T03:05:39.331766716+05:30","level":"INFO","msg":"created new stream","id":"0khkdx4g"}
+{"time":"2025-03-06T03:05:39.331788896+05:30","level":"INFO","msg":"stream: started","id":"0khkdx4g"}
+{"time":"2025-03-06T03:05:39.331817329+05:30","level":"INFO","msg":"sender: started","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:05:39.331809348+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:05:39.33190667+05:30","level":"INFO","msg":"handler: started","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:05:39.742541355+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T03:06:01.745537643+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T03:06:01.74617415+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T03:06:02.750329948+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692972605,"progress":"237B/237B"},{"desc":"uploading config.yaml","runtime_seconds":0.41895369,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T03:06:03.369386356+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T03:06:04.709927593+05:30","level":"INFO","msg":"stream: closing","id":"0khkdx4g"}
+{"time":"2025-03-06T03:06:04.709948012+05:30","level":"INFO","msg":"handler: closed","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:06:04.709956883+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:06:04.709966472+05:30","level":"INFO","msg":"sender: closed","stream_id":"0khkdx4g"}
+{"time":"2025-03-06T03:06:04.710020123+05:30","level":"INFO","msg":"stream: closed","id":"0khkdx4g"}

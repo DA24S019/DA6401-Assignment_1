@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:52:39.028591199+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_115239-4xcx8ev2/logs/debug-core.log"}
+{"time":"2025-03-06T11:52:39.133544857+05:30","level":"INFO","msg":"created new stream","id":"4xcx8ev2"}
+{"time":"2025-03-06T11:52:39.13359121+05:30","level":"INFO","msg":"stream: started","id":"4xcx8ev2"}
+{"time":"2025-03-06T11:52:39.133603508+05:30","level":"INFO","msg":"handler: started","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:52:39.133638344+05:30","level":"INFO","msg":"sender: started","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:52:39.133636998+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:52:39.520418484+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:54:05.602092268+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:54:05.602839628+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:54:06.606256176+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.308762985,"progress":"210B/210B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.308753008,"progress":"238B/238B"}],"total_operations":2}}
+{"time":"2025-03-06T11:54:06.999284654+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:54:08.568058186+05:30","level":"INFO","msg":"stream: closing","id":"4xcx8ev2"}
+{"time":"2025-03-06T11:54:08.56807793+05:30","level":"INFO","msg":"handler: closed","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:54:08.568094242+05:30","level":"INFO","msg":"sender: closed","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:54:08.568089187+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4xcx8ev2"}
+{"time":"2025-03-06T11:54:08.56813786+05:30","level":"INFO","msg":"stream: closed","id":"4xcx8ev2"}

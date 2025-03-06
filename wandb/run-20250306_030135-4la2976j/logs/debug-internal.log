@@ -1,0 +1,16 @@
+{"time":"2025-03-06T03:01:35.243346612+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_030135-4la2976j/logs/debug-core.log"}
+{"time":"2025-03-06T03:01:35.346962142+05:30","level":"INFO","msg":"created new stream","id":"4la2976j"}
+{"time":"2025-03-06T03:01:35.347011827+05:30","level":"INFO","msg":"stream: started","id":"4la2976j"}
+{"time":"2025-03-06T03:01:35.347024455+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:01:35.347047019+05:30","level":"INFO","msg":"sender: started","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:01:35.347134268+05:30","level":"INFO","msg":"handler: started","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:01:35.678325478+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T03:03:24.005060236+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T03:03:24.007605833+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T03:03:25.009768954+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.365491898,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.135515593,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-06T03:03:25.949291653+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T03:03:27.390136146+05:30","level":"INFO","msg":"stream: closing","id":"4la2976j"}
+{"time":"2025-03-06T03:03:27.390156766+05:30","level":"INFO","msg":"handler: closed","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:03:27.390170139+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:03:27.390228312+05:30","level":"INFO","msg":"sender: closed","stream_id":"4la2976j"}
+{"time":"2025-03-06T03:03:27.390266439+05:30","level":"INFO","msg":"stream: closed","id":"4la2976j"}

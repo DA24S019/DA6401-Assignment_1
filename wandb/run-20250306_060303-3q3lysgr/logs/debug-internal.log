@@ -1,0 +1,16 @@
+{"time":"2025-03-06T06:03:03.899678621+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_060303-3q3lysgr/logs/debug-core.log"}
+{"time":"2025-03-06T06:03:04.004112922+05:30","level":"INFO","msg":"created new stream","id":"3q3lysgr"}
+{"time":"2025-03-06T06:03:04.004160785+05:30","level":"INFO","msg":"stream: started","id":"3q3lysgr"}
+{"time":"2025-03-06T06:03:04.004167025+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:03:04.004179095+05:30","level":"INFO","msg":"sender: started","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:03:04.004251797+05:30","level":"INFO","msg":"handler: started","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:03:04.363504461+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T06:04:13.845914926+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T06:04:13.846686748+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T06:04:14.849924173+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.415268233,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.133474833,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T06:04:15.284551805+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T06:04:16.621814801+05:30","level":"INFO","msg":"stream: closing","id":"3q3lysgr"}
+{"time":"2025-03-06T06:04:16.621836937+05:30","level":"INFO","msg":"handler: closed","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:04:16.621863943+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:04:16.62187987+05:30","level":"INFO","msg":"sender: closed","stream_id":"3q3lysgr"}
+{"time":"2025-03-06T06:04:16.621940747+05:30","level":"INFO","msg":"stream: closed","id":"3q3lysgr"}

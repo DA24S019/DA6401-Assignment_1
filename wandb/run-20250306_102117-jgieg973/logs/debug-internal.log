@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:21:17.765353461+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_102117-jgieg973/logs/debug-core.log"}
+{"time":"2025-03-06T10:21:17.869838733+05:30","level":"INFO","msg":"created new stream","id":"jgieg973"}
+{"time":"2025-03-06T10:21:17.869871183+05:30","level":"INFO","msg":"stream: started","id":"jgieg973"}
+{"time":"2025-03-06T10:21:17.869893144+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:21:17.869900106+05:30","level":"INFO","msg":"sender: started","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:21:17.869951773+05:30","level":"INFO","msg":"handler: started","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:21:18.541153699+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:22:20.775371862+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:22:20.776063731+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:22:21.778956339+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.252990716,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.252957187,"progress":"238B/238B"}],"total_operations":2}}
+{"time":"2025-03-06T10:22:22.936944708+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:22:24.3259087+05:30","level":"INFO","msg":"stream: closing","id":"jgieg973"}
+{"time":"2025-03-06T10:22:24.325932425+05:30","level":"INFO","msg":"handler: closed","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:22:24.325948102+05:30","level":"INFO","msg":"sender: closed","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:22:24.325944192+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jgieg973"}
+{"time":"2025-03-06T10:22:24.326018644+05:30","level":"INFO","msg":"stream: closed","id":"jgieg973"}

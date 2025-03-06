@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:46:02.102657001+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_084602-jbb1lc57/logs/debug-core.log"}
+{"time":"2025-03-06T08:46:02.206231809+05:30","level":"INFO","msg":"created new stream","id":"jbb1lc57"}
+{"time":"2025-03-06T08:46:02.206275574+05:30","level":"INFO","msg":"stream: started","id":"jbb1lc57"}
+{"time":"2025-03-06T08:46:02.206289916+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:46:02.206314874+05:30","level":"INFO","msg":"handler: started","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:46:02.206370723+05:30","level":"INFO","msg":"sender: started","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:46:02.551756644+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:47:13.309483054+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:47:13.310118756+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:47:14.313323212+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.199071006,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.199050872,"progress":"229B/229B"}],"total_operations":2}}
+{"time":"2025-03-06T08:47:15.48413415+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:47:16.825616231+05:30","level":"INFO","msg":"stream: closing","id":"jbb1lc57"}
+{"time":"2025-03-06T08:47:16.825630475+05:30","level":"INFO","msg":"handler: closed","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:47:16.82564504+05:30","level":"INFO","msg":"sender: closed","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:47:16.825639505+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jbb1lc57"}
+{"time":"2025-03-06T08:47:16.825688804+05:30","level":"INFO","msg":"stream: closed","id":"jbb1lc57"}

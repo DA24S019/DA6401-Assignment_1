@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:13:23.109812526+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_011323-4xwda1gr/logs/debug-core.log"}
+{"time":"2025-03-06T01:13:23.213339667+05:30","level":"INFO","msg":"created new stream","id":"4xwda1gr"}
+{"time":"2025-03-06T01:13:23.213363102+05:30","level":"INFO","msg":"stream: started","id":"4xwda1gr"}
+{"time":"2025-03-06T01:13:23.213436092+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:13:23.213471799+05:30","level":"INFO","msg":"handler: started","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:13:23.213488619+05:30","level":"INFO","msg":"sender: started","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:13:23.560901563+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:14:26.084329427+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:14:26.085942129+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:14:27.087685265+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.409595674,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.108586898,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T01:14:27.968201822+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:14:29.302574428+05:30","level":"INFO","msg":"stream: closing","id":"4xwda1gr"}
+{"time":"2025-03-06T01:14:29.30259107+05:30","level":"INFO","msg":"handler: closed","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:14:29.3026044+05:30","level":"INFO","msg":"sender: closed","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:14:29.302600134+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4xwda1gr"}
+{"time":"2025-03-06T01:14:29.302653755+05:30","level":"INFO","msg":"stream: closed","id":"4xwda1gr"}

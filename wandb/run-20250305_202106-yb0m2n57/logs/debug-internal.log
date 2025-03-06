@@ -1,0 +1,16 @@
+{"time":"2025-03-05T20:21:06.541807358+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_202106-yb0m2n57/logs/debug-core.log"}
+{"time":"2025-03-05T20:21:06.646158699+05:30","level":"INFO","msg":"created new stream","id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:06.646185981+05:30","level":"INFO","msg":"stream: started","id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:06.646268309+05:30","level":"INFO","msg":"sender: started","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:06.646289278+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:06.646315352+05:30","level":"INFO","msg":"handler: started","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:07.088475656+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T20:21:39.278263051+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T20:21:39.278923515+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T20:21:40.284526255+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692469923,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.383075041,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-05T20:21:40.922317909+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T20:21:42.253302547+05:30","level":"INFO","msg":"stream: closing","id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:42.253319643+05:30","level":"INFO","msg":"handler: closed","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:42.253331658+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:42.253337705+05:30","level":"INFO","msg":"sender: closed","stream_id":"yb0m2n57"}
+{"time":"2025-03-05T20:21:42.253385546+05:30","level":"INFO","msg":"stream: closed","id":"yb0m2n57"}

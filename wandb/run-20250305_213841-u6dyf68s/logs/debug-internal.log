@@ -1,0 +1,16 @@
+{"time":"2025-03-05T21:38:41.981273806+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_213841-u6dyf68s/logs/debug-core.log"}
+{"time":"2025-03-05T21:38:42.085205456+05:30","level":"INFO","msg":"created new stream","id":"u6dyf68s"}
+{"time":"2025-03-05T21:38:42.085254069+05:30","level":"INFO","msg":"stream: started","id":"u6dyf68s"}
+{"time":"2025-03-05T21:38:42.085271683+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:38:42.08532032+05:30","level":"INFO","msg":"sender: started","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:38:42.0853534+05:30","level":"INFO","msg":"handler: started","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:38:42.417763182+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:40:04.314805401+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:40:04.315386412+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:40:05.318135153+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.362013577,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.040819354,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-05T21:40:06.272609258+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:40:07.606930741+05:30","level":"INFO","msg":"stream: closing","id":"u6dyf68s"}
+{"time":"2025-03-05T21:40:07.606951535+05:30","level":"INFO","msg":"handler: closed","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:40:07.606961928+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:40:07.606968721+05:30","level":"INFO","msg":"sender: closed","stream_id":"u6dyf68s"}
+{"time":"2025-03-05T21:40:07.607039373+05:30","level":"INFO","msg":"stream: closed","id":"u6dyf68s"}

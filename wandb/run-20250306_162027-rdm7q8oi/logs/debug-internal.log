@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:20:27.086059444+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_162027-rdm7q8oi/logs/debug-core.log"}
+{"time":"2025-03-06T16:20:27.190356489+05:30","level":"INFO","msg":"created new stream","id":"rdm7q8oi"}
+{"time":"2025-03-06T16:20:27.190387426+05:30","level":"INFO","msg":"stream: started","id":"rdm7q8oi"}
+{"time":"2025-03-06T16:20:27.190466321+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:20:27.19047238+05:30","level":"INFO","msg":"handler: started","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:20:27.190527186+05:30","level":"INFO","msg":"sender: started","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:20:27.519648844+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:22:37.89517514+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:22:37.896121975+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:22:38.859745252+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.256935273,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.25690878,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T16:22:39.238075431+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:22:40.637812453+05:30","level":"INFO","msg":"stream: closing","id":"rdm7q8oi"}
+{"time":"2025-03-06T16:22:40.637832915+05:30","level":"INFO","msg":"handler: closed","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:22:40.637844633+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:22:40.637854197+05:30","level":"INFO","msg":"sender: closed","stream_id":"rdm7q8oi"}
+{"time":"2025-03-06T16:22:40.637909751+05:30","level":"INFO","msg":"stream: closed","id":"rdm7q8oi"}

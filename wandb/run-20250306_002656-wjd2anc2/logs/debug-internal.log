@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:26:56.167178547+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_002656-wjd2anc2/logs/debug-core.log"}
+{"time":"2025-03-06T00:26:56.27098851+05:30","level":"INFO","msg":"created new stream","id":"wjd2anc2"}
+{"time":"2025-03-06T00:26:56.271083901+05:30","level":"INFO","msg":"stream: started","id":"wjd2anc2"}
+{"time":"2025-03-06T00:26:56.27109998+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:26:56.271102331+05:30","level":"INFO","msg":"handler: started","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:26:56.271177553+05:30","level":"INFO","msg":"sender: started","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:26:56.597606256+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:28:19.718596183+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:28:19.719501238+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:28:20.722674558+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.426470602,"progress":"227B/227B"},{"desc":"uploading config.yaml","runtime_seconds":0.134650879,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T00:28:21.601265474+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:28:22.994528353+05:30","level":"INFO","msg":"stream: closing","id":"wjd2anc2"}
+{"time":"2025-03-06T00:28:22.994546067+05:30","level":"INFO","msg":"handler: closed","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:28:22.994559496+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:28:22.994571282+05:30","level":"INFO","msg":"sender: closed","stream_id":"wjd2anc2"}
+{"time":"2025-03-06T00:28:22.994637435+05:30","level":"INFO","msg":"stream: closed","id":"wjd2anc2"}

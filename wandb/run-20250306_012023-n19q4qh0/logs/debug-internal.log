@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:20:23.716876871+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_012023-n19q4qh0/logs/debug-core.log"}
+{"time":"2025-03-06T01:20:23.821255952+05:30","level":"INFO","msg":"created new stream","id":"n19q4qh0"}
+{"time":"2025-03-06T01:20:23.821289914+05:30","level":"INFO","msg":"stream: started","id":"n19q4qh0"}
+{"time":"2025-03-06T01:20:23.82136171+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:20:23.821367309+05:30","level":"INFO","msg":"handler: started","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:20:23.821435223+05:30","level":"INFO","msg":"sender: started","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:20:24.185366759+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:21:25.498133922+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:21:25.49962308+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:21:26.502971895+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.38884907,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.094879467,"progress":"892B/892B"}],"total_operations":2}}
+{"time":"2025-03-06T01:21:27.432872357+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:21:28.745087583+05:30","level":"INFO","msg":"stream: closing","id":"n19q4qh0"}
+{"time":"2025-03-06T01:21:28.745122745+05:30","level":"INFO","msg":"handler: closed","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:21:28.745137773+05:30","level":"INFO","msg":"sender: closed","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:21:28.745133782+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"n19q4qh0"}
+{"time":"2025-03-06T01:21:28.745219102+05:30","level":"INFO","msg":"stream: closed","id":"n19q4qh0"}

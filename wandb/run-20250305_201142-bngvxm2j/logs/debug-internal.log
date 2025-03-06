@@ -1,0 +1,16 @@
+{"time":"2025-03-05T20:11:42.821807241+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_201142-bngvxm2j/logs/debug-core.log"}
+{"time":"2025-03-05T20:11:42.925493817+05:30","level":"INFO","msg":"created new stream","id":"bngvxm2j"}
+{"time":"2025-03-05T20:11:42.925528224+05:30","level":"INFO","msg":"stream: started","id":"bngvxm2j"}
+{"time":"2025-03-05T20:11:42.925588038+05:30","level":"INFO","msg":"handler: started","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:11:42.925601817+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:11:42.925642639+05:30","level":"INFO","msg":"sender: started","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:11:43.27008464+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T20:13:45.497963387+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T20:13:45.498720151+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T20:13:46.502076687+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.403189512,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.12425985,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-05T20:13:47.417640248+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T20:13:48.732471788+05:30","level":"INFO","msg":"stream: closing","id":"bngvxm2j"}
+{"time":"2025-03-05T20:13:48.732492763+05:30","level":"INFO","msg":"handler: closed","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:13:48.732510578+05:30","level":"INFO","msg":"sender: closed","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:13:48.732506102+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bngvxm2j"}
+{"time":"2025-03-05T20:13:48.732561187+05:30","level":"INFO","msg":"stream: closed","id":"bngvxm2j"}

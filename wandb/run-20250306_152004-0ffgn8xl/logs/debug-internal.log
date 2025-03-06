@@ -1,0 +1,16 @@
+{"time":"2025-03-06T15:20:04.898000281+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_152004-0ffgn8xl/logs/debug-core.log"}
+{"time":"2025-03-06T15:20:05.00232022+05:30","level":"INFO","msg":"created new stream","id":"0ffgn8xl"}
+{"time":"2025-03-06T15:20:05.002339619+05:30","level":"INFO","msg":"stream: started","id":"0ffgn8xl"}
+{"time":"2025-03-06T15:20:05.002406579+05:30","level":"INFO","msg":"handler: started","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:20:05.002427971+05:30","level":"INFO","msg":"sender: started","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:20:05.002425744+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:20:05.491355524+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T15:21:14.941365697+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T15:21:14.941996359+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T15:21:15.944947667+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.118262325,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.118235916,"progress":"242B/242B"}],"total_operations":2}}
+{"time":"2025-03-06T15:21:17.145774085+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T15:21:18.480215008+05:30","level":"INFO","msg":"stream: closing","id":"0ffgn8xl"}
+{"time":"2025-03-06T15:21:18.480245261+05:30","level":"INFO","msg":"handler: closed","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:21:18.480289197+05:30","level":"INFO","msg":"sender: closed","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:21:18.480271145+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"0ffgn8xl"}
+{"time":"2025-03-06T15:21:18.480369972+05:30","level":"INFO","msg":"stream: closed","id":"0ffgn8xl"}

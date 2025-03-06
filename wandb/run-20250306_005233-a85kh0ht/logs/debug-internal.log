@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:52:33.175835875+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_005233-a85kh0ht/logs/debug-core.log"}
+{"time":"2025-03-06T00:52:33.28042776+05:30","level":"INFO","msg":"created new stream","id":"a85kh0ht"}
+{"time":"2025-03-06T00:52:33.28045273+05:30","level":"INFO","msg":"stream: started","id":"a85kh0ht"}
+{"time":"2025-03-06T00:52:33.280507378+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:52:33.280513889+05:30","level":"INFO","msg":"sender: started","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:52:33.280576212+05:30","level":"INFO","msg":"handler: started","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:52:33.80213953+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:53:02.908999657+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:53:02.909700976+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:53:03.912168039+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.639923264,"progress":"225B/225B"},{"desc":"uploading config.yaml","runtime_seconds":0.347928236,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T00:53:04.55841363+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:53:06.15146596+05:30","level":"INFO","msg":"stream: closing","id":"a85kh0ht"}
+{"time":"2025-03-06T00:53:06.151484109+05:30","level":"INFO","msg":"handler: closed","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:53:06.151493682+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:53:06.151502881+05:30","level":"INFO","msg":"sender: closed","stream_id":"a85kh0ht"}
+{"time":"2025-03-06T00:53:06.151558198+05:30","level":"INFO","msg":"stream: closed","id":"a85kh0ht"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T04:02:05.061053704+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_040205-c5v4oxnq/logs/debug-core.log"}
+{"time":"2025-03-06T04:02:05.165425432+05:30","level":"INFO","msg":"created new stream","id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:05.165459157+05:30","level":"INFO","msg":"stream: started","id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:05.165468916+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:05.165557597+05:30","level":"INFO","msg":"handler: started","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:05.165560678+05:30","level":"INFO","msg":"sender: started","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:05.772436353+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T04:02:47.097242105+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T04:02:47.098330196+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T04:02:48.100685043+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687271584,"progress":"239B/239B"},{"desc":"uploading config.yaml","runtime_seconds":0.390845009,"progress":"889B/889B"}],"total_operations":2}}
+{"time":"2025-03-06T04:02:48.733775166+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T04:02:50.078035905+05:30","level":"INFO","msg":"stream: closing","id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:50.078058764+05:30","level":"INFO","msg":"handler: closed","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:50.078073254+05:30","level":"INFO","msg":"sender: closed","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:50.078070512+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"c5v4oxnq"}
+{"time":"2025-03-06T04:02:50.078121393+05:30","level":"INFO","msg":"stream: closed","id":"c5v4oxnq"}

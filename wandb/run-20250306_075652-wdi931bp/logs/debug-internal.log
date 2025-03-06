@@ -1,0 +1,16 @@
+{"time":"2025-03-06T07:56:52.140785851+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_075652-wdi931bp/logs/debug-core.log"}
+{"time":"2025-03-06T07:56:52.244807127+05:30","level":"INFO","msg":"created new stream","id":"wdi931bp"}
+{"time":"2025-03-06T07:56:52.244839377+05:30","level":"INFO","msg":"stream: started","id":"wdi931bp"}
+{"time":"2025-03-06T07:56:52.24490046+05:30","level":"INFO","msg":"sender: started","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:56:52.244937208+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:56:52.244965311+05:30","level":"INFO","msg":"handler: started","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:56:52.558112935+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T07:57:57.034719222+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T07:57:57.035405202+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T07:57:58.038309229+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.231182207,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.231175055,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T07:57:58.469560281+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T07:57:59.884464999+05:30","level":"INFO","msg":"stream: closing","id":"wdi931bp"}
+{"time":"2025-03-06T07:57:59.88448938+05:30","level":"INFO","msg":"handler: closed","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:57:59.884500447+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:57:59.884511069+05:30","level":"INFO","msg":"sender: closed","stream_id":"wdi931bp"}
+{"time":"2025-03-06T07:57:59.88458798+05:30","level":"INFO","msg":"stream: closed","id":"wdi931bp"}

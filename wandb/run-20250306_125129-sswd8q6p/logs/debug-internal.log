@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:51:29.87760173+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_125129-sswd8q6p/logs/debug-core.log"}
+{"time":"2025-03-06T12:51:29.981738419+05:30","level":"INFO","msg":"created new stream","id":"sswd8q6p"}
+{"time":"2025-03-06T12:51:29.981760067+05:30","level":"INFO","msg":"stream: started","id":"sswd8q6p"}
+{"time":"2025-03-06T12:51:29.981795981+05:30","level":"INFO","msg":"handler: started","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:51:29.981794541+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:51:29.981889117+05:30","level":"INFO","msg":"sender: started","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:51:30.33139153+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:52:41.424405299+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:52:41.425411759+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:52:42.426900398+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.384801875,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.069946508,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T12:52:42.737202313+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:52:44.070639603+05:30","level":"INFO","msg":"stream: closing","id":"sswd8q6p"}
+{"time":"2025-03-06T12:52:44.070672021+05:30","level":"INFO","msg":"handler: closed","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:52:44.07069708+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:52:44.070711442+05:30","level":"INFO","msg":"sender: closed","stream_id":"sswd8q6p"}
+{"time":"2025-03-06T12:52:44.070756565+05:30","level":"INFO","msg":"stream: closed","id":"sswd8q6p"}

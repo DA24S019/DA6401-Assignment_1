@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:23:35.615530139+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_222335-hapwetfs/logs/debug-core.log"}
+{"time":"2025-03-05T22:23:35.720172065+05:30","level":"INFO","msg":"created new stream","id":"hapwetfs"}
+{"time":"2025-03-05T22:23:35.72020342+05:30","level":"INFO","msg":"stream: started","id":"hapwetfs"}
+{"time":"2025-03-05T22:23:35.720245517+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:23:35.720274081+05:30","level":"INFO","msg":"handler: started","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:23:35.720340671+05:30","level":"INFO","msg":"sender: started","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:23:36.035668782+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:24:41.836353996+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:24:41.837114199+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:24:42.839749995+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.379438445,"progress":"242B/242B"},{"desc":"uploading output.log","runtime_seconds":0.379416615,"progress":"420B/420B"},{"desc":"uploading config.yaml","runtime_seconds":0.081653368,"progress":"886B/886B"}],"total_operations":3}}
+{"time":"2025-03-05T22:24:43.13813062+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:24:44.471912379+05:30","level":"INFO","msg":"stream: closing","id":"hapwetfs"}
+{"time":"2025-03-05T22:24:44.4719333+05:30","level":"INFO","msg":"handler: closed","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:24:44.471945204+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:24:44.471995922+05:30","level":"INFO","msg":"sender: closed","stream_id":"hapwetfs"}
+{"time":"2025-03-05T22:24:44.472014274+05:30","level":"INFO","msg":"stream: closed","id":"hapwetfs"}

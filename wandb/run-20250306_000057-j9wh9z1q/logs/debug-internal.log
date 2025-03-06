@@ -1,0 +1,17 @@
+{"time":"2025-03-06T00:00:57.552760886+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_000057-j9wh9z1q/logs/debug-core.log"}
+{"time":"2025-03-06T00:00:57.657396656+05:30","level":"INFO","msg":"created new stream","id":"j9wh9z1q"}
+{"time":"2025-03-06T00:00:57.657428674+05:30","level":"INFO","msg":"stream: started","id":"j9wh9z1q"}
+{"time":"2025-03-06T00:00:57.657440523+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:00:57.65745484+05:30","level":"INFO","msg":"handler: started","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:00:57.657451276+05:30","level":"INFO","msg":"sender: started","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:00:57.968749123+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:02:28.262590221+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-06T00:03:11.519332105+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:03:11.520038621+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:03:12.523276709+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.431164381,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.13983942,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T00:03:13.393877438+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:03:14.711103165+05:30","level":"INFO","msg":"stream: closing","id":"j9wh9z1q"}
+{"time":"2025-03-06T00:03:14.711118163+05:30","level":"INFO","msg":"handler: closed","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:03:14.711126041+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:03:14.711150712+05:30","level":"INFO","msg":"sender: closed","stream_id":"j9wh9z1q"}
+{"time":"2025-03-06T00:03:14.711198843+05:30","level":"INFO","msg":"stream: closed","id":"j9wh9z1q"}

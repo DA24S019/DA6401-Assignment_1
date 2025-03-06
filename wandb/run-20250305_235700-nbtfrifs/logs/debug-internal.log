@@ -1,0 +1,16 @@
+{"time":"2025-03-05T23:57:00.102618659+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_235700-nbtfrifs/logs/debug-core.log"}
+{"time":"2025-03-05T23:57:00.206793106+05:30","level":"INFO","msg":"created new stream","id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:00.206815476+05:30","level":"INFO","msg":"stream: started","id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:00.206839601+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:00.206861365+05:30","level":"INFO","msg":"sender: started","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:00.206926387+05:30","level":"INFO","msg":"handler: started","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:00.524292157+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T23:57:21.81400757+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T23:57:21.814554885+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T23:57:22.757518744+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T23:57:22.817342669+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-4, summary, console lines 3-4","runtime_seconds":0.059690231}],"total_operations":1}}
+{"time":"2025-03-05T23:57:24.079457843+05:30","level":"INFO","msg":"stream: closing","id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:24.0794739+05:30","level":"INFO","msg":"handler: closed","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:24.079483552+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:24.079496218+05:30","level":"INFO","msg":"sender: closed","stream_id":"nbtfrifs"}
+{"time":"2025-03-05T23:57:24.079529267+05:30","level":"INFO","msg":"stream: closed","id":"nbtfrifs"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:16:56.614293235+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_121656-ict03ah8/logs/debug-core.log"}
+{"time":"2025-03-06T12:16:56.718162241+05:30","level":"INFO","msg":"created new stream","id":"ict03ah8"}
+{"time":"2025-03-06T12:16:56.718199341+05:30","level":"INFO","msg":"stream: started","id":"ict03ah8"}
+{"time":"2025-03-06T12:16:56.718248038+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:16:56.718281249+05:30","level":"INFO","msg":"handler: started","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:16:56.718329714+05:30","level":"INFO","msg":"sender: started","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:16:57.206843431+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:18:05.335599623+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:18:05.336217494+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:18:06.339420666+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.248096929,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.248074395,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T12:18:06.788880101+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:18:08.101624463+05:30","level":"INFO","msg":"stream: closing","id":"ict03ah8"}
+{"time":"2025-03-06T12:18:08.101643653+05:30","level":"INFO","msg":"handler: closed","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:18:08.101672922+05:30","level":"INFO","msg":"sender: closed","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:18:08.101667415+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ict03ah8"}
+{"time":"2025-03-06T12:18:08.10173658+05:30","level":"INFO","msg":"stream: closed","id":"ict03ah8"}

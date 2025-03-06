@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:39:17.660302757+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_003917-pd5vd4ny/logs/debug-core.log"}
+{"time":"2025-03-06T00:39:17.764430967+05:30","level":"INFO","msg":"created new stream","id":"pd5vd4ny"}
+{"time":"2025-03-06T00:39:17.764473843+05:30","level":"INFO","msg":"stream: started","id":"pd5vd4ny"}
+{"time":"2025-03-06T00:39:17.764535394+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:39:17.764537821+05:30","level":"INFO","msg":"handler: started","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:39:17.764617011+05:30","level":"INFO","msg":"sender: started","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:39:18.082639691+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:40:56.558518292+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:40:56.559266927+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:40:57.562722057+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.398268382,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.398261,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.109769336,"progress":"885B/885B"}],"total_operations":3}}
+{"time":"2025-03-06T00:40:58.365035741+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:40:59.703236624+05:30","level":"INFO","msg":"stream: closing","id":"pd5vd4ny"}
+{"time":"2025-03-06T00:40:59.703252588+05:30","level":"INFO","msg":"handler: closed","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:40:59.703270103+05:30","level":"INFO","msg":"sender: closed","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:40:59.703264622+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pd5vd4ny"}
+{"time":"2025-03-06T00:40:59.703323644+05:30","level":"INFO","msg":"stream: closed","id":"pd5vd4ny"}

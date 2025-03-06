@@ -1,0 +1,16 @@
+{"time":"2025-03-06T17:56:47.441457935+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_175647-tnwisx5w/logs/debug-core.log"}
+{"time":"2025-03-06T17:56:47.546163078+05:30","level":"INFO","msg":"created new stream","id":"tnwisx5w"}
+{"time":"2025-03-06T17:56:47.546189581+05:30","level":"INFO","msg":"stream: started","id":"tnwisx5w"}
+{"time":"2025-03-06T17:56:47.546249051+05:30","level":"INFO","msg":"handler: started","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:56:47.546244492+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:56:47.546316709+05:30","level":"INFO","msg":"sender: started","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:56:47.896919029+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T17:58:03.031203089+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T17:58:03.032159825+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T17:58:04.03756431+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.38288059,"progress":"241B/241B"},{"desc":"uploading history steps 8-9, summary, console lines 8-9","runtime_seconds":0.319400057},{"desc":"uploading config.yaml","runtime_seconds":0.080172291,"progress":"888B/888B"}],"total_operations":3}}
+{"time":"2025-03-06T17:58:04.500658978+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T17:58:05.805624087+05:30","level":"INFO","msg":"stream: closing","id":"tnwisx5w"}
+{"time":"2025-03-06T17:58:05.805640009+05:30","level":"INFO","msg":"handler: closed","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:58:05.805654272+05:30","level":"INFO","msg":"sender: closed","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:58:05.805648726+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tnwisx5w"}
+{"time":"2025-03-06T17:58:05.805734602+05:30","level":"INFO","msg":"stream: closed","id":"tnwisx5w"}

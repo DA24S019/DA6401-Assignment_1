@@ -1,0 +1,16 @@
+{"time":"2025-03-06T18:11:17.726405964+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_181117-akwianob/logs/debug-core.log"}
+{"time":"2025-03-06T18:11:17.830432887+05:30","level":"INFO","msg":"created new stream","id":"akwianob"}
+{"time":"2025-03-06T18:11:17.830472492+05:30","level":"INFO","msg":"stream: started","id":"akwianob"}
+{"time":"2025-03-06T18:11:17.832075888+05:30","level":"INFO","msg":"handler: started","stream_id":"akwianob"}
+{"time":"2025-03-06T18:11:17.832117231+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"akwianob"}
+{"time":"2025-03-06T18:11:17.832341273+05:30","level":"INFO","msg":"sender: started","stream_id":"akwianob"}
+{"time":"2025-03-06T18:11:18.225709068+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T18:12:35.272372288+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T18:12:35.27315763+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T18:12:36.276923582+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.237001194,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.236994291,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T18:12:37.355019551+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T18:12:38.684452977+05:30","level":"INFO","msg":"stream: closing","id":"akwianob"}
+{"time":"2025-03-06T18:12:38.684473469+05:30","level":"INFO","msg":"handler: closed","stream_id":"akwianob"}
+{"time":"2025-03-06T18:12:38.684484419+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"akwianob"}
+{"time":"2025-03-06T18:12:38.684508191+05:30","level":"INFO","msg":"sender: closed","stream_id":"akwianob"}
+{"time":"2025-03-06T18:12:38.684581571+05:30","level":"INFO","msg":"stream: closed","id":"akwianob"}

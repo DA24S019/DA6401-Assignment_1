@@ -1,0 +1,16 @@
+{"time":"2025-03-06T05:44:38.82945836+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_054438-qxvvcrvd/logs/debug-core.log"}
+{"time":"2025-03-06T05:44:38.934098722+05:30","level":"INFO","msg":"created new stream","id":"qxvvcrvd"}
+{"time":"2025-03-06T05:44:38.934128896+05:30","level":"INFO","msg":"stream: started","id":"qxvvcrvd"}
+{"time":"2025-03-06T05:44:38.934190291+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:44:38.934248577+05:30","level":"INFO","msg":"handler: started","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:44:38.934291069+05:30","level":"INFO","msg":"sender: started","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:44:39.257949359+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T05:49:25.417665837+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T05:49:25.418224665+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T05:49:26.42106955+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.284723176,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.284715825,"progress":"243B/243B"}],"total_operations":2}}
+{"time":"2025-03-06T05:49:27.743646242+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T05:49:29.088585135+05:30","level":"INFO","msg":"stream: closing","id":"qxvvcrvd"}
+{"time":"2025-03-06T05:49:29.08860543+05:30","level":"INFO","msg":"handler: closed","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:49:29.088615799+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:49:29.088621486+05:30","level":"INFO","msg":"sender: closed","stream_id":"qxvvcrvd"}
+{"time":"2025-03-06T05:49:29.088685007+05:30","level":"INFO","msg":"stream: closed","id":"qxvvcrvd"}

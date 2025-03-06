@@ -1,0 +1,16 @@
+{"time":"2025-03-06T05:51:37.344953366+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_055137-io4nu9ed/logs/debug-core.log"}
+{"time":"2025-03-06T05:51:37.449441798+05:30","level":"INFO","msg":"created new stream","id":"io4nu9ed"}
+{"time":"2025-03-06T05:51:37.449487852+05:30","level":"INFO","msg":"stream: started","id":"io4nu9ed"}
+{"time":"2025-03-06T05:51:37.449523605+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:51:37.44956111+05:30","level":"INFO","msg":"sender: started","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:51:37.44967519+05:30","level":"INFO","msg":"handler: started","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:51:37.787618345+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T05:52:58.165002927+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T05:52:58.165583627+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T05:52:59.169306938+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.390976686,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.126728981,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-06T05:53:00.094463788+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T05:53:01.57241582+05:30","level":"INFO","msg":"stream: closing","id":"io4nu9ed"}
+{"time":"2025-03-06T05:53:01.572435046+05:30","level":"INFO","msg":"handler: closed","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:53:01.572455522+05:30","level":"INFO","msg":"sender: closed","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:53:01.572449469+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"io4nu9ed"}
+{"time":"2025-03-06T05:53:01.572519306+05:30","level":"INFO","msg":"stream: closed","id":"io4nu9ed"}

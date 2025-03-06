@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:17:57.218355432+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_081757-57y5fji5/logs/debug-core.log"}
+{"time":"2025-03-06T08:17:57.321910825+05:30","level":"INFO","msg":"created new stream","id":"57y5fji5"}
+{"time":"2025-03-06T08:17:57.321990603+05:30","level":"INFO","msg":"stream: started","id":"57y5fji5"}
+{"time":"2025-03-06T08:17:57.321996085+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:17:57.322001126+05:30","level":"INFO","msg":"handler: started","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:17:57.322087906+05:30","level":"INFO","msg":"sender: started","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:17:57.644664393+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:19:53.819611765+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:19:53.820377232+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:19:54.82485254+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.41331009,"progress":"243B/243B"},{"desc":"uploading config.yaml","runtime_seconds":0.043192993,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T08:19:55.701210434+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:19:57.059142825+05:30","level":"INFO","msg":"stream: closing","id":"57y5fji5"}
+{"time":"2025-03-06T08:19:57.059157986+05:30","level":"INFO","msg":"handler: closed","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:19:57.059165801+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:19:57.059172214+05:30","level":"INFO","msg":"sender: closed","stream_id":"57y5fji5"}
+{"time":"2025-03-06T08:19:57.059224372+05:30","level":"INFO","msg":"stream: closed","id":"57y5fji5"}

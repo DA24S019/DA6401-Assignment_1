@@ -1,0 +1,16 @@
+{"time":"2025-03-05T23:25:41.598294081+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_232541-6rs93o3h/logs/debug-core.log"}
+{"time":"2025-03-05T23:25:41.70182045+05:30","level":"INFO","msg":"created new stream","id":"6rs93o3h"}
+{"time":"2025-03-05T23:25:41.701855333+05:30","level":"INFO","msg":"stream: started","id":"6rs93o3h"}
+{"time":"2025-03-05T23:25:41.701874782+05:30","level":"INFO","msg":"sender: started","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:25:41.701933915+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:25:41.701985284+05:30","level":"INFO","msg":"handler: started","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:25:42.013414769+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T23:26:06.942783802+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T23:26:06.943505273+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T23:26:07.94660399+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.701017559,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.398438699,"progress":"882B/882B"}],"total_operations":2}}
+{"time":"2025-03-05T23:26:08.556022028+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T23:26:09.883864174+05:30","level":"INFO","msg":"stream: closing","id":"6rs93o3h"}
+{"time":"2025-03-05T23:26:09.883877603+05:30","level":"INFO","msg":"handler: closed","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:26:09.883896185+05:30","level":"INFO","msg":"sender: closed","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:26:09.88388457+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6rs93o3h"}
+{"time":"2025-03-05T23:26:09.883945907+05:30","level":"INFO","msg":"stream: closed","id":"6rs93o3h"}

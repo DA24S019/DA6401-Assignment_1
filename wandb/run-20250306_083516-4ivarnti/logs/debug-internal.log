@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:35:16.783160432+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_083516-4ivarnti/logs/debug-core.log"}
+{"time":"2025-03-06T08:35:16.887857285+05:30","level":"INFO","msg":"created new stream","id":"4ivarnti"}
+{"time":"2025-03-06T08:35:16.887888294+05:30","level":"INFO","msg":"stream: started","id":"4ivarnti"}
+{"time":"2025-03-06T08:35:16.887916944+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:35:16.887924364+05:30","level":"INFO","msg":"sender: started","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:35:16.887935355+05:30","level":"INFO","msg":"handler: started","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:35:17.201787281+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:39:16.099913626+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:39:16.10064943+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:39:17.103247572+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.421667282,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.098979554,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T08:39:17.983446714+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:39:19.507276528+05:30","level":"INFO","msg":"stream: closing","id":"4ivarnti"}
+{"time":"2025-03-06T08:39:19.507297034+05:30","level":"INFO","msg":"handler: closed","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:39:19.507309332+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:39:19.507317153+05:30","level":"INFO","msg":"sender: closed","stream_id":"4ivarnti"}
+{"time":"2025-03-06T08:39:19.507371365+05:30","level":"INFO","msg":"stream: closed","id":"4ivarnti"}

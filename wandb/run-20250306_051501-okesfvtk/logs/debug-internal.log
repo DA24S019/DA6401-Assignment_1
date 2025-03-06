@@ -1,0 +1,16 @@
+{"time":"2025-03-06T05:15:01.685572605+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_051501-okesfvtk/logs/debug-core.log"}
+{"time":"2025-03-06T05:15:01.788871881+05:30","level":"INFO","msg":"created new stream","id":"okesfvtk"}
+{"time":"2025-03-06T05:15:01.788917248+05:30","level":"INFO","msg":"stream: started","id":"okesfvtk"}
+{"time":"2025-03-06T05:15:01.788994195+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:15:01.789019524+05:30","level":"INFO","msg":"handler: started","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:15:01.789068289+05:30","level":"INFO","msg":"sender: started","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:15:02.12949282+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T05:16:28.228061496+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T05:16:28.228651733+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T05:16:29.230377396+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.432025603,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.150258224,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-06T05:16:30.207597271+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T05:16:31.513150107+05:30","level":"INFO","msg":"stream: closing","id":"okesfvtk"}
+{"time":"2025-03-06T05:16:31.513165941+05:30","level":"INFO","msg":"handler: closed","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:16:31.513175831+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:16:31.513186147+05:30","level":"INFO","msg":"sender: closed","stream_id":"okesfvtk"}
+{"time":"2025-03-06T05:16:31.513241724+05:30","level":"INFO","msg":"stream: closed","id":"okesfvtk"}

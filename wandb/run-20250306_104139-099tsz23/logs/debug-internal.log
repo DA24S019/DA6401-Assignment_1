@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:41:39.083171804+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_104139-099tsz23/logs/debug-core.log"}
+{"time":"2025-03-06T10:41:39.187110943+05:30","level":"INFO","msg":"created new stream","id":"099tsz23"}
+{"time":"2025-03-06T10:41:39.187139373+05:30","level":"INFO","msg":"stream: started","id":"099tsz23"}
+{"time":"2025-03-06T10:41:39.18714872+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:41:39.187160065+05:30","level":"INFO","msg":"sender: started","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:41:39.187192577+05:30","level":"INFO","msg":"handler: started","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:41:39.604638679+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:43:25.498518358+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:43:25.499174143+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:43:26.502409558+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.343970131,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.343964364,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T10:43:26.902457402+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:43:28.737590375+05:30","level":"INFO","msg":"stream: closing","id":"099tsz23"}
+{"time":"2025-03-06T10:43:28.737622505+05:30","level":"INFO","msg":"handler: closed","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:43:28.737632255+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:43:28.737639758+05:30","level":"INFO","msg":"sender: closed","stream_id":"099tsz23"}
+{"time":"2025-03-06T10:43:28.737705773+05:30","level":"INFO","msg":"stream: closed","id":"099tsz23"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T19:12:01.69224343+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_191201-lqtq2sk7/logs/debug-core.log"}
+{"time":"2025-03-05T19:12:01.796092732+05:30","level":"INFO","msg":"created new stream","id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:01.796121322+05:30","level":"INFO","msg":"stream: started","id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:01.796148634+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:01.796186516+05:30","level":"INFO","msg":"sender: started","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:01.796243306+05:30","level":"INFO","msg":"handler: started","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:02.26880749+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T19:12:36.322401605+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T19:12:36.323376507+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T19:12:37.325677408+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.535377991,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.226750694,"progress":"891B/891B"}],"total_operations":2}}
+{"time":"2025-03-05T19:12:38.145370501+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T19:12:39.473963376+05:30","level":"INFO","msg":"stream: closing","id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:39.473986064+05:30","level":"INFO","msg":"handler: closed","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:39.473999752+05:30","level":"INFO","msg":"sender: closed","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:39.473998034+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lqtq2sk7"}
+{"time":"2025-03-05T19:12:39.474053444+05:30","level":"INFO","msg":"stream: closed","id":"lqtq2sk7"}

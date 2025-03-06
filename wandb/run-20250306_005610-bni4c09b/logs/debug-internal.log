@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:56:10.768566783+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_005610-bni4c09b/logs/debug-core.log"}
+{"time":"2025-03-06T00:56:10.872727241+05:30","level":"INFO","msg":"created new stream","id":"bni4c09b"}
+{"time":"2025-03-06T00:56:10.872748157+05:30","level":"INFO","msg":"stream: started","id":"bni4c09b"}
+{"time":"2025-03-06T00:56:10.872759099+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:10.872790453+05:30","level":"INFO","msg":"sender: started","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:10.872821476+05:30","level":"INFO","msg":"handler: started","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:11.229641031+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:56:30.802487714+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:56:30.803054772+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:56:31.806808676+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.686657885,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.186454998,"progress":"882B/882B"}],"total_operations":2}}
+{"time":"2025-03-06T00:56:32.422925617+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:56:33.753080709+05:30","level":"INFO","msg":"stream: closing","id":"bni4c09b"}
+{"time":"2025-03-06T00:56:33.7530941+05:30","level":"INFO","msg":"handler: closed","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:33.75310799+05:30","level":"INFO","msg":"sender: closed","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:33.753104458+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bni4c09b"}
+{"time":"2025-03-06T00:56:33.753162978+05:30","level":"INFO","msg":"stream: closed","id":"bni4c09b"}

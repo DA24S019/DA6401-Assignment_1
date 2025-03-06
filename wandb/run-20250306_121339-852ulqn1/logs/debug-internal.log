@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:13:39.255104781+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_121339-852ulqn1/logs/debug-core.log"}
+{"time":"2025-03-06T12:13:39.358776776+05:30","level":"INFO","msg":"created new stream","id":"852ulqn1"}
+{"time":"2025-03-06T12:13:39.358806419+05:30","level":"INFO","msg":"stream: started","id":"852ulqn1"}
+{"time":"2025-03-06T12:13:39.358819878+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:13:39.358857769+05:30","level":"INFO","msg":"handler: started","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:13:39.358876037+05:30","level":"INFO","msg":"sender: started","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:13:39.821684153+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:16:42.370185542+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:16:42.371017207+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:16:43.373470655+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.326162912,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.326140974,"progress":"232B/232B"}],"total_operations":2}}
+{"time":"2025-03-06T12:16:44.339453499+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:16:45.720767409+05:30","level":"INFO","msg":"stream: closing","id":"852ulqn1"}
+{"time":"2025-03-06T12:16:45.720789068+05:30","level":"INFO","msg":"handler: closed","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:16:45.720801853+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:16:45.720824421+05:30","level":"INFO","msg":"sender: closed","stream_id":"852ulqn1"}
+{"time":"2025-03-06T12:16:45.720883013+05:30","level":"INFO","msg":"stream: closed","id":"852ulqn1"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T04:11:28.972381372+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_041128-1b979t88/logs/debug-core.log"}
+{"time":"2025-03-06T04:11:29.076769177+05:30","level":"INFO","msg":"created new stream","id":"1b979t88"}
+{"time":"2025-03-06T04:11:29.076819255+05:30","level":"INFO","msg":"stream: started","id":"1b979t88"}
+{"time":"2025-03-06T04:11:29.076875199+05:30","level":"INFO","msg":"handler: started","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:11:29.076865452+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:11:29.076960501+05:30","level":"INFO","msg":"sender: started","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:11:29.419713865+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T04:11:59.919219022+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T04:11:59.919906895+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T04:12:00.881344244+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.168714096,"progress":"228B/228B"},{"desc":"uploading output.log","runtime_seconds":0.168690851,"progress":"210B/210B"}],"total_operations":2}}
+{"time":"2025-03-06T04:12:02.00493941+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T04:12:03.319784874+05:30","level":"INFO","msg":"stream: closing","id":"1b979t88"}
+{"time":"2025-03-06T04:12:03.319806982+05:30","level":"INFO","msg":"handler: closed","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:12:03.319816139+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:12:03.319825369+05:30","level":"INFO","msg":"sender: closed","stream_id":"1b979t88"}
+{"time":"2025-03-06T04:12:03.319865724+05:30","level":"INFO","msg":"stream: closed","id":"1b979t88"}

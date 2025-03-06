@@ -1,0 +1,16 @@
+{"time":"2025-03-06T09:57:23.146715948+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_095723-ajogl6is/logs/debug-core.log"}
+{"time":"2025-03-06T09:57:23.250159727+05:30","level":"INFO","msg":"created new stream","id":"ajogl6is"}
+{"time":"2025-03-06T09:57:23.250201885+05:30","level":"INFO","msg":"stream: started","id":"ajogl6is"}
+{"time":"2025-03-06T09:57:23.250212989+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:57:23.250239387+05:30","level":"INFO","msg":"sender: started","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:57:23.250269753+05:30","level":"INFO","msg":"handler: started","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:57:23.573477011+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T09:58:18.224873619+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T09:58:18.226276146+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T09:58:19.138812734+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T09:58:19.233005518+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 8-9, summary, console lines 8-9","runtime_seconds":0.094069919}],"total_operations":1}}
+{"time":"2025-03-06T09:58:20.464213144+05:30","level":"INFO","msg":"stream: closing","id":"ajogl6is"}
+{"time":"2025-03-06T09:58:20.464246592+05:30","level":"INFO","msg":"handler: closed","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:58:20.46425593+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:58:20.464291561+05:30","level":"INFO","msg":"sender: closed","stream_id":"ajogl6is"}
+{"time":"2025-03-06T09:58:20.464339687+05:30","level":"INFO","msg":"stream: closed","id":"ajogl6is"}

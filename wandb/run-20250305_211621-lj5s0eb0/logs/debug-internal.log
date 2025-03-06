@@ -1,0 +1,16 @@
+{"time":"2025-03-05T21:16:21.745064797+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_211621-lj5s0eb0/logs/debug-core.log"}
+{"time":"2025-03-05T21:16:21.849103415+05:30","level":"INFO","msg":"created new stream","id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:21.849131446+05:30","level":"INFO","msg":"stream: started","id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:21.849177283+05:30","level":"INFO","msg":"handler: started","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:21.84921763+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:21.849252191+05:30","level":"INFO","msg":"sender: started","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:22.184074966+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:16:52.229784782+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:16:52.230375006+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:16:53.234408976+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 2-4, summary, console lines 2-4","runtime_seconds":0.321942215},{"desc":"uploading config.yaml","runtime_seconds":0.170819749,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-05T21:16:53.413117766+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:16:54.733697589+05:30","level":"INFO","msg":"stream: closing","id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:54.733717842+05:30","level":"INFO","msg":"handler: closed","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:54.73372697+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:54.733735204+05:30","level":"INFO","msg":"sender: closed","stream_id":"lj5s0eb0"}
+{"time":"2025-03-05T21:16:54.733798575+05:30","level":"INFO","msg":"stream: closed","id":"lj5s0eb0"}

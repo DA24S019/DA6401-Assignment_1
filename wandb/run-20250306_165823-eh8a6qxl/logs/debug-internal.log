@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:58:23.420115837+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_165823-eh8a6qxl/logs/debug-core.log"}
+{"time":"2025-03-06T16:58:23.524467963+05:30","level":"INFO","msg":"created new stream","id":"eh8a6qxl"}
+{"time":"2025-03-06T16:58:23.52450009+05:30","level":"INFO","msg":"stream: started","id":"eh8a6qxl"}
+{"time":"2025-03-06T16:58:23.524551398+05:30","level":"INFO","msg":"handler: started","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:58:23.52456828+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:58:23.524644009+05:30","level":"INFO","msg":"sender: started","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:58:23.87179179+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:59:32.602360293+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:59:32.603019143+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:59:33.606488837+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.352980456,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.065544812,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T16:59:34.546231776+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:59:35.864548615+05:30","level":"INFO","msg":"stream: closing","id":"eh8a6qxl"}
+{"time":"2025-03-06T16:59:35.86456879+05:30","level":"INFO","msg":"handler: closed","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:59:35.864583475+05:30","level":"INFO","msg":"sender: closed","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:59:35.864579779+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eh8a6qxl"}
+{"time":"2025-03-06T16:59:35.864645685+05:30","level":"INFO","msg":"stream: closed","id":"eh8a6qxl"}

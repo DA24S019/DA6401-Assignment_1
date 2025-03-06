@@ -1,0 +1,16 @@
+{"time":"2025-03-06T06:52:07.932378769+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_065207-gudhjjam/logs/debug-core.log"}
+{"time":"2025-03-06T06:52:08.036749091+05:30","level":"INFO","msg":"created new stream","id":"gudhjjam"}
+{"time":"2025-03-06T06:52:08.036791573+05:30","level":"INFO","msg":"stream: started","id":"gudhjjam"}
+{"time":"2025-03-06T06:52:08.036882744+05:30","level":"INFO","msg":"sender: started","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:08.036898166+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:08.03694242+05:30","level":"INFO","msg":"handler: started","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:08.353238817+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T06:52:52.412860508+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T06:52:52.413605529+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T06:52:53.371921796+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T06:52:53.418021002+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-4, summary, console lines 3-4","runtime_seconds":0.045933067}],"total_operations":1}}
+{"time":"2025-03-06T06:52:54.70272172+05:30","level":"INFO","msg":"stream: closing","id":"gudhjjam"}
+{"time":"2025-03-06T06:52:54.70274255+05:30","level":"INFO","msg":"handler: closed","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:54.702757087+05:30","level":"INFO","msg":"sender: closed","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:54.702753205+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gudhjjam"}
+{"time":"2025-03-06T06:52:54.702820718+05:30","level":"INFO","msg":"stream: closed","id":"gudhjjam"}

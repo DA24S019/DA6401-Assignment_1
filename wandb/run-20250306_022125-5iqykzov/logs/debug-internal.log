@@ -1,0 +1,16 @@
+{"time":"2025-03-06T02:21:25.292657179+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_022125-5iqykzov/logs/debug-core.log"}
+{"time":"2025-03-06T02:21:25.397193849+05:30","level":"INFO","msg":"created new stream","id":"5iqykzov"}
+{"time":"2025-03-06T02:21:25.397220701+05:30","level":"INFO","msg":"stream: started","id":"5iqykzov"}
+{"time":"2025-03-06T02:21:25.397275021+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:21:25.397313676+05:30","level":"INFO","msg":"handler: started","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:21:25.397332785+05:30","level":"INFO","msg":"sender: started","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:21:25.703806541+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T02:23:16.899277441+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T02:23:16.900463412+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T02:23:17.902272845+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.411016427,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.128200778,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-06T02:23:18.867390733+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T02:23:20.206342742+05:30","level":"INFO","msg":"stream: closing","id":"5iqykzov"}
+{"time":"2025-03-06T02:23:20.206374832+05:30","level":"INFO","msg":"handler: closed","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:23:20.206400596+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:23:20.206410909+05:30","level":"INFO","msg":"sender: closed","stream_id":"5iqykzov"}
+{"time":"2025-03-06T02:23:20.206459697+05:30","level":"INFO","msg":"stream: closed","id":"5iqykzov"}

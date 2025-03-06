@@ -1,0 +1,16 @@
+{"time":"2025-03-06T02:18:45.585668728+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_021845-ah7hibqq/logs/debug-core.log"}
+{"time":"2025-03-06T02:18:45.691109539+05:30","level":"INFO","msg":"created new stream","id":"ah7hibqq"}
+{"time":"2025-03-06T02:18:45.691137405+05:30","level":"INFO","msg":"stream: started","id":"ah7hibqq"}
+{"time":"2025-03-06T02:18:45.691173422+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:18:45.69120209+05:30","level":"INFO","msg":"handler: started","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:18:45.691247712+05:30","level":"INFO","msg":"sender: started","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:18:46.037907612+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T02:19:18.522266819+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T02:19:18.523669844+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T02:19:19.526589604+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.698991742,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.402021436,"progress":"881B/881B"}],"total_operations":2}}
+{"time":"2025-03-06T02:19:20.140941752+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T02:19:21.5013273+05:30","level":"INFO","msg":"stream: closing","id":"ah7hibqq"}
+{"time":"2025-03-06T02:19:21.501344551+05:30","level":"INFO","msg":"handler: closed","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:19:21.501354336+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:19:21.501360467+05:30","level":"INFO","msg":"sender: closed","stream_id":"ah7hibqq"}
+{"time":"2025-03-06T02:19:21.501412008+05:30","level":"INFO","msg":"stream: closed","id":"ah7hibqq"}

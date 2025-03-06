@@ -1,0 +1,16 @@
+{"time":"2025-03-06T07:18:39.822001003+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_071839-tm1ryno0/logs/debug-core.log"}
+{"time":"2025-03-06T07:18:39.926738771+05:30","level":"INFO","msg":"created new stream","id":"tm1ryno0"}
+{"time":"2025-03-06T07:18:39.926766195+05:30","level":"INFO","msg":"stream: started","id":"tm1ryno0"}
+{"time":"2025-03-06T07:18:39.926807677+05:30","level":"INFO","msg":"handler: started","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:18:39.926859587+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:18:39.926895993+05:30","level":"INFO","msg":"sender: started","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:18:40.268212717+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T07:20:14.435333734+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T07:20:14.436248231+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T07:20:15.438663777+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.18619582,"progress":"240B/240B"},{"desc":"uploading output.log","runtime_seconds":0.186174113,"progress":"420B/420B"}],"total_operations":2}}
+{"time":"2025-03-06T07:20:16.570424388+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T07:20:17.925628855+05:30","level":"INFO","msg":"stream: closing","id":"tm1ryno0"}
+{"time":"2025-03-06T07:20:17.925646131+05:30","level":"INFO","msg":"handler: closed","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:20:17.925656661+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:20:17.925670739+05:30","level":"INFO","msg":"sender: closed","stream_id":"tm1ryno0"}
+{"time":"2025-03-06T07:20:17.925726393+05:30","level":"INFO","msg":"stream: closed","id":"tm1ryno0"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T07:14:23.275957902+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_071423-sic7izlo/logs/debug-core.log"}
+{"time":"2025-03-06T07:14:23.380206011+05:30","level":"INFO","msg":"created new stream","id":"sic7izlo"}
+{"time":"2025-03-06T07:14:23.380259681+05:30","level":"INFO","msg":"stream: started","id":"sic7izlo"}
+{"time":"2025-03-06T07:14:23.380279184+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:14:23.380286312+05:30","level":"INFO","msg":"sender: started","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:14:23.380310403+05:30","level":"INFO","msg":"handler: started","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:14:23.753147351+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T07:16:04.507325088+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T07:16:04.50803333+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T07:16:05.511057714+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.42332564,"progress":"230B/230B"},{"desc":"uploading config.yaml","runtime_seconds":0.147141084,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-06T07:16:06.405986107+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T07:16:07.733032043+05:30","level":"INFO","msg":"stream: closing","id":"sic7izlo"}
+{"time":"2025-03-06T07:16:07.733047698+05:30","level":"INFO","msg":"handler: closed","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:16:07.733067485+05:30","level":"INFO","msg":"sender: closed","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:16:07.733063194+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sic7izlo"}
+{"time":"2025-03-06T07:16:07.733134489+05:30","level":"INFO","msg":"stream: closed","id":"sic7izlo"}

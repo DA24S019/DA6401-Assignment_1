@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:39:15.055970142+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_123915-rpb24ere/logs/debug-core.log"}
+{"time":"2025-03-06T12:39:15.160610116+05:30","level":"INFO","msg":"created new stream","id":"rpb24ere"}
+{"time":"2025-03-06T12:39:15.160650171+05:30","level":"INFO","msg":"stream: started","id":"rpb24ere"}
+{"time":"2025-03-06T12:39:15.160678931+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:39:15.16071875+05:30","level":"INFO","msg":"handler: started","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:39:15.160814853+05:30","level":"INFO","msg":"sender: started","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:39:15.723118468+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:41:07.414599932+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:41:07.41520263+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:41:08.417332494+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.293912862,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.293903028,"progress":"242B/242B"}],"total_operations":2}}
+{"time":"2025-03-06T12:41:09.412880927+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:41:10.738906682+05:30","level":"INFO","msg":"stream: closing","id":"rpb24ere"}
+{"time":"2025-03-06T12:41:10.738924461+05:30","level":"INFO","msg":"handler: closed","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:41:10.738935377+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:41:10.738944569+05:30","level":"INFO","msg":"sender: closed","stream_id":"rpb24ere"}
+{"time":"2025-03-06T12:41:10.739017703+05:30","level":"INFO","msg":"stream: closed","id":"rpb24ere"}

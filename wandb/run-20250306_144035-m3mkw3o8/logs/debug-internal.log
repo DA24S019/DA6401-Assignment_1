@@ -1,0 +1,16 @@
+{"time":"2025-03-06T14:40:35.996811634+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_144035-m3mkw3o8/logs/debug-core.log"}
+{"time":"2025-03-06T14:40:36.102108861+05:30","level":"INFO","msg":"created new stream","id":"m3mkw3o8"}
+{"time":"2025-03-06T14:40:36.102152195+05:30","level":"INFO","msg":"stream: started","id":"m3mkw3o8"}
+{"time":"2025-03-06T14:40:36.102171002+05:30","level":"INFO","msg":"handler: started","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:40:36.102169849+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:40:36.102199407+05:30","level":"INFO","msg":"sender: started","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:40:36.42218782+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T14:42:57.727301523+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T14:42:57.728208064+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T14:42:58.731522875+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.403936511,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.106825004,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T14:42:59.619929996+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T14:43:00.958231697+05:30","level":"INFO","msg":"stream: closing","id":"m3mkw3o8"}
+{"time":"2025-03-06T14:43:00.958265833+05:30","level":"INFO","msg":"handler: closed","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:43:00.958291065+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:43:00.958293939+05:30","level":"INFO","msg":"sender: closed","stream_id":"m3mkw3o8"}
+{"time":"2025-03-06T14:43:00.958387142+05:30","level":"INFO","msg":"stream: closed","id":"m3mkw3o8"}

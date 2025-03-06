@@ -1,0 +1,16 @@
+{"time":"2025-03-06T02:51:58.450364019+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_025158-djvct81a/logs/debug-core.log"}
+{"time":"2025-03-06T02:51:58.554781102+05:30","level":"INFO","msg":"created new stream","id":"djvct81a"}
+{"time":"2025-03-06T02:51:58.554806725+05:30","level":"INFO","msg":"stream: started","id":"djvct81a"}
+{"time":"2025-03-06T02:51:58.554853591+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:51:58.554864128+05:30","level":"INFO","msg":"handler: started","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:51:58.55489126+05:30","level":"INFO","msg":"sender: started","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:51:58.903622533+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T02:53:45.864420395+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T02:53:45.865098299+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T02:53:46.870058196+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.414018675,"progress":"242B/242B"},{"desc":"uploading output.log","runtime_seconds":0.414011734,"progress":"420B/420B"},{"desc":"uploading config.yaml","runtime_seconds":0.113985214,"progress":"888B/888B"}],"total_operations":3}}
+{"time":"2025-03-06T02:53:47.777021789+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T02:53:49.092355493+05:30","level":"INFO","msg":"stream: closing","id":"djvct81a"}
+{"time":"2025-03-06T02:53:49.092375509+05:30","level":"INFO","msg":"handler: closed","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:53:49.092386493+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:53:49.092394003+05:30","level":"INFO","msg":"sender: closed","stream_id":"djvct81a"}
+{"time":"2025-03-06T02:53:49.092450896+05:30","level":"INFO","msg":"stream: closed","id":"djvct81a"}

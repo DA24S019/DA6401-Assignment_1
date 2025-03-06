@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:35:58.501349166+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_013558-a3198go0/logs/debug-core.log"}
+{"time":"2025-03-06T01:35:58.605869166+05:30","level":"INFO","msg":"created new stream","id":"a3198go0"}
+{"time":"2025-03-06T01:35:58.605910814+05:30","level":"INFO","msg":"stream: started","id":"a3198go0"}
+{"time":"2025-03-06T01:35:58.605948205+05:30","level":"INFO","msg":"handler: started","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:35:58.605937361+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:35:58.606070955+05:30","level":"INFO","msg":"sender: started","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:35:58.940885386+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:36:24.795946246+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:36:24.796767125+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:36:25.801721658+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.68478976,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.316230471,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T01:36:26.407827947+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:36:27.722411021+05:30","level":"INFO","msg":"stream: closing","id":"a3198go0"}
+{"time":"2025-03-06T01:36:27.722427547+05:30","level":"INFO","msg":"handler: closed","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:36:27.722436174+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:36:27.722443844+05:30","level":"INFO","msg":"sender: closed","stream_id":"a3198go0"}
+{"time":"2025-03-06T01:36:27.722507476+05:30","level":"INFO","msg":"stream: closed","id":"a3198go0"}

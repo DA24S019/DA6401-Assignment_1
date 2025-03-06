@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:39:16.694444281+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_013916-pe0owots/logs/debug-core.log"}
+{"time":"2025-03-06T01:39:16.798237073+05:30","level":"INFO","msg":"created new stream","id":"pe0owots"}
+{"time":"2025-03-06T01:39:16.798266232+05:30","level":"INFO","msg":"stream: started","id":"pe0owots"}
+{"time":"2025-03-06T01:39:16.798329363+05:30","level":"INFO","msg":"sender: started","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:16.798328334+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:16.798404536+05:30","level":"INFO","msg":"handler: started","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:17.263630772+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:39:46.565035039+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:39:46.566499282+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:39:47.569572035+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.688912923,"progress":"225B/225B"},{"desc":"uploading config.yaml","runtime_seconds":0.408330835,"progress":"880B/880B"}],"total_operations":2}}
+{"time":"2025-03-06T01:39:48.168804659+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:39:49.596664723+05:30","level":"INFO","msg":"stream: closing","id":"pe0owots"}
+{"time":"2025-03-06T01:39:49.596678709+05:30","level":"INFO","msg":"handler: closed","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:49.596686403+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:49.596697206+05:30","level":"INFO","msg":"sender: closed","stream_id":"pe0owots"}
+{"time":"2025-03-06T01:39:49.59674162+05:30","level":"INFO","msg":"stream: closed","id":"pe0owots"}

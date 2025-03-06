@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:29:44.298093721+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_132944-qc239n2p/logs/debug-core.log"}
+{"time":"2025-03-06T13:29:44.402324017+05:30","level":"INFO","msg":"created new stream","id":"qc239n2p"}
+{"time":"2025-03-06T13:29:44.402351573+05:30","level":"INFO","msg":"stream: started","id":"qc239n2p"}
+{"time":"2025-03-06T13:29:44.40238121+05:30","level":"INFO","msg":"sender: started","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:29:44.402370774+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:29:44.40240625+05:30","level":"INFO","msg":"handler: started","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:29:45.08738533+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:30:49.73632563+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:30:49.73686893+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:30:50.740514377+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.318238634,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.318214825,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T13:30:51.333967036+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:30:52.888512641+05:30","level":"INFO","msg":"stream: closing","id":"qc239n2p"}
+{"time":"2025-03-06T13:30:52.888532972+05:30","level":"INFO","msg":"handler: closed","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:30:52.888549213+05:30","level":"INFO","msg":"sender: closed","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:30:52.888543458+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qc239n2p"}
+{"time":"2025-03-06T13:30:52.888601867+05:30","level":"INFO","msg":"stream: closed","id":"qc239n2p"}

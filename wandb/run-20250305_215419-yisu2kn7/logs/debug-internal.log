@@ -1,0 +1,16 @@
+{"time":"2025-03-05T21:54:19.36498046+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_215419-yisu2kn7/logs/debug-core.log"}
+{"time":"2025-03-05T21:54:19.469332773+05:30","level":"INFO","msg":"created new stream","id":"yisu2kn7"}
+{"time":"2025-03-05T21:54:19.469366258+05:30","level":"INFO","msg":"stream: started","id":"yisu2kn7"}
+{"time":"2025-03-05T21:54:19.469396435+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:54:19.469424235+05:30","level":"INFO","msg":"handler: started","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:54:19.469483817+05:30","level":"INFO","msg":"sender: started","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:54:19.799617258+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:55:07.536025023+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:55:07.536655462+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:55:08.539415863+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681310766,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.380709566,"progress":"882B/882B"}],"total_operations":2}}
+{"time":"2025-03-05T21:55:09.180154102+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:55:10.524410334+05:30","level":"INFO","msg":"stream: closing","id":"yisu2kn7"}
+{"time":"2025-03-05T21:55:10.524430117+05:30","level":"INFO","msg":"handler: closed","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:55:10.524441399+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:55:10.524448945+05:30","level":"INFO","msg":"sender: closed","stream_id":"yisu2kn7"}
+{"time":"2025-03-05T21:55:10.524496974+05:30","level":"INFO","msg":"stream: closed","id":"yisu2kn7"}

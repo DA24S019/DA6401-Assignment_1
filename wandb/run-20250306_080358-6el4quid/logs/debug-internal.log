@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:03:58.188375424+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_080358-6el4quid/logs/debug-core.log"}
+{"time":"2025-03-06T08:03:58.292217826+05:30","level":"INFO","msg":"created new stream","id":"6el4quid"}
+{"time":"2025-03-06T08:03:58.292254979+05:30","level":"INFO","msg":"stream: started","id":"6el4quid"}
+{"time":"2025-03-06T08:03:58.292293948+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:03:58.292328718+05:30","level":"INFO","msg":"handler: started","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:03:58.29237407+05:30","level":"INFO","msg":"sender: started","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:03:58.636662788+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:06:00.569415696+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:06:00.570179372+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:06:01.573593007+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.360616381,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.09332686,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T08:06:02.499930031+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:06:03.83448586+05:30","level":"INFO","msg":"stream: closing","id":"6el4quid"}
+{"time":"2025-03-06T08:06:03.83450333+05:30","level":"INFO","msg":"handler: closed","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:06:03.834514692+05:30","level":"INFO","msg":"sender: closed","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:06:03.834512712+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6el4quid"}
+{"time":"2025-03-06T08:06:03.834576581+05:30","level":"INFO","msg":"stream: closed","id":"6el4quid"}

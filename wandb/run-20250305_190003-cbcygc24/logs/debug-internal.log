@@ -1,0 +1,16 @@
+{"time":"2025-03-05T19:00:03.824713884+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_190003-cbcygc24/logs/debug-core.log"}
+{"time":"2025-03-05T19:00:03.928926524+05:30","level":"INFO","msg":"created new stream","id":"cbcygc24"}
+{"time":"2025-03-05T19:00:03.928949337+05:30","level":"INFO","msg":"stream: started","id":"cbcygc24"}
+{"time":"2025-03-05T19:00:03.928999758+05:30","level":"INFO","msg":"handler: started","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:03.928998105+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:03.929026017+05:30","level":"INFO","msg":"sender: started","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:04.346059654+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T19:00:36.268739829+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T19:00:36.269420643+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T19:00:37.272067813+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.384578993,"progress":"882B/882B"}],"total_operations":1}}
+{"time":"2025-03-05T19:00:37.290083267+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T19:00:38.620097437+05:30","level":"INFO","msg":"stream: closing","id":"cbcygc24"}
+{"time":"2025-03-05T19:00:38.620118407+05:30","level":"INFO","msg":"handler: closed","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:38.620131065+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:38.620163045+05:30","level":"INFO","msg":"sender: closed","stream_id":"cbcygc24"}
+{"time":"2025-03-05T19:00:38.620186275+05:30","level":"INFO","msg":"stream: closed","id":"cbcygc24"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T19:43:16.672068553+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_194316-jsqamrrh/logs/debug-core.log"}
+{"time":"2025-03-05T19:43:16.776375652+05:30","level":"INFO","msg":"created new stream","id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:16.776409813+05:30","level":"INFO","msg":"stream: started","id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:16.776455502+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:16.776465497+05:30","level":"INFO","msg":"sender: started","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:16.776461856+05:30","level":"INFO","msg":"handler: started","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:17.088026566+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T19:43:35.654560394+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T19:43:35.655371032+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T19:43:36.59974809+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T19:43:36.659426089+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 4-4, summary, console lines 4-4","runtime_seconds":0.059566644}],"total_operations":1}}
+{"time":"2025-03-05T19:43:37.902773637+05:30","level":"INFO","msg":"stream: closing","id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:37.902789417+05:30","level":"INFO","msg":"handler: closed","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:37.902796836+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:37.902806475+05:30","level":"INFO","msg":"sender: closed","stream_id":"jsqamrrh"}
+{"time":"2025-03-05T19:43:37.90285606+05:30","level":"INFO","msg":"stream: closed","id":"jsqamrrh"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:48:03.804805453+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_104803-ejkedum3/logs/debug-core.log"}
+{"time":"2025-03-06T10:48:03.909245489+05:30","level":"INFO","msg":"created new stream","id":"ejkedum3"}
+{"time":"2025-03-06T10:48:03.909270193+05:30","level":"INFO","msg":"stream: started","id":"ejkedum3"}
+{"time":"2025-03-06T10:48:03.909327516+05:30","level":"INFO","msg":"handler: started","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:48:03.909339499+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:48:03.909368906+05:30","level":"INFO","msg":"sender: started","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:48:04.281110124+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:49:55.763033762+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:49:55.767160345+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:49:56.766556613+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.423394916,"progress":"420B/420B"},{"desc":"uploading config.yaml","runtime_seconds":0.123113645,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-06T10:49:57.042099888+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:49:58.361893308+05:30","level":"INFO","msg":"stream: closing","id":"ejkedum3"}
+{"time":"2025-03-06T10:49:58.361912154+05:30","level":"INFO","msg":"handler: closed","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:49:58.361928498+05:30","level":"INFO","msg":"sender: closed","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:49:58.361922813+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ejkedum3"}
+{"time":"2025-03-06T10:49:58.361998718+05:30","level":"INFO","msg":"stream: closed","id":"ejkedum3"}

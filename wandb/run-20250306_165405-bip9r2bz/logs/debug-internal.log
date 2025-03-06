@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:54:05.799073668+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_165405-bip9r2bz/logs/debug-core.log"}
+{"time":"2025-03-06T16:54:05.902491678+05:30","level":"INFO","msg":"created new stream","id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:05.902522579+05:30","level":"INFO","msg":"stream: started","id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:05.902592611+05:30","level":"INFO","msg":"handler: started","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:05.902630448+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:05.902675245+05:30","level":"INFO","msg":"sender: started","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:06.287694798+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:54:40.04643378+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:54:40.047912085+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:54:41.051143691+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.681824321,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.3712676,"progress":"882B/882B"}],"total_operations":2}}
+{"time":"2025-03-06T16:54:41.652121829+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:54:42.989224351+05:30","level":"INFO","msg":"stream: closing","id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:42.989245931+05:30","level":"INFO","msg":"handler: closed","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:42.989256875+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:42.989264002+05:30","level":"INFO","msg":"sender: closed","stream_id":"bip9r2bz"}
+{"time":"2025-03-06T16:54:42.989310927+05:30","level":"INFO","msg":"stream: closed","id":"bip9r2bz"}

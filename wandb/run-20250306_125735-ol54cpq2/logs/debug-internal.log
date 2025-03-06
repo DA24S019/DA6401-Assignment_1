@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:57:35.212444296+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_125735-ol54cpq2/logs/debug-core.log"}
+{"time":"2025-03-06T12:57:35.316325059+05:30","level":"INFO","msg":"created new stream","id":"ol54cpq2"}
+{"time":"2025-03-06T12:57:35.316377148+05:30","level":"INFO","msg":"stream: started","id":"ol54cpq2"}
+{"time":"2025-03-06T12:57:35.316367489+05:30","level":"INFO","msg":"handler: started","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T12:57:35.316378813+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T12:57:35.31643748+05:30","level":"INFO","msg":"sender: started","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T12:57:35.850364685+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:01:19.240125301+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:01:19.240766211+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:01:20.244896782+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.305116027,"progress":"231B/231B"},{"desc":"uploading output.log","runtime_seconds":0.305108633,"progress":"420B/420B"}],"total_operations":2}}
+{"time":"2025-03-06T13:01:20.719742461+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:01:22.402248867+05:30","level":"INFO","msg":"stream: closing","id":"ol54cpq2"}
+{"time":"2025-03-06T13:01:22.402284531+05:30","level":"INFO","msg":"handler: closed","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T13:01:22.402298526+05:30","level":"INFO","msg":"sender: closed","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T13:01:22.402294878+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ol54cpq2"}
+{"time":"2025-03-06T13:01:22.402411257+05:30","level":"INFO","msg":"stream: closed","id":"ol54cpq2"}

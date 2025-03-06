@@ -1,0 +1,16 @@
+{"time":"2025-03-06T02:33:56.125991204+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_023356-miate17l/logs/debug-core.log"}
+{"time":"2025-03-06T02:33:56.230188316+05:30","level":"INFO","msg":"created new stream","id":"miate17l"}
+{"time":"2025-03-06T02:33:56.230223442+05:30","level":"INFO","msg":"stream: started","id":"miate17l"}
+{"time":"2025-03-06T02:33:56.230237986+05:30","level":"INFO","msg":"handler: started","stream_id":"miate17l"}
+{"time":"2025-03-06T02:33:56.230233952+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"miate17l"}
+{"time":"2025-03-06T02:33:56.230337782+05:30","level":"INFO","msg":"sender: started","stream_id":"miate17l"}
+{"time":"2025-03-06T02:33:56.564115252+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T02:34:29.150945466+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T02:34:29.15159934+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T02:34:30.155134387+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.641531072,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.33935856,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T02:34:30.841676154+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T02:34:32.169030743+05:30","level":"INFO","msg":"stream: closing","id":"miate17l"}
+{"time":"2025-03-06T02:34:32.169062683+05:30","level":"INFO","msg":"handler: closed","stream_id":"miate17l"}
+{"time":"2025-03-06T02:34:32.169076283+05:30","level":"INFO","msg":"sender: closed","stream_id":"miate17l"}
+{"time":"2025-03-06T02:34:32.169071807+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"miate17l"}
+{"time":"2025-03-06T02:34:32.169120537+05:30","level":"INFO","msg":"stream: closed","id":"miate17l"}

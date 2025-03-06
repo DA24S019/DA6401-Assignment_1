@@ -1,0 +1,16 @@
+{"time":"2025-03-06T17:11:47.302666549+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_171147-d1c7g7qh/logs/debug-core.log"}
+{"time":"2025-03-06T17:11:47.407757709+05:30","level":"INFO","msg":"created new stream","id":"d1c7g7qh"}
+{"time":"2025-03-06T17:11:47.407788183+05:30","level":"INFO","msg":"stream: started","id":"d1c7g7qh"}
+{"time":"2025-03-06T17:11:47.4078746+05:30","level":"INFO","msg":"handler: started","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:11:47.407921696+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:11:47.407964708+05:30","level":"INFO","msg":"sender: started","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:11:47.753777852+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T17:12:46.622988376+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T17:12:46.623805234+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T17:12:47.626056722+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.684142487,"progress":"229B/229B"},{"desc":"uploading config.yaml","runtime_seconds":0.383041747,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T17:12:47.676219655+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T17:12:49.061787109+05:30","level":"INFO","msg":"stream: closing","id":"d1c7g7qh"}
+{"time":"2025-03-06T17:12:49.061807166+05:30","level":"INFO","msg":"handler: closed","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:12:49.061818488+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:12:49.06182763+05:30","level":"INFO","msg":"sender: closed","stream_id":"d1c7g7qh"}
+{"time":"2025-03-06T17:12:49.061881231+05:30","level":"INFO","msg":"stream: closed","id":"d1c7g7qh"}

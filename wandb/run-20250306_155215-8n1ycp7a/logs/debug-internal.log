@@ -1,0 +1,16 @@
+{"time":"2025-03-06T15:52:15.229609878+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_155215-8n1ycp7a/logs/debug-core.log"}
+{"time":"2025-03-06T15:52:15.334561725+05:30","level":"INFO","msg":"created new stream","id":"8n1ycp7a"}
+{"time":"2025-03-06T15:52:15.334586392+05:30","level":"INFO","msg":"stream: started","id":"8n1ycp7a"}
+{"time":"2025-03-06T15:52:15.3346685+05:30","level":"INFO","msg":"handler: started","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:52:15.334669624+05:30","level":"INFO","msg":"sender: started","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:52:15.33466065+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:52:15.766093801+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T15:53:26.679250382+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T15:53:26.680732776+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T15:53:27.68205805+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.305974839,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.305966546,"progress":"242B/242B"}],"total_operations":2}}
+{"time":"2025-03-06T15:53:28.655988579+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T15:53:29.985500914+05:30","level":"INFO","msg":"stream: closing","id":"8n1ycp7a"}
+{"time":"2025-03-06T15:53:29.985521905+05:30","level":"INFO","msg":"handler: closed","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:53:29.985539607+05:30","level":"INFO","msg":"sender: closed","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:53:29.985533878+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8n1ycp7a"}
+{"time":"2025-03-06T15:53:29.98559139+05:30","level":"INFO","msg":"stream: closed","id":"8n1ycp7a"}

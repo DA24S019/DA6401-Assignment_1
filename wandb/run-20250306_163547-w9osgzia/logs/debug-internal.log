@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:35:47.599180047+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_163547-w9osgzia/logs/debug-core.log"}
+{"time":"2025-03-06T16:35:47.703287146+05:30","level":"INFO","msg":"created new stream","id":"w9osgzia"}
+{"time":"2025-03-06T16:35:47.703312465+05:30","level":"INFO","msg":"stream: started","id":"w9osgzia"}
+{"time":"2025-03-06T16:35:47.703353559+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:35:47.703356411+05:30","level":"INFO","msg":"sender: started","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:35:47.703409732+05:30","level":"INFO","msg":"handler: started","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:35:48.038324125+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:38:32.535237828+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:38:32.536167342+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:38:33.539833028+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.391082263,"progress":"420B/420B"},{"desc":"uploading config.yaml","runtime_seconds":0.105483835,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T16:38:33.970292709+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:38:35.346515727+05:30","level":"INFO","msg":"stream: closing","id":"w9osgzia"}
+{"time":"2025-03-06T16:38:35.346534897+05:30","level":"INFO","msg":"handler: closed","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:38:35.346558898+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:38:35.346594005+05:30","level":"INFO","msg":"sender: closed","stream_id":"w9osgzia"}
+{"time":"2025-03-06T16:38:35.346649231+05:30","level":"INFO","msg":"stream: closed","id":"w9osgzia"}

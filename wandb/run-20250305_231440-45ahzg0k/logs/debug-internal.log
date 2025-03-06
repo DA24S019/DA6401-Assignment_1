@@ -1,0 +1,17 @@
+{"time":"2025-03-05T23:14:40.41629063+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_231440-45ahzg0k/logs/debug-core.log"}
+{"time":"2025-03-05T23:14:40.519892783+05:30","level":"INFO","msg":"created new stream","id":"45ahzg0k"}
+{"time":"2025-03-05T23:14:40.519922946+05:30","level":"INFO","msg":"stream: started","id":"45ahzg0k"}
+{"time":"2025-03-05T23:14:40.519941973+05:30","level":"INFO","msg":"handler: started","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:14:40.519997659+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:14:40.520040542+05:30","level":"INFO","msg":"sender: started","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:15:10.521957053+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-05T23:15:12.950918785+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T23:16:06.360082264+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T23:16:06.360899601+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T23:16:07.364951381+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.311151116,"progress":"885B/885B"}],"total_operations":1}}
+{"time":"2025-03-05T23:16:07.391270619+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T23:16:08.732346778+05:30","level":"INFO","msg":"stream: closing","id":"45ahzg0k"}
+{"time":"2025-03-05T23:16:08.732364211+05:30","level":"INFO","msg":"handler: closed","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:16:08.732372358+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:16:08.732434681+05:30","level":"INFO","msg":"sender: closed","stream_id":"45ahzg0k"}
+{"time":"2025-03-05T23:16:08.732466479+05:30","level":"INFO","msg":"stream: closed","id":"45ahzg0k"}

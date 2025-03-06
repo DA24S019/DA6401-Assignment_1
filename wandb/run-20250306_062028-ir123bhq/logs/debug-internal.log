@@ -1,0 +1,16 @@
+{"time":"2025-03-06T06:20:28.320224797+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_062028-ir123bhq/logs/debug-core.log"}
+{"time":"2025-03-06T06:20:28.425360391+05:30","level":"INFO","msg":"created new stream","id":"ir123bhq"}
+{"time":"2025-03-06T06:20:28.425408635+05:30","level":"INFO","msg":"stream: started","id":"ir123bhq"}
+{"time":"2025-03-06T06:20:28.425424121+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:20:28.425436972+05:30","level":"INFO","msg":"handler: started","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:20:28.425499845+05:30","level":"INFO","msg":"sender: started","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:20:28.735624629+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T06:21:08.529106205+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T06:21:08.529723229+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T06:21:09.532270774+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.692581461,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.330718359,"progress":"889B/889B"}],"total_operations":2}}
+{"time":"2025-03-06T06:21:10.140835178+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T06:21:11.475158595+05:30","level":"INFO","msg":"stream: closing","id":"ir123bhq"}
+{"time":"2025-03-06T06:21:11.475189397+05:30","level":"INFO","msg":"handler: closed","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:21:11.475197869+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:21:11.475243608+05:30","level":"INFO","msg":"sender: closed","stream_id":"ir123bhq"}
+{"time":"2025-03-06T06:21:11.47526611+05:30","level":"INFO","msg":"stream: closed","id":"ir123bhq"}

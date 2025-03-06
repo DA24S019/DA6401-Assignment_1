@@ -1,0 +1,16 @@
+{"time":"2025-03-06T07:12:21.791631965+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_071221-ug2zfaff/logs/debug-core.log"}
+{"time":"2025-03-06T07:12:21.896651214+05:30","level":"INFO","msg":"created new stream","id":"ug2zfaff"}
+{"time":"2025-03-06T07:12:21.896690525+05:30","level":"INFO","msg":"stream: started","id":"ug2zfaff"}
+{"time":"2025-03-06T07:12:21.896721774+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:12:21.896738535+05:30","level":"INFO","msg":"sender: started","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:12:21.896835408+05:30","level":"INFO","msg":"handler: started","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:12:22.228009986+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T07:14:09.829241548+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T07:14:09.829747162+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T07:14:10.832234408+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.313175351,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.313164649,"progress":"242B/242B"}],"total_operations":2}}
+{"time":"2025-03-06T07:14:11.202411047+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T07:14:12.506889178+05:30","level":"INFO","msg":"stream: closing","id":"ug2zfaff"}
+{"time":"2025-03-06T07:14:12.506906536+05:30","level":"INFO","msg":"handler: closed","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:14:12.506917918+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:14:12.506928587+05:30","level":"INFO","msg":"sender: closed","stream_id":"ug2zfaff"}
+{"time":"2025-03-06T07:14:12.506970012+05:30","level":"INFO","msg":"stream: closed","id":"ug2zfaff"}

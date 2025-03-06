@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:55:12.968276739+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_105512-zy9qkcqy/logs/debug-core.log"}
+{"time":"2025-03-06T10:55:13.071869364+05:30","level":"INFO","msg":"created new stream","id":"zy9qkcqy"}
+{"time":"2025-03-06T10:55:13.071895478+05:30","level":"INFO","msg":"stream: started","id":"zy9qkcqy"}
+{"time":"2025-03-06T10:55:13.072021246+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:55:13.07199957+05:30","level":"INFO","msg":"handler: started","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:55:13.072090123+05:30","level":"INFO","msg":"sender: started","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:55:13.624526264+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:57:01.768349578+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:57:01.769180085+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:57:02.772232608+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.300707738,"progress":"243B/243B"},{"desc":"uploading output.log","runtime_seconds":0.300696582,"progress":"420B/420B"}],"total_operations":2}}
+{"time":"2025-03-06T10:57:03.388319254+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:57:04.806887352+05:30","level":"INFO","msg":"stream: closing","id":"zy9qkcqy"}
+{"time":"2025-03-06T10:57:04.806902425+05:30","level":"INFO","msg":"handler: closed","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:57:04.806916837+05:30","level":"INFO","msg":"sender: closed","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:57:04.806911122+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zy9qkcqy"}
+{"time":"2025-03-06T10:57:04.806961678+05:30","level":"INFO","msg":"stream: closed","id":"zy9qkcqy"}

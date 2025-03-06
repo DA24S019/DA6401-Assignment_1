@@ -1,0 +1,16 @@
+{"time":"2025-03-06T03:07:09.612925052+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_030709-hj7gvgs3/logs/debug-core.log"}
+{"time":"2025-03-06T03:07:09.716876869+05:30","level":"INFO","msg":"created new stream","id":"hj7gvgs3"}
+{"time":"2025-03-06T03:07:09.716925637+05:30","level":"INFO","msg":"stream: started","id":"hj7gvgs3"}
+{"time":"2025-03-06T03:07:09.716952771+05:30","level":"INFO","msg":"handler: started","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:07:09.716958796+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:07:09.717017284+05:30","level":"INFO","msg":"sender: started","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:07:10.029329001+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T03:08:13.999852467+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T03:08:14.000652383+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T03:08:15.003457101+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.403038503,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.106296091,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T03:08:15.945693252+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T03:08:17.278044445+05:30","level":"INFO","msg":"stream: closing","id":"hj7gvgs3"}
+{"time":"2025-03-06T03:08:17.278059485+05:30","level":"INFO","msg":"handler: closed","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:08:17.27806795+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:08:17.278125409+05:30","level":"INFO","msg":"sender: closed","stream_id":"hj7gvgs3"}
+{"time":"2025-03-06T03:08:17.278169211+05:30","level":"INFO","msg":"stream: closed","id":"hj7gvgs3"}

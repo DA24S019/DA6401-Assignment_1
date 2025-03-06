@@ -1,0 +1,16 @@
+{"time":"2025-03-06T10:04:49.315637019+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_100449-u106dbit/logs/debug-core.log"}
+{"time":"2025-03-06T10:04:49.420070667+05:30","level":"INFO","msg":"created new stream","id":"u106dbit"}
+{"time":"2025-03-06T10:04:49.420113357+05:30","level":"INFO","msg":"stream: started","id":"u106dbit"}
+{"time":"2025-03-06T10:04:49.42012923+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:04:49.42013421+05:30","level":"INFO","msg":"sender: started","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:04:49.420229897+05:30","level":"INFO","msg":"handler: started","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:04:49.762877859+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T10:06:24.756079307+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T10:06:24.756888584+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T10:06:25.759750866+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.268955042,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.268933322,"progress":"239B/239B"}],"total_operations":2}}
+{"time":"2025-03-06T10:06:26.120803804+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T10:06:27.470559321+05:30","level":"INFO","msg":"stream: closing","id":"u106dbit"}
+{"time":"2025-03-06T10:06:27.470578132+05:30","level":"INFO","msg":"handler: closed","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:06:27.470602175+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:06:27.470609283+05:30","level":"INFO","msg":"sender: closed","stream_id":"u106dbit"}
+{"time":"2025-03-06T10:06:27.470662715+05:30","level":"INFO","msg":"stream: closed","id":"u106dbit"}

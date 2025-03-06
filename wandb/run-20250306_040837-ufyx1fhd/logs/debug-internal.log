@@ -1,0 +1,16 @@
+{"time":"2025-03-06T04:08:37.670640714+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_040837-ufyx1fhd/logs/debug-core.log"}
+{"time":"2025-03-06T04:08:37.775209409+05:30","level":"INFO","msg":"created new stream","id":"ufyx1fhd"}
+{"time":"2025-03-06T04:08:37.775245506+05:30","level":"INFO","msg":"stream: started","id":"ufyx1fhd"}
+{"time":"2025-03-06T04:08:37.775261802+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:08:37.775265238+05:30","level":"INFO","msg":"handler: started","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:08:37.775377142+05:30","level":"INFO","msg":"sender: started","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:08:38.09543908+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T04:08:59.390538174+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T04:08:59.391232454+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T04:09:00.393960679+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.693267116,"progress":"240B/240B"},{"desc":"uploading config.yaml","runtime_seconds":0.396115884,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T04:09:00.998475932+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T04:09:02.336107975+05:30","level":"INFO","msg":"stream: closing","id":"ufyx1fhd"}
+{"time":"2025-03-06T04:09:02.336127224+05:30","level":"INFO","msg":"handler: closed","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:09:02.3361417+05:30","level":"INFO","msg":"sender: closed","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:09:02.336138699+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ufyx1fhd"}
+{"time":"2025-03-06T04:09:02.336213377+05:30","level":"INFO","msg":"stream: closed","id":"ufyx1fhd"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T05:09:06.128643169+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_050906-3dlm9af7/logs/debug-core.log"}
+{"time":"2025-03-06T05:09:06.233594657+05:30","level":"INFO","msg":"created new stream","id":"3dlm9af7"}
+{"time":"2025-03-06T05:09:06.233627718+05:30","level":"INFO","msg":"stream: started","id":"3dlm9af7"}
+{"time":"2025-03-06T05:09:06.233673575+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:09:06.23373996+05:30","level":"INFO","msg":"handler: started","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:09:06.233790039+05:30","level":"INFO","msg":"sender: started","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:09:06.544127642+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T05:10:45.146645518+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T05:10:45.14733842+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T05:10:46.150215112+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.415367377,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.106605252,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T05:10:47.049712061+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T05:10:48.3784629+05:30","level":"INFO","msg":"stream: closing","id":"3dlm9af7"}
+{"time":"2025-03-06T05:10:48.378483168+05:30","level":"INFO","msg":"handler: closed","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:10:48.378493192+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:10:48.378501557+05:30","level":"INFO","msg":"sender: closed","stream_id":"3dlm9af7"}
+{"time":"2025-03-06T05:10:48.378561225+05:30","level":"INFO","msg":"stream: closed","id":"3dlm9af7"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:50:04.113961421+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_005004-lbd96bbh/logs/debug-core.log"}
+{"time":"2025-03-06T00:50:04.218445973+05:30","level":"INFO","msg":"created new stream","id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:04.218481503+05:30","level":"INFO","msg":"stream: started","id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:04.218519351+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:04.218574885+05:30","level":"INFO","msg":"sender: started","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:04.218591201+05:30","level":"INFO","msg":"handler: started","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:04.536470834+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:50:28.442628283+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:50:28.444085063+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:50:29.44580765+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.687027409,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.348396233,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-06T00:50:30.0926507+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:50:31.407445724+05:30","level":"INFO","msg":"stream: closing","id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:31.407463904+05:30","level":"INFO","msg":"handler: closed","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:31.407475012+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:31.40748837+05:30","level":"INFO","msg":"sender: closed","stream_id":"lbd96bbh"}
+{"time":"2025-03-06T00:50:31.407530601+05:30","level":"INFO","msg":"stream: closed","id":"lbd96bbh"}

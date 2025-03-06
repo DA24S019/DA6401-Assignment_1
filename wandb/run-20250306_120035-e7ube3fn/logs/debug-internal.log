@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:00:35.110881255+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_120035-e7ube3fn/logs/debug-core.log"}
+{"time":"2025-03-06T12:00:35.217053713+05:30","level":"INFO","msg":"created new stream","id":"e7ube3fn"}
+{"time":"2025-03-06T12:00:35.217092628+05:30","level":"INFO","msg":"stream: started","id":"e7ube3fn"}
+{"time":"2025-03-06T12:00:35.218781252+05:30","level":"INFO","msg":"handler: started","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:00:35.218826601+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:00:35.219016866+05:30","level":"INFO","msg":"sender: started","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:00:35.706264671+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:02:18.90080007+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:02:18.901594759+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:02:19.904128799+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.239977975,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.239969459,"progress":"244B/244B"}],"total_operations":2}}
+{"time":"2025-03-06T12:02:20.383600594+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:02:21.716548844+05:30","level":"INFO","msg":"stream: closing","id":"e7ube3fn"}
+{"time":"2025-03-06T12:02:21.716569346+05:30","level":"INFO","msg":"handler: closed","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:02:21.716582663+05:30","level":"INFO","msg":"sender: closed","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:02:21.716580648+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"e7ube3fn"}
+{"time":"2025-03-06T12:02:21.716664859+05:30","level":"INFO","msg":"stream: closed","id":"e7ube3fn"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T08:48:52.222308185+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_084852-7y9aifxa/logs/debug-core.log"}
+{"time":"2025-03-06T08:48:52.326943576+05:30","level":"INFO","msg":"created new stream","id":"7y9aifxa"}
+{"time":"2025-03-06T08:48:52.32702107+05:30","level":"INFO","msg":"stream: started","id":"7y9aifxa"}
+{"time":"2025-03-06T08:48:52.327040244+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:48:52.327047857+05:30","level":"INFO","msg":"sender: started","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:48:52.327101621+05:30","level":"INFO","msg":"handler: started","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:48:52.722582374+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T08:50:00.264455709+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T08:50:00.26520713+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T08:50:01.267971878+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.384486362,"progress":"239B/239B"},{"desc":"uploading config.yaml","runtime_seconds":0.10746909,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-06T08:50:01.689079307+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T08:50:03.065137464+05:30","level":"INFO","msg":"stream: closing","id":"7y9aifxa"}
+{"time":"2025-03-06T08:50:03.065157922+05:30","level":"INFO","msg":"handler: closed","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:50:03.065175408+05:30","level":"INFO","msg":"sender: closed","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:50:03.065170293+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"7y9aifxa"}
+{"time":"2025-03-06T08:50:03.065234927+05:30","level":"INFO","msg":"stream: closed","id":"7y9aifxa"}

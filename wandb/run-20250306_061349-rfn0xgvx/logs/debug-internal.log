@@ -1,0 +1,16 @@
+{"time":"2025-03-06T06:13:49.649321153+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_061349-rfn0xgvx/logs/debug-core.log"}
+{"time":"2025-03-06T06:13:49.754180348+05:30","level":"INFO","msg":"created new stream","id":"rfn0xgvx"}
+{"time":"2025-03-06T06:13:49.754207795+05:30","level":"INFO","msg":"stream: started","id":"rfn0xgvx"}
+{"time":"2025-03-06T06:13:49.754278681+05:30","level":"INFO","msg":"handler: started","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:13:49.754280122+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:13:49.754355518+05:30","level":"INFO","msg":"sender: started","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:13:50.121000935+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T06:14:55.47114039+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T06:14:55.471834606+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T06:14:56.474514521+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.27265078,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.272643136,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T06:14:56.827634805+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T06:14:58.149772276+05:30","level":"INFO","msg":"stream: closing","id":"rfn0xgvx"}
+{"time":"2025-03-06T06:14:58.149789452+05:30","level":"INFO","msg":"handler: closed","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:14:58.149798605+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:14:58.149806372+05:30","level":"INFO","msg":"sender: closed","stream_id":"rfn0xgvx"}
+{"time":"2025-03-06T06:14:58.14984806+05:30","level":"INFO","msg":"stream: closed","id":"rfn0xgvx"}

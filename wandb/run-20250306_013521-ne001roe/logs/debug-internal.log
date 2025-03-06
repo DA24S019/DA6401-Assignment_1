@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:35:21.116547064+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_013521-ne001roe/logs/debug-core.log"}
+{"time":"2025-03-06T01:35:21.221369276+05:30","level":"INFO","msg":"created new stream","id":"ne001roe"}
+{"time":"2025-03-06T01:35:21.221391616+05:30","level":"INFO","msg":"stream: started","id":"ne001roe"}
+{"time":"2025-03-06T01:35:21.221431576+05:30","level":"INFO","msg":"sender: started","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:21.221423676+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:21.221495225+05:30","level":"INFO","msg":"handler: started","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:21.566004144+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:35:51.992158357+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:35:51.992812752+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:35:52.955822932+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.262582589}],"total_operations":1}}
+{"time":"2025-03-06T01:35:54.358877967+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:35:55.685864636+05:30","level":"INFO","msg":"stream: closing","id":"ne001roe"}
+{"time":"2025-03-06T01:35:55.685904357+05:30","level":"INFO","msg":"handler: closed","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:55.685917988+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:55.685988449+05:30","level":"INFO","msg":"sender: closed","stream_id":"ne001roe"}
+{"time":"2025-03-06T01:35:55.686022102+05:30","level":"INFO","msg":"stream: closed","id":"ne001roe"}

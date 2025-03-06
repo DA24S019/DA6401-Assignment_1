@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:47:37.916439817+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_224737-ag62v0yz/logs/debug-core.log"}
+{"time":"2025-03-05T22:47:38.020588654+05:30","level":"INFO","msg":"created new stream","id":"ag62v0yz"}
+{"time":"2025-03-05T22:47:38.020614982+05:30","level":"INFO","msg":"stream: started","id":"ag62v0yz"}
+{"time":"2025-03-05T22:47:38.020640832+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:47:38.020646728+05:30","level":"INFO","msg":"sender: started","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:47:38.020710925+05:30","level":"INFO","msg":"handler: started","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:47:38.345086557+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:48:09.568314334+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:48:09.569404365+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:48:10.571914638+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.435296306,"progress":"239B/239B"},{"desc":"uploading config.yaml","runtime_seconds":0.135590408,"progress":"889B/889B"}],"total_operations":2}}
+{"time":"2025-03-05T22:48:11.458910836+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:48:12.784646846+05:30","level":"INFO","msg":"stream: closing","id":"ag62v0yz"}
+{"time":"2025-03-05T22:48:12.784675702+05:30","level":"INFO","msg":"handler: closed","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:48:12.784683472+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:48:12.784720963+05:30","level":"INFO","msg":"sender: closed","stream_id":"ag62v0yz"}
+{"time":"2025-03-05T22:48:12.78474924+05:30","level":"INFO","msg":"stream: closed","id":"ag62v0yz"}

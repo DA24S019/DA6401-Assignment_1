@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:22:30.627381729+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_112230-kzby6wmk/logs/debug-core.log"}
+{"time":"2025-03-06T11:22:30.731431502+05:30","level":"INFO","msg":"created new stream","id":"kzby6wmk"}
+{"time":"2025-03-06T11:22:30.731453142+05:30","level":"INFO","msg":"stream: started","id":"kzby6wmk"}
+{"time":"2025-03-06T11:22:30.731506434+05:30","level":"INFO","msg":"handler: started","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:22:30.73149901+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:22:30.731566973+05:30","level":"INFO","msg":"sender: started","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:22:31.070478056+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:24:16.643856984+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:24:16.64502636+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:24:17.646969822+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.208408218,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.208385671,"progress":"244B/244B"}],"total_operations":2}}
+{"time":"2025-03-06T11:24:18.075237197+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:24:19.564079051+05:30","level":"INFO","msg":"stream: closing","id":"kzby6wmk"}
+{"time":"2025-03-06T11:24:19.564095104+05:30","level":"INFO","msg":"handler: closed","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:24:19.564109304+05:30","level":"INFO","msg":"sender: closed","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:24:19.564105861+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kzby6wmk"}
+{"time":"2025-03-06T11:24:19.564164577+05:30","level":"INFO","msg":"stream: closed","id":"kzby6wmk"}

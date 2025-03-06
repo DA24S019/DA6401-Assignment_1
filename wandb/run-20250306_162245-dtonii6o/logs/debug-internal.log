@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:22:45.118877959+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_162245-dtonii6o/logs/debug-core.log"}
+{"time":"2025-03-06T16:22:45.22254009+05:30","level":"INFO","msg":"created new stream","id":"dtonii6o"}
+{"time":"2025-03-06T16:22:45.222562479+05:30","level":"INFO","msg":"stream: started","id":"dtonii6o"}
+{"time":"2025-03-06T16:22:45.222586276+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:22:45.222595594+05:30","level":"INFO","msg":"sender: started","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:22:45.222607818+05:30","level":"INFO","msg":"handler: started","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:22:45.552091223+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:23:16.146367486+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:23:16.147110134+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:23:17.110348793+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.62606418,"progress":"239B/239B"},{"desc":"uploading config.yaml","runtime_seconds":0.311878207,"progress":"890B/890B"}],"total_operations":2}}
+{"time":"2025-03-06T16:23:17.81310189+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:23:19.243031991+05:30","level":"INFO","msg":"stream: closing","id":"dtonii6o"}
+{"time":"2025-03-06T16:23:19.243052509+05:30","level":"INFO","msg":"handler: closed","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:23:19.243077868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:23:19.243086032+05:30","level":"INFO","msg":"sender: closed","stream_id":"dtonii6o"}
+{"time":"2025-03-06T16:23:19.243152322+05:30","level":"INFO","msg":"stream: closed","id":"dtonii6o"}

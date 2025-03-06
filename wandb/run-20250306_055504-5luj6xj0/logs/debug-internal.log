@@ -1,0 +1,16 @@
+{"time":"2025-03-06T05:55:04.394017137+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_055504-5luj6xj0/logs/debug-core.log"}
+{"time":"2025-03-06T05:55:04.499089085+05:30","level":"INFO","msg":"created new stream","id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:04.499128733+05:30","level":"INFO","msg":"stream: started","id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:04.499193191+05:30","level":"INFO","msg":"handler: started","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:04.499192224+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:04.499236467+05:30","level":"INFO","msg":"sender: started","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:04.820647432+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T05:55:35.486830307+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T05:55:35.487522381+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T05:55:36.489934786+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.506480757,"progress":"239B/239B"},{"desc":"uploading config.yaml","runtime_seconds":0.238920166,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T05:55:37.37093923+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T05:55:38.711460277+05:30","level":"INFO","msg":"stream: closing","id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:38.711476728+05:30","level":"INFO","msg":"handler: closed","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:38.711494677+05:30","level":"INFO","msg":"sender: closed","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:38.711487736+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5luj6xj0"}
+{"time":"2025-03-06T05:55:38.711546157+05:30","level":"INFO","msg":"stream: closed","id":"5luj6xj0"}

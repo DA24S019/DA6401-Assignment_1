@@ -1,0 +1,16 @@
+{"time":"2025-03-05T19:42:28.327710407+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_194228-8zbrrve3/logs/debug-core.log"}
+{"time":"2025-03-05T19:42:28.431444443+05:30","level":"INFO","msg":"created new stream","id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:28.431469215+05:30","level":"INFO","msg":"stream: started","id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:28.431486054+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:28.431512003+05:30","level":"INFO","msg":"sender: started","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:28.431550192+05:30","level":"INFO","msg":"handler: started","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:28.779754213+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T19:42:40.578866807+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T19:42:40.579610205+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T19:42:41.532031794+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T19:42:41.583684999+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-4, summary, console lines 0-4","runtime_seconds":0.051485313}],"total_operations":1}}
+{"time":"2025-03-05T19:42:42.884511425+05:30","level":"INFO","msg":"stream: closing","id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:42.88453437+05:30","level":"INFO","msg":"handler: closed","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:42.884554294+05:30","level":"INFO","msg":"sender: closed","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:42.884547839+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8zbrrve3"}
+{"time":"2025-03-05T19:42:42.884623829+05:30","level":"INFO","msg":"stream: closed","id":"8zbrrve3"}

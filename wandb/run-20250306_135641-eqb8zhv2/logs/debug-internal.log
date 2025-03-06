@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:56:41.838389076+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_135641-eqb8zhv2/logs/debug-core.log"}
+{"time":"2025-03-06T13:56:41.943020829+05:30","level":"INFO","msg":"created new stream","id":"eqb8zhv2"}
+{"time":"2025-03-06T13:56:41.94305951+05:30","level":"INFO","msg":"stream: started","id":"eqb8zhv2"}
+{"time":"2025-03-06T13:56:41.943102867+05:30","level":"INFO","msg":"handler: started","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:56:41.943129456+05:30","level":"INFO","msg":"sender: started","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:56:41.943153751+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:56:42.271840091+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:59:49.839151427+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:59:49.840081849+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:59:50.842056495+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.539283665},{"desc":"uploading wandb-summary.json","runtime_seconds":0.165959166,"progress":"244B/244B"},{"desc":"uploading output.log","runtime_seconds":0.165952199,"progress":"420B/420B"}],"total_operations":3}}
+{"time":"2025-03-06T13:59:51.863696908+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:59:53.169588327+05:30","level":"INFO","msg":"stream: closing","id":"eqb8zhv2"}
+{"time":"2025-03-06T13:59:53.169610385+05:30","level":"INFO","msg":"handler: closed","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:59:53.169629303+05:30","level":"INFO","msg":"sender: closed","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:59:53.169624517+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eqb8zhv2"}
+{"time":"2025-03-06T13:59:53.169687809+05:30","level":"INFO","msg":"stream: closed","id":"eqb8zhv2"}

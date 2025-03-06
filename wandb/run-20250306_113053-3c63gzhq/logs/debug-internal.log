@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:30:53.986417467+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_113053-3c63gzhq/logs/debug-core.log"}
+{"time":"2025-03-06T11:30:54.090659332+05:30","level":"INFO","msg":"created new stream","id":"3c63gzhq"}
+{"time":"2025-03-06T11:30:54.090689042+05:30","level":"INFO","msg":"stream: started","id":"3c63gzhq"}
+{"time":"2025-03-06T11:30:54.090779517+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:30:54.090779241+05:30","level":"INFO","msg":"sender: started","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:30:54.090856244+05:30","level":"INFO","msg":"handler: started","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:30:54.594743643+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:32:05.454366415+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:32:05.454939768+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:32:06.458549657+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.20381778,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.203810787,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T11:32:06.927947523+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:32:08.248321939+05:30","level":"INFO","msg":"stream: closing","id":"3c63gzhq"}
+{"time":"2025-03-06T11:32:08.248352594+05:30","level":"INFO","msg":"handler: closed","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:32:08.248362541+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:32:08.248414542+05:30","level":"INFO","msg":"sender: closed","stream_id":"3c63gzhq"}
+{"time":"2025-03-06T11:32:08.248449239+05:30","level":"INFO","msg":"stream: closed","id":"3c63gzhq"}

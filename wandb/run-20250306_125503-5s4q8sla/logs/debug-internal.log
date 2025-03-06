@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:55:03.659739893+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_125503-5s4q8sla/logs/debug-core.log"}
+{"time":"2025-03-06T12:55:03.764331505+05:30","level":"INFO","msg":"created new stream","id":"5s4q8sla"}
+{"time":"2025-03-06T12:55:03.764359947+05:30","level":"INFO","msg":"stream: started","id":"5s4q8sla"}
+{"time":"2025-03-06T12:55:03.764376499+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:55:03.764397524+05:30","level":"INFO","msg":"sender: started","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:55:03.764430404+05:30","level":"INFO","msg":"handler: started","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:55:04.308561311+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:56:14.115028948+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:56:14.115747294+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:56:15.119232602+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.312424495,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.312413862,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T12:56:15.501299649+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:56:16.850622035+05:30","level":"INFO","msg":"stream: closing","id":"5s4q8sla"}
+{"time":"2025-03-06T12:56:16.850638231+05:30","level":"INFO","msg":"handler: closed","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:56:16.850646252+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:56:16.850651744+05:30","level":"INFO","msg":"sender: closed","stream_id":"5s4q8sla"}
+{"time":"2025-03-06T12:56:16.850712111+05:30","level":"INFO","msg":"stream: closed","id":"5s4q8sla"}

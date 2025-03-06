@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:35:53.110433515+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_113553-f93hwn6v/logs/debug-core.log"}
+{"time":"2025-03-06T11:35:53.213854436+05:30","level":"INFO","msg":"created new stream","id":"f93hwn6v"}
+{"time":"2025-03-06T11:35:53.213877536+05:30","level":"INFO","msg":"stream: started","id":"f93hwn6v"}
+{"time":"2025-03-06T11:35:53.213894861+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:35:53.213902964+05:30","level":"INFO","msg":"handler: started","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:35:53.213964774+05:30","level":"INFO","msg":"sender: started","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:35:53.696591784+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:37:30.988275051+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:37:30.989060598+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:37:31.993478028+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.278273659,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.278262375,"progress":"228B/228B"}],"total_operations":2}}
+{"time":"2025-03-06T11:37:33.252825952+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:37:34.606848206+05:30","level":"INFO","msg":"stream: closing","id":"f93hwn6v"}
+{"time":"2025-03-06T11:37:34.606865878+05:30","level":"INFO","msg":"handler: closed","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:37:34.606874679+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:37:34.606885884+05:30","level":"INFO","msg":"sender: closed","stream_id":"f93hwn6v"}
+{"time":"2025-03-06T11:37:34.606937755+05:30","level":"INFO","msg":"stream: closed","id":"f93hwn6v"}

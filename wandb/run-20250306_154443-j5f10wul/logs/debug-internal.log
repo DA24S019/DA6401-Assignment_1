@@ -1,0 +1,16 @@
+{"time":"2025-03-06T15:44:43.518244215+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_154443-j5f10wul/logs/debug-core.log"}
+{"time":"2025-03-06T15:44:43.622809505+05:30","level":"INFO","msg":"created new stream","id":"j5f10wul"}
+{"time":"2025-03-06T15:44:43.622837079+05:30","level":"INFO","msg":"stream: started","id":"j5f10wul"}
+{"time":"2025-03-06T15:44:43.622859512+05:30","level":"INFO","msg":"handler: started","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:44:43.622935922+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:44:43.622954106+05:30","level":"INFO","msg":"sender: started","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:44:44.104382119+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T15:46:42.262683347+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T15:46:42.263374991+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T15:46:43.265610607+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.333955711,"progress":"244B/244B"},{"desc":"uploading config.yaml","runtime_seconds":0.119334447,"progress":"888B/888B"}],"total_operations":2}}
+{"time":"2025-03-06T15:46:43.681109194+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T15:46:45.02162687+05:30","level":"INFO","msg":"stream: closing","id":"j5f10wul"}
+{"time":"2025-03-06T15:46:45.021645822+05:30","level":"INFO","msg":"handler: closed","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:46:45.021679379+05:30","level":"INFO","msg":"sender: closed","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:46:45.021674064+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j5f10wul"}
+{"time":"2025-03-06T15:46:45.021729613+05:30","level":"INFO","msg":"stream: closed","id":"j5f10wul"}

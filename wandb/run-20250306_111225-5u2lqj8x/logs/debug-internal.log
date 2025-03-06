@@ -1,0 +1,16 @@
+{"time":"2025-03-06T11:12:25.178510388+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_111225-5u2lqj8x/logs/debug-core.log"}
+{"time":"2025-03-06T11:12:25.282039204+05:30","level":"INFO","msg":"created new stream","id":"5u2lqj8x"}
+{"time":"2025-03-06T11:12:25.282068215+05:30","level":"INFO","msg":"stream: started","id":"5u2lqj8x"}
+{"time":"2025-03-06T11:12:25.282112514+05:30","level":"INFO","msg":"handler: started","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:12:25.282127632+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:12:25.282151171+05:30","level":"INFO","msg":"sender: started","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:12:25.777797067+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T11:13:32.193203218+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T11:13:32.19401579+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T11:13:33.197139487+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.301732163,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.301724607,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T11:13:34.222992561+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T11:13:35.540056622+05:30","level":"INFO","msg":"stream: closing","id":"5u2lqj8x"}
+{"time":"2025-03-06T11:13:35.540091431+05:30","level":"INFO","msg":"handler: closed","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:13:35.540101544+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:13:35.540107844+05:30","level":"INFO","msg":"sender: closed","stream_id":"5u2lqj8x"}
+{"time":"2025-03-06T11:13:35.540192619+05:30","level":"INFO","msg":"stream: closed","id":"5u2lqj8x"}

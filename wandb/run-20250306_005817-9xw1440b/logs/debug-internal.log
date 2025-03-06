@@ -1,0 +1,16 @@
+{"time":"2025-03-06T00:58:17.234702704+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_005817-9xw1440b/logs/debug-core.log"}
+{"time":"2025-03-06T00:58:17.338446695+05:30","level":"INFO","msg":"created new stream","id":"9xw1440b"}
+{"time":"2025-03-06T00:58:17.338478805+05:30","level":"INFO","msg":"stream: started","id":"9xw1440b"}
+{"time":"2025-03-06T00:58:17.338513285+05:30","level":"INFO","msg":"handler: started","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:58:17.338553186+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:58:17.338555336+05:30","level":"INFO","msg":"sender: started","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:58:17.698597511+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T00:59:26.93341819+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T00:59:26.933991563+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T00:59:27.938290346+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.413267055,"progress":"241B/241B"},{"desc":"uploading config.yaml","runtime_seconds":0.149267553,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-06T00:59:28.130299027+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T00:59:29.45710657+05:30","level":"INFO","msg":"stream: closing","id":"9xw1440b"}
+{"time":"2025-03-06T00:59:29.457128436+05:30","level":"INFO","msg":"handler: closed","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:59:29.457155688+05:30","level":"INFO","msg":"sender: closed","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:59:29.457139468+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9xw1440b"}
+{"time":"2025-03-06T00:59:29.457251632+05:30","level":"INFO","msg":"stream: closed","id":"9xw1440b"}

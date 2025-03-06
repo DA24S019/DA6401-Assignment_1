@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:31:03.920819076+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_133103-plm16b2t/logs/debug-core.log"}
+{"time":"2025-03-06T13:31:04.025231525+05:30","level":"INFO","msg":"created new stream","id":"plm16b2t"}
+{"time":"2025-03-06T13:31:04.025272551+05:30","level":"INFO","msg":"stream: started","id":"plm16b2t"}
+{"time":"2025-03-06T13:31:04.025344216+05:30","level":"INFO","msg":"handler: started","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:31:04.025344218+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:31:04.025386359+05:30","level":"INFO","msg":"sender: started","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:31:04.506704329+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:32:09.118201169+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:32:09.118799097+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:32:10.132150452+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.277659262,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.277637083,"progress":"242B/242B"}],"total_operations":2}}
+{"time":"2025-03-06T13:32:10.701796015+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:32:12.041485939+05:30","level":"INFO","msg":"stream: closing","id":"plm16b2t"}
+{"time":"2025-03-06T13:32:12.041500595+05:30","level":"INFO","msg":"handler: closed","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:32:12.041508699+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:32:12.041516187+05:30","level":"INFO","msg":"sender: closed","stream_id":"plm16b2t"}
+{"time":"2025-03-06T13:32:12.041562321+05:30","level":"INFO","msg":"stream: closed","id":"plm16b2t"}

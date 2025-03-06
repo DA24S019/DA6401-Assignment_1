@@ -1,0 +1,16 @@
+{"time":"2025-03-05T18:56:04.608547063+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_185604-zbmjxxp9/logs/debug-core.log"}
+{"time":"2025-03-05T18:56:04.711815545+05:30","level":"INFO","msg":"created new stream","id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:04.711868947+05:30","level":"INFO","msg":"stream: started","id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:04.711882308+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:04.711907932+05:30","level":"INFO","msg":"sender: started","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:04.711952589+05:30","level":"INFO","msg":"handler: started","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:05.031508947+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T18:56:43.604884111+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T18:56:43.605954418+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T18:56:44.608537946+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.680214455,"progress":"214B/214B"},{"desc":"uploading config.yaml","runtime_seconds":0.133276678,"progress":"891B/891B"}],"total_operations":2}}
+{"time":"2025-03-05T18:56:45.234184313+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T18:56:46.575859318+05:30","level":"INFO","msg":"stream: closing","id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:46.575876673+05:30","level":"INFO","msg":"handler: closed","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:46.575890451+05:30","level":"INFO","msg":"sender: closed","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:46.575884993+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zbmjxxp9"}
+{"time":"2025-03-05T18:56:46.575947343+05:30","level":"INFO","msg":"stream: closed","id":"zbmjxxp9"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T21:36:16.967255968+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_213616-8d2h9bkz/logs/debug-core.log"}
+{"time":"2025-03-05T21:36:17.070784489+05:30","level":"INFO","msg":"created new stream","id":"8d2h9bkz"}
+{"time":"2025-03-05T21:36:17.070805541+05:30","level":"INFO","msg":"stream: started","id":"8d2h9bkz"}
+{"time":"2025-03-05T21:36:17.070872543+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:36:17.070878857+05:30","level":"INFO","msg":"sender: started","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:36:17.070922086+05:30","level":"INFO","msg":"handler: started","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:36:17.495465851+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:37:07.043828129+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:37:07.044967501+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:37:08.047192395+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-3, summary, console lines 3-3","runtime_seconds":4.787337817},{"desc":"uploading config.yaml","runtime_seconds":0.15028945,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-05T21:37:08.239843439+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:37:20.125618195+05:30","level":"INFO","msg":"stream: closing","id":"8d2h9bkz"}
+{"time":"2025-03-05T21:37:20.125641779+05:30","level":"INFO","msg":"handler: closed","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:37:20.125654545+05:30","level":"INFO","msg":"sender: closed","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:37:20.125652869+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"8d2h9bkz"}
+{"time":"2025-03-05T21:37:20.125722386+05:30","level":"INFO","msg":"stream: closed","id":"8d2h9bkz"}

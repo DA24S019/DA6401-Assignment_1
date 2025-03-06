@@ -1,0 +1,16 @@
+{"time":"2025-03-06T07:52:58.512458665+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_075258-kaoibikh/logs/debug-core.log"}
+{"time":"2025-03-06T07:52:58.616998574+05:30","level":"INFO","msg":"created new stream","id":"kaoibikh"}
+{"time":"2025-03-06T07:52:58.61703144+05:30","level":"INFO","msg":"stream: started","id":"kaoibikh"}
+{"time":"2025-03-06T07:52:58.617041218+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:52:58.617087863+05:30","level":"INFO","msg":"handler: started","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:52:58.617169206+05:30","level":"INFO","msg":"sender: started","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:52:58.944648092+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T07:54:54.929807444+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T07:54:54.930584205+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T07:54:55.934708094+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.389655608,"progress":"242B/242B"},{"desc":"uploading config.yaml","runtime_seconds":0.102139898,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T07:54:56.179043284+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T07:54:57.512272326+05:30","level":"INFO","msg":"stream: closing","id":"kaoibikh"}
+{"time":"2025-03-06T07:54:57.512306899+05:30","level":"INFO","msg":"handler: closed","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:54:57.512323832+05:30","level":"INFO","msg":"sender: closed","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:54:57.51231767+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kaoibikh"}
+{"time":"2025-03-06T07:54:57.51238878+05:30","level":"INFO","msg":"stream: closed","id":"kaoibikh"}

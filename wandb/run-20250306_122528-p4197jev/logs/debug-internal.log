@@ -1,0 +1,16 @@
+{"time":"2025-03-06T12:25:28.134900319+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_122528-p4197jev/logs/debug-core.log"}
+{"time":"2025-03-06T12:25:28.23936298+05:30","level":"INFO","msg":"created new stream","id":"p4197jev"}
+{"time":"2025-03-06T12:25:28.239393741+05:30","level":"INFO","msg":"stream: started","id":"p4197jev"}
+{"time":"2025-03-06T12:25:28.239453534+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:25:28.239462363+05:30","level":"INFO","msg":"sender: started","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:25:28.239574149+05:30","level":"INFO","msg":"handler: started","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:25:28.548776148+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T12:28:29.125936744+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T12:28:29.127378346+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T12:28:30.130126794+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.315785094,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.315777714,"progress":"243B/243B"},{"desc":"uploading config.yaml","runtime_seconds":0.029636044,"progress":"888B/888B"}],"total_operations":3}}
+{"time":"2025-03-06T12:28:31.187392235+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T12:28:32.503170764+05:30","level":"INFO","msg":"stream: closing","id":"p4197jev"}
+{"time":"2025-03-06T12:28:32.503186572+05:30","level":"INFO","msg":"handler: closed","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:28:32.50319455+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:28:32.503205223+05:30","level":"INFO","msg":"sender: closed","stream_id":"p4197jev"}
+{"time":"2025-03-06T12:28:32.503248751+05:30","level":"INFO","msg":"stream: closed","id":"p4197jev"}

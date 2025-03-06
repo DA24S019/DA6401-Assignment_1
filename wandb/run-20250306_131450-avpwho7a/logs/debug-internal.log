@@ -1,0 +1,16 @@
+{"time":"2025-03-06T13:14:50.308797585+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_131450-avpwho7a/logs/debug-core.log"}
+{"time":"2025-03-06T13:14:50.412882543+05:30","level":"INFO","msg":"created new stream","id":"avpwho7a"}
+{"time":"2025-03-06T13:14:50.412907516+05:30","level":"INFO","msg":"stream: started","id":"avpwho7a"}
+{"time":"2025-03-06T13:14:50.414186902+05:30","level":"INFO","msg":"sender: started","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:14:50.414221859+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:14:50.414232838+05:30","level":"INFO","msg":"handler: started","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:14:51.234358533+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T13:15:53.208494386+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T13:15:53.209194049+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T13:15:54.21225122+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.272137005,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.272127534,"progress":"229B/229B"}],"total_operations":2}}
+{"time":"2025-03-06T13:15:54.65014432+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T13:15:56.383289287+05:30","level":"INFO","msg":"stream: closing","id":"avpwho7a"}
+{"time":"2025-03-06T13:15:56.383305426+05:30","level":"INFO","msg":"handler: closed","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:15:56.383322819+05:30","level":"INFO","msg":"sender: closed","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:15:56.383316684+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"avpwho7a"}
+{"time":"2025-03-06T13:15:56.383364759+05:30","level":"INFO","msg":"stream: closed","id":"avpwho7a"}

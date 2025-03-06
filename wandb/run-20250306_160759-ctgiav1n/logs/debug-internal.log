@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:07:59.452046604+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_160759-ctgiav1n/logs/debug-core.log"}
+{"time":"2025-03-06T16:07:59.557238898+05:30","level":"INFO","msg":"created new stream","id":"ctgiav1n"}
+{"time":"2025-03-06T16:07:59.557273298+05:30","level":"INFO","msg":"stream: started","id":"ctgiav1n"}
+{"time":"2025-03-06T16:07:59.557292501+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:07:59.557315681+05:30","level":"INFO","msg":"handler: started","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:07:59.557370975+05:30","level":"INFO","msg":"sender: started","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:07:59.916672371+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:10:20.10840744+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:10:20.109176297+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:10:21.112526971+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.306870733,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.306834016,"progress":"229B/229B"}],"total_operations":2}}
+{"time":"2025-03-06T16:10:21.441683969+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:10:22.786334728+05:30","level":"INFO","msg":"stream: closing","id":"ctgiav1n"}
+{"time":"2025-03-06T16:10:22.786353688+05:30","level":"INFO","msg":"handler: closed","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:10:22.786362163+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:10:22.786374177+05:30","level":"INFO","msg":"sender: closed","stream_id":"ctgiav1n"}
+{"time":"2025-03-06T16:10:22.786425018+05:30","level":"INFO","msg":"stream: closed","id":"ctgiav1n"}

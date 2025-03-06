@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:21:32.924769202+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_012132-wrdxxjsq/logs/debug-core.log"}
+{"time":"2025-03-06T01:21:33.028811671+05:30","level":"INFO","msg":"created new stream","id":"wrdxxjsq"}
+{"time":"2025-03-06T01:21:33.028838836+05:30","level":"INFO","msg":"stream: started","id":"wrdxxjsq"}
+{"time":"2025-03-06T01:21:33.028871464+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:21:33.028908764+05:30","level":"INFO","msg":"sender: started","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:21:33.028944584+05:30","level":"INFO","msg":"handler: started","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:21:33.37395546+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:22:27.863667694+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:22:27.864279755+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:22:28.866464969+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.676790592,"progress":"224B/224B"},{"desc":"uploading config.yaml","runtime_seconds":0.356423983,"progress":"882B/882B"}],"total_operations":2}}
+{"time":"2025-03-06T01:22:29.500327193+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:22:30.849843686+05:30","level":"INFO","msg":"stream: closing","id":"wrdxxjsq"}
+{"time":"2025-03-06T01:22:30.849861717+05:30","level":"INFO","msg":"handler: closed","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:22:30.849870494+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:22:30.849879366+05:30","level":"INFO","msg":"sender: closed","stream_id":"wrdxxjsq"}
+{"time":"2025-03-06T01:22:30.849920545+05:30","level":"INFO","msg":"stream: closed","id":"wrdxxjsq"}

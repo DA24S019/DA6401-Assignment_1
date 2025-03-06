@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:46:54.720598725+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_224654-xvb4m0wk/logs/debug-core.log"}
+{"time":"2025-03-05T22:46:54.825201187+05:30","level":"INFO","msg":"created new stream","id":"xvb4m0wk"}
+{"time":"2025-03-05T22:46:54.825249706+05:30","level":"INFO","msg":"stream: started","id":"xvb4m0wk"}
+{"time":"2025-03-05T22:46:54.825261356+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:46:54.825288793+05:30","level":"INFO","msg":"sender: started","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:46:54.8253278+05:30","level":"INFO","msg":"handler: started","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:46:55.215937923+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:47:29.949124987+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:47:29.950601623+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:47:30.953580346+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.694213641,"progress":"228B/228B"},{"desc":"uploading config.yaml","runtime_seconds":0.363111914,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-05T22:47:31.593722524+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:47:32.907383144+05:30","level":"INFO","msg":"stream: closing","id":"xvb4m0wk"}
+{"time":"2025-03-05T22:47:32.907405312+05:30","level":"INFO","msg":"handler: closed","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:47:32.907413818+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:47:32.907438592+05:30","level":"INFO","msg":"sender: closed","stream_id":"xvb4m0wk"}
+{"time":"2025-03-05T22:47:32.907462866+05:30","level":"INFO","msg":"stream: closed","id":"xvb4m0wk"}

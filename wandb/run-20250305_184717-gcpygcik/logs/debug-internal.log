@@ -1,0 +1,16 @@
+{"time":"2025-03-05T18:47:17.380380833+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_184717-gcpygcik/logs/debug-core.log"}
+{"time":"2025-03-05T18:47:17.485099168+05:30","level":"INFO","msg":"created new stream","id":"gcpygcik"}
+{"time":"2025-03-05T18:47:17.485138759+05:30","level":"INFO","msg":"stream: started","id":"gcpygcik"}
+{"time":"2025-03-05T18:47:17.485216769+05:30","level":"INFO","msg":"sender: started","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:17.485208468+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:17.485286809+05:30","level":"INFO","msg":"handler: started","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:17.825951244+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T18:47:43.005584709+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T18:47:43.006894829+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T18:47:43.959212297+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T18:47:44.008960582+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-4, summary, console lines 3-4","runtime_seconds":0.049540167}],"total_operations":1}}
+{"time":"2025-03-05T18:47:45.298727796+05:30","level":"INFO","msg":"stream: closing","id":"gcpygcik"}
+{"time":"2025-03-05T18:47:45.298747507+05:30","level":"INFO","msg":"handler: closed","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:45.298757995+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:45.298790437+05:30","level":"INFO","msg":"sender: closed","stream_id":"gcpygcik"}
+{"time":"2025-03-05T18:47:45.298812442+05:30","level":"INFO","msg":"stream: closed","id":"gcpygcik"}

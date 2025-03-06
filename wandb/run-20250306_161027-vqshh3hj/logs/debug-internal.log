@@ -1,0 +1,16 @@
+{"time":"2025-03-06T16:10:27.961488723+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_161027-vqshh3hj/logs/debug-core.log"}
+{"time":"2025-03-06T16:10:28.06558945+05:30","level":"INFO","msg":"created new stream","id":"vqshh3hj"}
+{"time":"2025-03-06T16:10:28.065618015+05:30","level":"INFO","msg":"stream: started","id":"vqshh3hj"}
+{"time":"2025-03-06T16:10:28.065672929+05:30","level":"INFO","msg":"handler: started","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:10:28.065714814+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:10:28.065734603+05:30","level":"INFO","msg":"sender: started","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:10:28.437174666+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T16:12:41.31303672+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T16:12:41.313877443+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T16:12:42.323643998+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.308538663,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.308519005,"progress":"241B/241B"}],"total_operations":2}}
+{"time":"2025-03-06T16:12:42.738390533+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T16:12:44.044727033+05:30","level":"INFO","msg":"stream: closing","id":"vqshh3hj"}
+{"time":"2025-03-06T16:12:44.044747703+05:30","level":"INFO","msg":"handler: closed","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:12:44.044762578+05:30","level":"INFO","msg":"sender: closed","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:12:44.044759275+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vqshh3hj"}
+{"time":"2025-03-06T16:12:44.044812708+05:30","level":"INFO","msg":"stream: closed","id":"vqshh3hj"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-05T22:43:30.669802239+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_224330-6roxssp0/logs/debug-core.log"}
+{"time":"2025-03-05T22:43:30.77364997+05:30","level":"INFO","msg":"created new stream","id":"6roxssp0"}
+{"time":"2025-03-05T22:43:30.7736911+05:30","level":"INFO","msg":"stream: started","id":"6roxssp0"}
+{"time":"2025-03-05T22:43:30.773711398+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:43:30.773713698+05:30","level":"INFO","msg":"sender: started","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:43:30.773768183+05:30","level":"INFO","msg":"handler: started","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:43:31.094393016+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T22:44:59.259704768+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T22:44:59.260329308+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T22:45:00.263615354+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.337909926,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.10549074,"progress":"884B/884B"}],"total_operations":2}}
+{"time":"2025-03-05T22:45:00.507321525+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T22:45:01.814563191+05:30","level":"INFO","msg":"stream: closing","id":"6roxssp0"}
+{"time":"2025-03-05T22:45:01.814579029+05:30","level":"INFO","msg":"handler: closed","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:45:01.814601062+05:30","level":"INFO","msg":"sender: closed","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:45:01.81459469+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6roxssp0"}
+{"time":"2025-03-05T22:45:01.814655411+05:30","level":"INFO","msg":"stream: closed","id":"6roxssp0"}

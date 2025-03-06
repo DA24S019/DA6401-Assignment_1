@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:16:39.858503982+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_011639-4ngbu0x1/logs/debug-core.log"}
+{"time":"2025-03-06T01:16:39.962348332+05:30","level":"INFO","msg":"created new stream","id":"4ngbu0x1"}
+{"time":"2025-03-06T01:16:39.962375986+05:30","level":"INFO","msg":"stream: started","id":"4ngbu0x1"}
+{"time":"2025-03-06T01:16:39.962436367+05:30","level":"INFO","msg":"sender: started","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:16:39.962432477+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:16:39.962492477+05:30","level":"INFO","msg":"handler: started","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:16:40.338341854+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:17:10.672229003+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:17:10.673471816+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:17:11.635033824+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.120172157,"progress":"210B/210B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.120150853,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-06T01:17:12.804139953+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:17:14.118897267+05:30","level":"INFO","msg":"stream: closing","id":"4ngbu0x1"}
+{"time":"2025-03-06T01:17:14.118915799+05:30","level":"INFO","msg":"handler: closed","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:17:14.118929544+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:17:14.11893672+05:30","level":"INFO","msg":"sender: closed","stream_id":"4ngbu0x1"}
+{"time":"2025-03-06T01:17:14.118997388+05:30","level":"INFO","msg":"stream: closed","id":"4ngbu0x1"}

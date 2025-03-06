@@ -1,0 +1,16 @@
+{"time":"2025-03-06T17:51:08.502367916+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_175108-erykuvkd/logs/debug-core.log"}
+{"time":"2025-03-06T17:51:08.607351686+05:30","level":"INFO","msg":"created new stream","id":"erykuvkd"}
+{"time":"2025-03-06T17:51:08.607398256+05:30","level":"INFO","msg":"stream: started","id":"erykuvkd"}
+{"time":"2025-03-06T17:51:08.607412977+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:51:08.607419359+05:30","level":"INFO","msg":"sender: started","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:51:08.607528005+05:30","level":"INFO","msg":"handler: started","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:51:09.062378659+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T17:52:26.551891753+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T17:52:26.552756424+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T17:52:27.557329564+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.415034034,"progress":"420B/420B"},{"desc":"uploading config.yaml","runtime_seconds":0.122765004,"progress":"883B/883B"}],"total_operations":2}}
+{"time":"2025-03-06T17:52:28.456200739+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T17:52:29.860319908+05:30","level":"INFO","msg":"stream: closing","id":"erykuvkd"}
+{"time":"2025-03-06T17:52:29.860347269+05:30","level":"INFO","msg":"handler: closed","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:52:29.860360035+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:52:29.860372067+05:30","level":"INFO","msg":"sender: closed","stream_id":"erykuvkd"}
+{"time":"2025-03-06T17:52:29.860449292+05:30","level":"INFO","msg":"stream: closed","id":"erykuvkd"}

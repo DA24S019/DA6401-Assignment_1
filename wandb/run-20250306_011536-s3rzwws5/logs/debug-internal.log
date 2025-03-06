@@ -1,0 +1,16 @@
+{"time":"2025-03-06T01:15:36.3946634+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_011536-s3rzwws5/logs/debug-core.log"}
+{"time":"2025-03-06T01:15:36.499618265+05:30","level":"INFO","msg":"created new stream","id":"s3rzwws5"}
+{"time":"2025-03-06T01:15:36.499663793+05:30","level":"INFO","msg":"stream: started","id":"s3rzwws5"}
+{"time":"2025-03-06T01:15:36.501662003+05:30","level":"INFO","msg":"handler: started","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:15:36.501666509+05:30","level":"INFO","msg":"sender: started","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:15:36.501723773+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:15:36.86145446+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T01:16:34.473665056+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T01:16:34.474549645+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T01:16:35.477206552+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.69634855,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.399958761,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-06T01:16:36.11425035+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T01:16:37.425887442+05:30","level":"INFO","msg":"stream: closing","id":"s3rzwws5"}
+{"time":"2025-03-06T01:16:37.425908569+05:30","level":"INFO","msg":"handler: closed","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:16:37.425921502+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:16:37.425926083+05:30","level":"INFO","msg":"sender: closed","stream_id":"s3rzwws5"}
+{"time":"2025-03-06T01:16:37.425987368+05:30","level":"INFO","msg":"stream: closed","id":"s3rzwws5"}

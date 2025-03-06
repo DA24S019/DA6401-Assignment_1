@@ -1,0 +1,16 @@
+{"time":"2025-03-05T23:22:12.212559773+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_232212-uq7rioyq/logs/debug-core.log"}
+{"time":"2025-03-05T23:22:12.316635617+05:30","level":"INFO","msg":"created new stream","id":"uq7rioyq"}
+{"time":"2025-03-05T23:22:12.316663381+05:30","level":"INFO","msg":"stream: started","id":"uq7rioyq"}
+{"time":"2025-03-05T23:22:12.316732423+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:22:12.31673908+05:30","level":"INFO","msg":"sender: started","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:22:12.316799052+05:30","level":"INFO","msg":"handler: started","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:22:12.634783166+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T23:23:27.96516858+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T23:23:27.965808528+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T23:23:28.968490304+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.152217839,"progress":"210B/210B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.152209756,"progress":"239B/239B"}],"total_operations":2}}
+{"time":"2025-03-05T23:23:29.43659688+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T23:23:30.752853249+05:30","level":"INFO","msg":"stream: closing","id":"uq7rioyq"}
+{"time":"2025-03-05T23:23:30.752871763+05:30","level":"INFO","msg":"handler: closed","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:23:30.752899943+05:30","level":"INFO","msg":"sender: closed","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:23:30.752893861+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"uq7rioyq"}
+{"time":"2025-03-05T23:23:30.752967802+05:30","level":"INFO","msg":"stream: closed","id":"uq7rioyq"}

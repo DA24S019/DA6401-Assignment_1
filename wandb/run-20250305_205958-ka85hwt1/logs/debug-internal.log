@@ -1,0 +1,16 @@
+{"time":"2025-03-05T20:59:58.015378803+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250305_205958-ka85hwt1/logs/debug-core.log"}
+{"time":"2025-03-05T20:59:58.11977077+05:30","level":"INFO","msg":"created new stream","id":"ka85hwt1"}
+{"time":"2025-03-05T20:59:58.119801762+05:30","level":"INFO","msg":"stream: started","id":"ka85hwt1"}
+{"time":"2025-03-05T20:59:58.119832019+05:30","level":"INFO","msg":"handler: started","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T20:59:58.119827935+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T20:59:58.119871469+05:30","level":"INFO","msg":"sender: started","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T20:59:58.667168517+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T21:00:43.732322782+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T21:00:43.732994381+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T21:00:44.735870182+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3-4, summary, console lines 3-4","runtime_seconds":0.352153207},{"desc":"uploading config.yaml","runtime_seconds":0.111897312,"progress":"885B/885B"}],"total_operations":2}}
+{"time":"2025-03-05T21:00:44.989257907+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T21:00:46.294955573+05:30","level":"INFO","msg":"stream: closing","id":"ka85hwt1"}
+{"time":"2025-03-05T21:00:46.294985907+05:30","level":"INFO","msg":"handler: closed","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T21:00:46.295006658+05:30","level":"INFO","msg":"sender: closed","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T21:00:46.294999581+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ka85hwt1"}
+{"time":"2025-03-05T21:00:46.295064079+05:30","level":"INFO","msg":"stream: closed","id":"ka85hwt1"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-06T04:28:06.445678668+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250306_042806-68rhhuk5/logs/debug-core.log"}
+{"time":"2025-03-06T04:28:06.550076697+05:30","level":"INFO","msg":"created new stream","id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:06.550104884+05:30","level":"INFO","msg":"stream: started","id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:06.550151292+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:06.55016344+05:30","level":"INFO","msg":"handler: started","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:06.550218153+05:30","level":"INFO","msg":"sender: started","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:06.90926659+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T04:28:24.162468783+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T04:28:24.163725878+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T04:28:25.164927596+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.64717255,"progress":"238B/238B"},{"desc":"uploading config.yaml","runtime_seconds":0.411057336,"progress":"886B/886B"}],"total_operations":2}}
+{"time":"2025-03-06T04:28:25.823925696+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T04:28:27.200380821+05:30","level":"INFO","msg":"stream: closing","id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:27.200400874+05:30","level":"INFO","msg":"handler: closed","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:27.200431356+05:30","level":"INFO","msg":"sender: closed","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:27.200424401+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"68rhhuk5"}
+{"time":"2025-03-06T04:28:27.200479779+05:30","level":"INFO","msg":"stream: closed","id":"68rhhuk5"}
