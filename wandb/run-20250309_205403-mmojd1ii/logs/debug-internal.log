@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:54:03.438076923+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_205403-mmojd1ii/logs/debug-core.log"}
+{"time":"2025-03-09T20:54:03.543502057+05:30","level":"INFO","msg":"created new stream","id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:03.54353134+05:30","level":"INFO","msg":"stream: started","id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:03.543561629+05:30","level":"INFO","msg":"sender: started","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:03.543540049+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:03.543657452+05:30","level":"INFO","msg":"handler: started","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:03.90344162+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:54:05.090860026+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:54:05.091397004+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:54:06.093355272+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-mmojd1ii-conf_mat_test_data_table","runtime_seconds":1.198565275,"subtasks":[{"desc":"conf_mat_test_data_table.table.json","runtime_seconds":0.027059046,"progress":"3.3KB/3.3KB"}]}],"total_operations":1}}
+{"time":"2025-03-09T20:54:07.597034512+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:54:08.943504059+05:30","level":"INFO","msg":"stream: closing","id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:08.943520462+05:30","level":"INFO","msg":"handler: closed","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:08.943528739+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:08.943539703+05:30","level":"INFO","msg":"sender: closed","stream_id":"mmojd1ii"}
+{"time":"2025-03-09T20:54:08.943569351+05:30","level":"INFO","msg":"stream: closed","id":"mmojd1ii"}

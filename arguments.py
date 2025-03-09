@@ -4,7 +4,7 @@ def get_args():
     parser = argparse.ArgumentParser(description="Train a Feedforward Neural Network with W&B")
 
     parser.add_argument("-wp", "--wandb_project", type=str, default="myprojectname",
-                        help="Project name for W&B")s
+                        help="Project name for W&B")
     parser.add_argument("-we", "--wandb_entity", type=str, default="myname",
                         help="W&B Entity")
 

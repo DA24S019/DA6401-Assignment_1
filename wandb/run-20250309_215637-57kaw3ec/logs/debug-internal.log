@@ -1,0 +1,16 @@
+{"time":"2025-03-09T21:56:37.028630621+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_215637-57kaw3ec/logs/debug-core.log"}
+{"time":"2025-03-09T21:56:37.134885751+05:30","level":"INFO","msg":"created new stream","id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:37.134915184+05:30","level":"INFO","msg":"stream: started","id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:37.134973171+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:37.134996057+05:30","level":"INFO","msg":"sender: started","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:37.135012618+05:30","level":"INFO","msg":"handler: started","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:37.470717594+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T21:56:38.230456769+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T21:56:38.231098969+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T21:56:39.199499309+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-57kaw3ec-conf_mat_test_data_table","runtime_seconds":0.716101323},{"desc":"uploading media/table/conf_mat_test_data_table_0_9b3969f88adfb0058642.table.json","runtime_seconds":0.403705874,"progress":"2.8KB/2.8KB"},{"desc":"uploading output.log","runtime_seconds":0.403675463},{"desc":"uploading config.yaml","runtime_seconds":0.115222818,"progress":"1.9KB/1.9KB"}],"total_operations":4}}
+{"time":"2025-03-09T21:56:41.022887191+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T21:56:42.356238494+05:30","level":"INFO","msg":"stream: closing","id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:42.356257467+05:30","level":"INFO","msg":"handler: closed","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:42.356265593+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:42.356274218+05:30","level":"INFO","msg":"sender: closed","stream_id":"57kaw3ec"}
+{"time":"2025-03-09T21:56:42.356321795+05:30","level":"INFO","msg":"stream: closed","id":"57kaw3ec"}

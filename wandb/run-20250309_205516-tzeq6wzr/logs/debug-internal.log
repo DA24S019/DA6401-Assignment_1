@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:55:16.035950726+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_205516-tzeq6wzr/logs/debug-core.log"}
+{"time":"2025-03-09T20:55:16.14096825+05:30","level":"INFO","msg":"created new stream","id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:16.140992571+05:30","level":"INFO","msg":"stream: started","id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:16.141038399+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:16.141049038+05:30","level":"INFO","msg":"sender: started","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:16.141061067+05:30","level":"INFO","msg":"handler: started","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:16.669345373+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:55:17.457634538+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:55:17.458136694+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:55:18.424174492+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-tzeq6wzr-conf_mat_test_data_table","runtime_seconds":0.596588569},{"desc":"uploading media/table/conf_mat_test_data_table_0_bd08f7368a59490b70a3.table.json","runtime_seconds":0.14005089,"progress":"2.9KB/2.9KB"},{"desc":"uploading output.log","runtime_seconds":0.14004253},{"desc":"uploading wandb-summary.json","runtime_seconds":0.140039094,"progress":"762B/762B"}],"total_operations":4}}
+{"time":"2025-03-09T20:55:20.652771966+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:55:21.959161137+05:30","level":"INFO","msg":"stream: closing","id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:21.959180135+05:30","level":"INFO","msg":"handler: closed","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:21.95921203+05:30","level":"INFO","msg":"sender: closed","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:21.959209836+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tzeq6wzr"}
+{"time":"2025-03-09T20:55:21.959283996+05:30","level":"INFO","msg":"stream: closed","id":"tzeq6wzr"}

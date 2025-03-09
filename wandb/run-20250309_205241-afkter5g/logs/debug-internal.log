@@ -1,0 +1,16 @@
+{"time":"2025-03-09T20:52:41.977480182+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_205241-afkter5g/logs/debug-core.log"}
+{"time":"2025-03-09T20:52:42.085695206+05:30","level":"INFO","msg":"created new stream","id":"afkter5g"}
+{"time":"2025-03-09T20:52:42.085718053+05:30","level":"INFO","msg":"stream: started","id":"afkter5g"}
+{"time":"2025-03-09T20:52:42.08573026+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:42.085737804+05:30","level":"INFO","msg":"sender: started","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:42.085749236+05:30","level":"INFO","msg":"handler: started","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:42.504497189+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T20:52:43.136946873+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T20:52:43.137465705+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T20:52:44.10263114+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-afkter5g-conf_mat_test_data_table","runtime_seconds":0.669617364},{"desc":"uploading media/table/conf_mat_test_data_table_0_718a9112885447b8213e.table.json","runtime_seconds":0.358197065,"progress":"2.9KB/2.9KB"},{"desc":"uploading config.yaml","runtime_seconds":0.077489817,"progress":"1.9KB/1.9KB"}],"total_operations":3}}
+{"time":"2025-03-09T20:52:46.030356222+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T20:52:47.3848134+05:30","level":"INFO","msg":"stream: closing","id":"afkter5g"}
+{"time":"2025-03-09T20:52:47.384831491+05:30","level":"INFO","msg":"handler: closed","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:47.384852394+05:30","level":"INFO","msg":"sender: closed","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:47.384850319+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"afkter5g"}
+{"time":"2025-03-09T20:52:47.384898342+05:30","level":"INFO","msg":"stream: closed","id":"afkter5g"}
