@@ -1,6 +1,6 @@
-Github Reposatarylink : https://api.wandb.ai/links/da24s019-indian-institute-of-technology-madras/st30khic 
+Github Repository link : https://api.wandb.ai/links/da24s019-indian-institute-of-technology-madras/st30khic 
 
-Report Link : https://github.com/DA24S019/DA6401-Assignment_1.git 
+Wandb Report Link : https://github.com/DA24S019/DA6401-Assignment_1.git 
 
 
 The code in the .py files implement neural network and deep learning to train and test Fashion MNIST and MNIST datset.
