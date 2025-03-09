@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:19:40.776637323+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_211940-38xzpuce/logs/debug-core.log"}
+{"time":"2025-03-07T21:19:40.881823852+05:30","level":"INFO","msg":"created new stream","id":"38xzpuce"}
+{"time":"2025-03-07T21:19:40.881853869+05:30","level":"INFO","msg":"stream: started","id":"38xzpuce"}
+{"time":"2025-03-07T21:19:40.881920999+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:40.881953429+05:30","level":"INFO","msg":"sender: started","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:40.88199568+05:30","level":"INFO","msg":"handler: started","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:41.212941576+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:19:41.988613588+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:19:41.989118823+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:19:42.950342754+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.213699481,"progress":"915B/915B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.213676797,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T21:19:43.367250623+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:19:44.696241085+05:30","level":"INFO","msg":"stream: closing","id":"38xzpuce"}
+{"time":"2025-03-07T21:19:44.696268957+05:30","level":"INFO","msg":"handler: closed","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:44.696287977+05:30","level":"INFO","msg":"sender: closed","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:44.696280665+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"38xzpuce"}
+{"time":"2025-03-07T21:19:44.696368864+05:30","level":"INFO","msg":"stream: closed","id":"38xzpuce"}

@@ -1,0 +1,33 @@
+2025-03-09 13:45:14,216 INFO    MainThread:53919 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_134514-4pul2lhv/logs/debug.log
+2025-03-09 13:45:14,217 INFO    MainThread:53919 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_134514-4pul2lhv/logs/debug-internal.log
+2025-03-09 13:45:14,217 INFO    MainThread:53919 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x767bf945a030>
+2025-03-09 13:45:14,219 INFO    MainThread:53919 [wandb_init.py:init():761] calling init triggers
+2025-03-09 13:45:14,219 INFO    MainThread:53919 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-03-09 13:45:14,219 INFO    MainThread:53919 [wandb_init.py:init():784] starting backend
+2025-03-09 13:45:14,219 INFO    MainThread:53919 [wandb_init.py:init():788] sending inform_init request
+2025-03-09 13:45:14,229 INFO    MainThread:53919 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-09 13:45:14,230 INFO    MainThread:53919 [wandb_init.py:init():803] backend started and connected
+2025-03-09 13:45:14,241 INFO    MainThread:53919 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-09 13:45:14,242 INFO    MainThread:53919 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-03-09 13:45:14,242 INFO    MainThread:53919 [wandb_init.py:init():896] updated telemetry
+2025-03-09 13:45:14,254 INFO    MainThread:53919 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-09 13:45:14,686 INFO    MainThread:53919 [wandb_init.py:init():995] starting run threads in backend
+2025-03-09 13:45:15,367 INFO    MainThread:53919 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-09 13:45:15,368 INFO    MainThread:53919 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-09 13:45:15,370 INFO    MainThread:53919 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-09 13:45:15,370 INFO    MainThread:53919 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-09 13:45:15,371 INFO    MainThread:53919 [wandb_init.py:init():1037] run started, returning control to user process
+2025-03-09 13:45:15,496 INFO    MainThread:53919 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'conf_mat_train_data') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'conf_mat_train_data_table'}], 'fields': []}]}]}}} None
+2025-03-09 13:45:15,852 INFO    MainThread:53919 [wandb_run.py:_config_callback():1261] config_cb ('_wandb', 'visualize', 'conf_mat_test_data') {'panel_type': 'Vega2', 'panel_config': {'panelDefId': 'wandb/confusion_matrix/v1', 'fieldSettings': {'Actual': 'Actual', 'Predicted': 'Predicted', 'nPredictions': 'nPredictions'}, 'stringSettings': {'title': 'Confusion Matrix Curve'}, 'transform': {'name': 'tableWithLeafColNames'}, 'userQuery': {'queryFields': [{'name': 'runSets', 'args': [{'name': 'runSets', 'value': '${runSets}'}], 'fields': [{'name': 'id', 'fields': []}, {'name': 'name', 'fields': []}, {'name': '_defaultColorIndex', 'fields': []}, {'name': 'summaryTable', 'args': [{'name': 'tableKey', 'value': 'conf_mat_test_data_table'}], 'fields': []}]}]}}} None
+2025-03-09 13:45:16,177 INFO    MainThread:53919 [wandb_run.py:_finish():2112] finishing run da24s019-indian-institute-of-technology-madras/Fashion-MNIST-Sweep/4pul2lhv
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [wandb_run.py:_restore():2324] restore
+2025-03-09 13:45:16,178 INFO    MainThread:53919 [wandb_run.py:_restore():2330] restore done
+2025-03-09 13:45:21,043 INFO    MsgRouterThr:53919 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-09 13:45:21,044 INFO    MainThread:53919 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-09 13:45:21,044 INFO    MainThread:53919 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-09 13:45:21,044 INFO    MainThread:53919 [wandb_run.py:_footer_sync_info():3919] logging synced files

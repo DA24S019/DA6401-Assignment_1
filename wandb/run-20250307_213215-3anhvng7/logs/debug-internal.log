@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:32:15.291306867+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_213215-3anhvng7/logs/debug-core.log"}
+{"time":"2025-03-07T21:32:15.395556518+05:30","level":"INFO","msg":"created new stream","id":"3anhvng7"}
+{"time":"2025-03-07T21:32:15.395582414+05:30","level":"INFO","msg":"stream: started","id":"3anhvng7"}
+{"time":"2025-03-07T21:32:15.395643854+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:15.395645235+05:30","level":"INFO","msg":"handler: started","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:15.395697975+05:30","level":"INFO","msg":"sender: started","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:15.753180927+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:32:16.571607554+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:32:16.572206301+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:32:17.535832575+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.172081984,"progress":"915B/915B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.172071335,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T21:32:18.060452039+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:32:19.416492095+05:30","level":"INFO","msg":"stream: closing","id":"3anhvng7"}
+{"time":"2025-03-07T21:32:19.416512749+05:30","level":"INFO","msg":"handler: closed","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:19.416528058+05:30","level":"INFO","msg":"sender: closed","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:19.416523883+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3anhvng7"}
+{"time":"2025-03-07T21:32:19.416593748+05:30","level":"INFO","msg":"stream: closed","id":"3anhvng7"}

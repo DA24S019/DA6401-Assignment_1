@@ -1,0 +1,16 @@
+{"time":"2025-03-09T18:14:42.256355984+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_181442-djebuot3/logs/debug-core.log"}
+{"time":"2025-03-09T18:14:42.361911647+05:30","level":"INFO","msg":"created new stream","id":"djebuot3"}
+{"time":"2025-03-09T18:14:42.361938476+05:30","level":"INFO","msg":"stream: started","id":"djebuot3"}
+{"time":"2025-03-09T18:14:42.361986243+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:42.36199641+05:30","level":"INFO","msg":"handler: started","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:42.362054977+05:30","level":"INFO","msg":"sender: started","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:42.767435796+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T18:14:43.925934475+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T18:14:43.926470461+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T18:14:44.928237931+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-djebuot3-conf_mat_test_data_table","runtime_seconds":1.169475621,"subtasks":[{"desc":"conf_mat_test_data_table.table.json","runtime_seconds":0.022089846,"progress":"3.3KB/3.3KB"}]},{"desc":"uploading config.yaml","runtime_seconds":0.304342062,"progress":"1.9KB/1.9KB"}],"total_operations":2}}
+{"time":"2025-03-09T18:14:46.374570817+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T18:14:47.721936332+05:30","level":"INFO","msg":"stream: closing","id":"djebuot3"}
+{"time":"2025-03-09T18:14:47.721957194+05:30","level":"INFO","msg":"handler: closed","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:47.721966759+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:47.721972682+05:30","level":"INFO","msg":"sender: closed","stream_id":"djebuot3"}
+{"time":"2025-03-09T18:14:47.722104441+05:30","level":"INFO","msg":"stream: closed","id":"djebuot3"}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/user/Documents/Books/DA24S019_Assignment_1/train_sweep.py", line 22, in train_sweep
+    nn = FeedforwardNeuralNetwork(
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FeedforwardNeuralNetwork.__init__() missing 1 required positional argument: 'batch_size'

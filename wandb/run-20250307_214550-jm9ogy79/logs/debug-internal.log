@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:45:50.253232072+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_214550-jm9ogy79/logs/debug-core.log"}
+{"time":"2025-03-07T21:45:50.357478362+05:30","level":"INFO","msg":"created new stream","id":"jm9ogy79"}
+{"time":"2025-03-07T21:45:50.357508917+05:30","level":"INFO","msg":"stream: started","id":"jm9ogy79"}
+{"time":"2025-03-07T21:45:50.357542783+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:45:50.357581641+05:30","level":"INFO","msg":"sender: started","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:45:50.357627598+05:30","level":"INFO","msg":"handler: started","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:45:50.727881812+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:48:35.156712435+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:48:35.157367965+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:48:36.160009336+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3555054,"progress":"231B/231B"},{"desc":"uploading config.yaml","runtime_seconds":0.019384419,"progress":"889B/889B"}],"total_operations":2}}
+{"time":"2025-03-07T21:48:36.482759178+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:48:37.854539964+05:30","level":"INFO","msg":"stream: closing","id":"jm9ogy79"}
+{"time":"2025-03-07T21:48:37.854559971+05:30","level":"INFO","msg":"handler: closed","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:48:37.854574426+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:48:37.854581393+05:30","level":"INFO","msg":"sender: closed","stream_id":"jm9ogy79"}
+{"time":"2025-03-07T21:48:37.854647194+05:30","level":"INFO","msg":"stream: closed","id":"jm9ogy79"}

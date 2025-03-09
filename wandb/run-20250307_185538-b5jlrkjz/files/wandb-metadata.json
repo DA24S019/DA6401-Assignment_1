@@ -1,0 +1,29 @@
+{
+  "os":  "Linux-6.8.0-52-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-03-07T13:25:38.368975Z",
+  "program":  "<python with no main file>",
+  "git":  {
+    "remote":  "git@github.com:DA24S019/DA6401-Assignment_1.git",
+    "commit":  "cdb948a0adba0aaa8cc0260f5b7e7d9f82d9e4c1"
+  },
+  "email":  "da24s019@smail.iitm.ac.in",
+  "root":  "/home/user/Documents/Books/DA24S019_Assignment_1",
+  "host":  "user-Precision-Tower-3620",
+  "executable":  "/home/user/anaconda3/bin/python",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "982820896768",
+      "used":  "96772481024"
+    }
+  },
+  "memory":  {
+    "total":  "33545678848"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}

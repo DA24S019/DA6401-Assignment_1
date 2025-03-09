@@ -1,0 +1,16 @@
+{"time":"2025-03-09T15:17:16.141496825+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_151716-mwsb27c3/logs/debug-core.log"}
+{"time":"2025-03-09T15:17:16.246155587+05:30","level":"INFO","msg":"created new stream","id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:16.246180469+05:30","level":"INFO","msg":"stream: started","id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:16.246239345+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:16.246246934+05:30","level":"INFO","msg":"sender: started","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:16.246336289+05:30","level":"INFO","msg":"handler: started","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:16.638333007+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T15:17:17.951641563+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T15:17:17.952114562+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T15:17:18.924516564+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.703181502,"progress":"1.0KB/1.0KB"},{"desc":"uploading media/images/Category Log_0_65989982ca9140b3494a.png","runtime_seconds":0.703175048,"progress":"523B/523B"},{"desc":"uploading output.log","runtime_seconds":0.703170452},{"desc":"uploading media/images/Category Log_0_7f9147937f711e4ba16e.png","runtime_seconds":0.703168307,"progress":"560B/560B"},{"desc":"uploading media/images/Category Log_0_f9ae28233f32bf80214f.png","runtime_seconds":0.703164668,"progress":"681B/681B"},{"desc":"uploading config.yaml","runtime_seconds":0.396828565,"progress":"581B/581B"}],"total_operations":6}}
+{"time":"2025-03-09T15:17:19.603813673+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T15:17:20.940653987+05:30","level":"INFO","msg":"stream: closing","id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:20.940681266+05:30","level":"INFO","msg":"handler: closed","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:20.940693162+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:20.940720031+05:30","level":"INFO","msg":"sender: closed","stream_id":"mwsb27c3"}
+{"time":"2025-03-09T15:17:20.940768424+05:30","level":"INFO","msg":"stream: closed","id":"mwsb27c3"}

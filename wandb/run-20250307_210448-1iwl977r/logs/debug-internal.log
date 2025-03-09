@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:04:48.711262294+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_210448-1iwl977r/logs/debug-core.log"}
+{"time":"2025-03-07T21:04:48.815983698+05:30","level":"INFO","msg":"created new stream","id":"1iwl977r"}
+{"time":"2025-03-07T21:04:48.816004918+05:30","level":"INFO","msg":"stream: started","id":"1iwl977r"}
+{"time":"2025-03-07T21:04:48.816062686+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:04:48.816091473+05:30","level":"INFO","msg":"handler: started","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:04:48.816101145+05:30","level":"INFO","msg":"sender: started","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:04:49.182303762+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:06:15.299578491+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:06:15.300545149+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:06:16.281717423+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.336784556,"progress":"420B/420B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.336776001,"progress":"240B/240B"}],"total_operations":2}}
+{"time":"2025-03-07T21:06:17.324541651+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:06:18.675943216+05:30","level":"INFO","msg":"stream: closing","id":"1iwl977r"}
+{"time":"2025-03-07T21:06:18.675957876+05:30","level":"INFO","msg":"handler: closed","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:06:18.675965589+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:06:18.67597448+05:30","level":"INFO","msg":"sender: closed","stream_id":"1iwl977r"}
+{"time":"2025-03-07T21:06:18.676017382+05:30","level":"INFO","msg":"stream: closed","id":"1iwl977r"}

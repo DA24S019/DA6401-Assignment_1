@@ -1,0 +1,16 @@
+{"time":"2025-03-09T13:45:14.221966018+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_134514-4pul2lhv/logs/debug-core.log"}
+{"time":"2025-03-09T13:45:14.327899293+05:30","level":"INFO","msg":"created new stream","id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:14.327931061+05:30","level":"INFO","msg":"stream: started","id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:14.327943831+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:14.328028043+05:30","level":"INFO","msg":"handler: started","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:14.328047991+05:30","level":"INFO","msg":"sender: started","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:14.689931184+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T13:45:16.180082027+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T13:45:16.181571984+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T13:45:17.189103347+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-4pul2lhv-conf_mat_train_data_table","runtime_seconds":1.201130747,"subtasks":[{"desc":"conf_mat_train_data_table.table.json","runtime_seconds":0.077895955,"progress":"3.3KB/3.3KB"}]},{"desc":"uploading artifact run-4pul2lhv-conf_mat_test_data_table","runtime_seconds":1.024473772}],"total_operations":2}}
+{"time":"2025-03-09T13:45:19.716406383+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T13:45:21.048245917+05:30","level":"INFO","msg":"stream: closing","id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:21.048270271+05:30","level":"INFO","msg":"handler: closed","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:21.048283356+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:21.04833842+05:30","level":"INFO","msg":"sender: closed","stream_id":"4pul2lhv"}
+{"time":"2025-03-09T13:45:21.048349116+05:30","level":"INFO","msg":"stream: closed","id":"4pul2lhv"}

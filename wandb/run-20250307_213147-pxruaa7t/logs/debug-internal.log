@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:31:48.004021324+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_213147-pxruaa7t/logs/debug-core.log"}
+{"time":"2025-03-07T21:31:48.107554316+05:30","level":"INFO","msg":"created new stream","id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:48.107590935+05:30","level":"INFO","msg":"stream: started","id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:48.107612168+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:48.107631988+05:30","level":"INFO","msg":"handler: started","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:48.107650397+05:30","level":"INFO","msg":"sender: started","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:48.749951768+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:31:49.54577926+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:31:49.546369495+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:31:50.509739435+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.134271211,"progress":"915B/915B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.134250111,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T21:31:51.024073935+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:31:52.374519621+05:30","level":"INFO","msg":"stream: closing","id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:52.374535989+05:30","level":"INFO","msg":"handler: closed","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:52.374551246+05:30","level":"INFO","msg":"sender: closed","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:52.374547854+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pxruaa7t"}
+{"time":"2025-03-07T21:31:52.374601239+05:30","level":"INFO","msg":"stream: closed","id":"pxruaa7t"}

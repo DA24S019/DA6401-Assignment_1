@@ -1,0 +1,16 @@
+{"time":"2025-03-07T19:04:09.676629049+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_190409-sg6t14er/logs/debug-core.log"}
+{"time":"2025-03-07T19:04:09.781468352+05:30","level":"INFO","msg":"created new stream","id":"sg6t14er"}
+{"time":"2025-03-07T19:04:09.78150947+05:30","level":"INFO","msg":"stream: started","id":"sg6t14er"}
+{"time":"2025-03-07T19:04:09.781525179+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:04:09.781527742+05:30","level":"INFO","msg":"sender: started","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:04:09.781593325+05:30","level":"INFO","msg":"handler: started","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:04:10.099832705+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T19:05:14.284516247+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T19:05:14.285739753+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T19:05:15.288679176+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.372650333,"progress":"228B/228B"},{"desc":"uploading config.yaml","runtime_seconds":0.109905249,"progress":"887B/887B"}],"total_operations":2}}
+{"time":"2025-03-07T19:05:16.228971561+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T19:05:17.619425682+05:30","level":"INFO","msg":"stream: closing","id":"sg6t14er"}
+{"time":"2025-03-07T19:05:17.619443424+05:30","level":"INFO","msg":"handler: closed","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:05:17.619461668+05:30","level":"INFO","msg":"sender: closed","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:05:17.619455001+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sg6t14er"}
+{"time":"2025-03-07T19:05:17.619517615+05:30","level":"INFO","msg":"stream: closed","id":"sg6t14er"}

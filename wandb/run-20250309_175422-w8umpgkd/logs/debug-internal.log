@@ -1,0 +1,16 @@
+{"time":"2025-03-09T17:54:22.610155186+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250309_175422-w8umpgkd/logs/debug-core.log"}
+{"time":"2025-03-09T17:54:22.715178536+05:30","level":"INFO","msg":"created new stream","id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:22.715205775+05:30","level":"INFO","msg":"stream: started","id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:22.715265527+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:22.715387776+05:30","level":"INFO","msg":"handler: started","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:22.715407193+05:30","level":"INFO","msg":"sender: started","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:23.107704049+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T17:54:24.036640349+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T17:54:24.037133449+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T17:54:25.03959785+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-w8umpgkd-conf_mat_train_data_table","runtime_seconds":1.02294858},{"desc":"uploading artifact run-w8umpgkd-conf_mat_test_data_table","runtime_seconds":1.007821395},{"desc":"uploading config.yaml","runtime_seconds":0.383179949,"progress":"3.2KB/3.2KB"}],"total_operations":3}}
+{"time":"2025-03-09T17:54:28.068532214+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T17:54:29.389128236+05:30","level":"INFO","msg":"stream: closing","id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:29.389153777+05:30","level":"INFO","msg":"handler: closed","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:29.389166+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:29.389172421+05:30","level":"INFO","msg":"sender: closed","stream_id":"w8umpgkd"}
+{"time":"2025-03-09T17:54:29.389230294+05:30","level":"INFO","msg":"stream: closed","id":"w8umpgkd"}

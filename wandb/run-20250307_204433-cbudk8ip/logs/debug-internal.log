@@ -1,0 +1,16 @@
+{"time":"2025-03-07T20:44:33.763211604+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_204433-cbudk8ip/logs/debug-core.log"}
+{"time":"2025-03-07T20:44:33.869415105+05:30","level":"INFO","msg":"created new stream","id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:33.869480245+05:30","level":"INFO","msg":"stream: started","id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:33.869488294+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:33.869494599+05:30","level":"INFO","msg":"handler: started","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:33.869560032+05:30","level":"INFO","msg":"sender: started","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:34.227868315+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T20:44:35.145547307+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T20:44:35.146162949+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T20:44:36.109523246+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.2381931,"progress":"303B/303B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.238184723,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T20:44:36.539654054+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T20:44:37.877601063+05:30","level":"INFO","msg":"stream: closing","id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:37.877621189+05:30","level":"INFO","msg":"handler: closed","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:37.877644126+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:37.877666634+05:30","level":"INFO","msg":"sender: closed","stream_id":"cbudk8ip"}
+{"time":"2025-03-07T20:44:37.877711769+05:30","level":"INFO","msg":"stream: closed","id":"cbudk8ip"}

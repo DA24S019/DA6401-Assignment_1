@@ -1,0 +1,16 @@
+{"time":"2025-03-07T20:47:13.509707651+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_204713-66eau0yj/logs/debug-core.log"}
+{"time":"2025-03-07T20:47:13.614113097+05:30","level":"INFO","msg":"created new stream","id":"66eau0yj"}
+{"time":"2025-03-07T20:47:13.614148237+05:30","level":"INFO","msg":"stream: started","id":"66eau0yj"}
+{"time":"2025-03-07T20:47:13.614180441+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:13.614215916+05:30","level":"INFO","msg":"sender: started","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:13.614262099+05:30","level":"INFO","msg":"handler: started","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:13.948761779+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T20:47:14.754192261+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T20:47:14.759256302+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T20:47:15.718293175+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.216539494,"progress":"800B/800B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.216528059,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T20:47:16.129089144+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T20:47:17.448421365+05:30","level":"INFO","msg":"stream: closing","id":"66eau0yj"}
+{"time":"2025-03-07T20:47:17.448451777+05:30","level":"INFO","msg":"handler: closed","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:17.448460011+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:17.448470428+05:30","level":"INFO","msg":"sender: closed","stream_id":"66eau0yj"}
+{"time":"2025-03-07T20:47:17.448518911+05:30","level":"INFO","msg":"stream: closed","id":"66eau0yj"}

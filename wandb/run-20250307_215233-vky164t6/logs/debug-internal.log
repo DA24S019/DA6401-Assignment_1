@@ -1,0 +1,16 @@
+{"time":"2025-03-07T21:52:33.92269309+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_215233-vky164t6/logs/debug-core.log"}
+{"time":"2025-03-07T21:52:34.027421102+05:30","level":"INFO","msg":"created new stream","id":"vky164t6"}
+{"time":"2025-03-07T21:52:34.027454359+05:30","level":"INFO","msg":"stream: started","id":"vky164t6"}
+{"time":"2025-03-07T21:52:34.027499857+05:30","level":"INFO","msg":"sender: started","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:52:34.02749363+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:52:34.027543081+05:30","level":"INFO","msg":"handler: started","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:52:34.385792043+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T21:53:58.179077603+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T21:53:58.180003236+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T21:53:59.184549855+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.357771281,"progress":"210B/210B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.357750449,"progress":"238B/238B"}],"total_operations":2}}
+{"time":"2025-03-07T21:53:59.748067923+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T21:54:01.106552234+05:30","level":"INFO","msg":"stream: closing","id":"vky164t6"}
+{"time":"2025-03-07T21:54:01.106568394+05:30","level":"INFO","msg":"handler: closed","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:54:01.10657918+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:54:01.106644416+05:30","level":"INFO","msg":"sender: closed","stream_id":"vky164t6"}
+{"time":"2025-03-07T21:54:01.106654574+05:30","level":"INFO","msg":"stream: closed","id":"vky164t6"}

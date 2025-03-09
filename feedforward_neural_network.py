@@ -1,38 +1,8 @@
 import numpy as np
-from Backpropagation_Algorithms import SGD, Momentum, NAG, RMSprop, Adam, Nadam
-
+from optimizers import SGD, Momentum, NAG, RMSprop, Adam, Nadam
+from activation_functions import ActivationFunction
+from arguments import get_args
 ''' Class for activation functions and their derivatives '''
-class ActivationFunction:
-    ''' Sigmoid function '''
-    @staticmethod
-    def sigmoid(x, derivative=False):
-        x = np.array(x)
-        sig = 1 / (1 + np.exp(-x))
-        return sig * (1 - sig) if derivative else sig
-
-    ''' Tanh function '''
-    @staticmethod
-    def tanh(x, derivative=False):
-        x = np.array(x)
-        th = np.tanh(x)
-        return 1 - th**2 if derivative else th  
-
-    ''' ReLU function '''
-    @staticmethod
-    def relu(x, derivative=False):
-        x = np.array(x)
-        return np.where(x > 0, 1.0, 0.0) if derivative else np.maximum(0, x)
-
-    ''' Softmax function '''
-    @staticmethod
-    def softmax(x, derivative=False):
-        x = np.array(x)
-        exp_x = np.exp(x - np.max(x, axis=1, keepdims=True))  # Prevent overflow
-        softmax_x = exp_x / np.sum(exp_x, axis=1, keepdims=True)
-
-        if derivative:
-            return softmax_x * (1 - softmax_x)  # Incorrect for full derivative, handled differently
-        return softmax_x  
 
 
 ''' Initialize weights and biases '''
@@ -49,75 +19,92 @@ class WeightAndBiasInitializer:
         np.random.seed(42)
 
         for i in range(len(self.layer_sizes) - 1):
-            input_dim, output_dim = self.layer_sizes[i], self.layer_sizes[i + 1]
+            input_dimension, output_dimension = self.layer_sizes[i], self.layer_sizes[i + 1]
 
             # Weight Initialization
             if self.init_method == "random":
-                W = np.random.randn(input_dim, output_dim) * 0.01  # Small random values
+                limit=1
+                W=np.random.uniform(-limit, limit, size=(input_dimension, output_dimension))
+                #W = np.random.randn(input_dim, output_dim) * 0.01  # Small random values
             elif self.init_method == "xavier":
-                W = np.random.randn(input_dim, output_dim) * np.sqrt(1.0 / input_dim)
+                limit = np.sqrt(6 / (input_dimension + output_dimension))
+                W=np.random.uniform(-limit, limit, size=(input_dimension, output_dimension))
+                #W = np.random.randn(input_dimension, output_dimension) * np.sqrt(1.0 / input_dimension)
 
             self.weights.append(W)
-            self.biases.append(np.zeros((1, output_dim)))
+            self.biases.append(np.zeros((1, output_dimension)))
 
 
 ''' Feedforward Neural Network Implementation '''
 class FeedforwardNeuralNetwork:
-    def __init__(self, layer_sizes, activation="sigmoid", init_method="random", 
-                 learning_rate=0.1, weight_decay=0, batch_size=32, optimizer="sgd"):
+    def __init__(self, layer_sizes, activation, init_method, 
+                 learning_rate, weight_decay, batch_size, optimizer):
+        args=get_args()
+        
         self.layer_sizes = layer_sizes
         self.learning_rate = learning_rate
         self.weight_decay = weight_decay  # L2 Regularization
         self.batch_size = batch_size
         self.wab = WeightAndBiasInitializer(layer_sizes, init_method)
-        
+        self.momentum = args.momentum
+        self.epsilon = args.epsilon
+        self.beta1 =args.beta1
+        self.beta2 =args.beta2
+        self.loss_function=args.loss
+
+
         # Optimizer Selection
         optimizers = {
-            "sgd": SGD(learning_rate),
-            "momentum": Momentum(learning_rate),
-            "nesterov": NAG(learning_rate),
-            "rmsprop": RMSprop(learning_rate),
-            "adam": Adam(learning_rate),
-            "nadam": Nadam(learning_rate)
+            "sgd": SGD(self.learning_rate ),
+            "momentum": Momentum(self.learning_rate ,self.momentum),
+            "nesterov": NAG(self.learning_rate ,self.momentum),
+            "rmsprop": RMSprop(self.learning_rate ,self.weight_decay,self.epsilon),
+            "adam": Adam(self.learning_rate,self.beta1,self.beta2, self.epsilon),
+            "nadam": Nadam(self.learning_rate,self.beta1,self.beta2, self.epsilon )
         }
-        self.optimizer = optimizers.get(optimizer, SGD(learning_rate))  # Default to SGD
+        self.optimizer = optimizers[optimizer]  # Default to SGD
 
         # Activation function selection
         activation_functions = {
             "sigmoid": ActivationFunction.sigmoid,
             "tanh": ActivationFunction.tanh,
-            "relu": ActivationFunction.relu
+            "relu": ActivationFunction.relu,
+            "identity": ActivationFunction.identity
         }
-        if activation not in activation_functions:
-            raise ValueError(f"Unsupported activation function '{activation}'. Choose from {list(activation_functions.keys())}.")
+        
         self.activation_func = activation_functions[activation]
 
     ''' Forward Propagation '''
     def forwardProp(self, X):
-        self.A = [X]  # Input layer
-        self.Z = []   # Store pre-activation values
+        self.post_activation = [X]  # Input layer
+        self.pre_activation = []   # Store pre-activation values
 
         for i, (W, b) in enumerate(zip(self.wab.weights, self.wab.biases)):
-            Z = np.dot(self.A[-1], W) + b  # Linear transformation
+            Z = np.dot(self.post_activation[-1], W) + b  # Linear transformation
             if i == len(self.wab.weights) - 1:
                 A = ActivationFunction.softmax(Z)  # Softmax for last layer
             else:
                 A = self.activation_func(Z)  # Chosen activation for hidden layers
 
-            self.Z.append(Z)
-            self.A.append(A)
+            self.pre_activation.append(Z)
+            self.post_activation.append(A)
 
-        return self.A[-1]  # Output activations
+        return self.post_activation[-1]  # Output activations
 
-    ''' Backward Propagation with L2 Regularization '''
+    ''' Backward Propagation'''
     def backwardProp(self, X, Y):
         m = X.shape[0]
-        dA = self.A[-1] - Y
         dW, db = [], []
 
+        if self.loss_function == 'cross_entropy':
+            dA = self.post_activation[-1] - Y
+        elif self.loss_function == 'mean_squared_error':
+            dA = (self.post_activation[-1] - Y) * self.post_activation[-1] * (1 - self.post_activation[-1])   
+        
+
         for i in reversed(range(len(self.wab.weights))):
-            dZ = dA if i == len(self.wab.weights) - 1 else dA * self.activation_func(self.Z[i], derivative=True)
-            dW_i = np.dot(self.A[i].T, dZ) / m
+            dZ = dA if i == len(self.wab.weights) - 1 else dA * self.activation_func(self.pre_activation[i], derivative=True)
+            dW_i = np.dot(self.post_activation[i].T, dZ) / m
             db_i = np.sum(dZ, axis=0, keepdims=True) / m
 
             # Apply L2 Regularization
@@ -130,7 +117,7 @@ class FeedforwardNeuralNetwork:
         self.optimizer.update(self.wab.weights, self.wab.biases, dW, db)
 
     ''' Train the network with Mini-batch Gradient Descent '''
-    def train(self, X, Y, epochs=10, batch_size=32):
+    def train(self, X, Y, epochs, batch_size):
         m = X.shape[0]  # Total number of training samples
 
         for epoch in range(epochs):
@@ -191,13 +178,5 @@ class FeedforwardNeuralNetwork:
         accuracy = np.mean(predicted_labels == true_labels)
         return accuracy
     
-
-    def compute_loss(self, X, Y):
-        """
-        Computes the loss using cross-entropy.
-        """
-        output = self.forwardProp(X)
-        loss = -np.mean(Y * np.log(output + 1e-8))
-        return loss
 
 

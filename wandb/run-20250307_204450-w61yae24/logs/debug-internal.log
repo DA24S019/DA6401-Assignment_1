@@ -1,0 +1,16 @@
+{"time":"2025-03-07T20:44:50.109584298+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/user/Documents/Books/DA24S019_Assignment_1/wandb/run-20250307_204450-w61yae24/logs/debug-core.log"}
+{"time":"2025-03-07T20:44:50.213619622+05:30","level":"INFO","msg":"created new stream","id":"w61yae24"}
+{"time":"2025-03-07T20:44:50.213666838+05:30","level":"INFO","msg":"stream: started","id":"w61yae24"}
+{"time":"2025-03-07T20:44:50.213719781+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:50.213721845+05:30","level":"INFO","msg":"sender: started","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:50.213788125+05:30","level":"INFO","msg":"handler: started","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:50.560181802+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T20:44:51.351568235+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T20:44:51.352163948+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T20:44:52.318169676+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.262191089,"progress":"303B/303B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.262184236,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2025-03-07T20:44:52.760901879+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T20:44:54.076944916+05:30","level":"INFO","msg":"stream: closing","id":"w61yae24"}
+{"time":"2025-03-07T20:44:54.076959786+05:30","level":"INFO","msg":"handler: closed","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:54.076972692+05:30","level":"INFO","msg":"sender: closed","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:54.076966929+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w61yae24"}
+{"time":"2025-03-07T20:44:54.077032447+05:30","level":"INFO","msg":"stream: closed","id":"w61yae24"}
