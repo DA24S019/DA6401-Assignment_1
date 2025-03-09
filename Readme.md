@@ -45,3 +45,37 @@ numpy
 matplotlib
 wandb
 
+/DA6401-Assignment_1
+│
+├── activavtion_functions.py
+│   - Contains the class of activation functions used within the neural network.
+│
+├── arguments.py
+│   - Specifies code parameters and hyperparameters as outlined in the assignment.
+│
+├── best_hyperparameters.py
+│   - Uses the best hyperparameters from the sweep to generate a confusion matrix for the test data.
+│
+├── dataset_loader.py
+│   - Loads the MNIST or Fashion-MNIST dataset and returns training, validation, and testing sets.
+│
+├── feedforward_neural_network.py
+│   - Implements the Neural Network class which includes:
+│     - train: Trains the neural network.
+│     - forward_propagation: Implements the forward propagation step.
+│     - back_propagation: Implements the back propagation step.
+│     - evaluate: Computes validation accuracy and loss.
+│     - predict: Predicts output for given input samples.
+│
+├── optimizers.py
+│   - Implements six optimizers used for network training:
+│     - SGD, Momentum, Nesterov Accelerated Gradient, RMSprop, Adam, Nadam.
+│
+├── sweep_config.py
+│   - Contains the hyperparameter sweep configuration for W&B.
+│
+├── train_sweep.py
+│   - Implements hyperparameter tuning for the network using W&B sweep functionality.
+│
+├── README.md
+│   - This file.
